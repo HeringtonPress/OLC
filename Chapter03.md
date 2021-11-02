@@ -6,4 +6,6 @@
 # Chapter 3: Classes
 
 
-## The Basics of Equipment
+## Fighter
+
+
