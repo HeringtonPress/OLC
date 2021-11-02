@@ -1,8 +1,8 @@
 # HeringtonPress Law of Gaming
 
-##System Reference Document
+## System Reference Document
 
-###markdown format
+### markdown format
 
 This project is the system reference document for the HeringtonPress Law of Gaming System in markdown format.
 
