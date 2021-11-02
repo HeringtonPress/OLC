@@ -1,6 +1,6 @@
-# Adventurer Conqueror King System
+# One Last Coin
 
-**Rules for Roleplaying in a World of Swords, Sorcery, and Strongholds**
+**Rules for Roleplaying in a Deadly World of Swords, Sorcery, and Strongholds**
 
 
 ## Table of Contents
