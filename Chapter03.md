@@ -8,9 +8,9 @@
 
 ## Fighter
 
-Starting Equpment: leather armour, sword, bow, 20 arrows
+Starting Equpment: leather armour, sword, bow, 20 arrows.
 
-Starting Skill: Roll on the following table
+Starting Skill: Roll on the following table.
 
 **A:** Parry, +1 attack per round
 
@@ -51,40 +51,136 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
+| 1d4 | 1d6 | Fighter Skills | 
 | :-: | :-: | :----- | 
 | 1   | Farmer |     |
 |     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+|     | 2      | You are the [1d10+2]th son of a poor farmer. You needed to leave or risk starvation. If your siblings die you inherit the farm. |
+|     | 3      | Your farm and village were burned during a war. The only profession you could find other than begging is warfare. |
+|     | 4      | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1pp. |
+|     | 5      | Years of practice have made you a deadly shot. Gain 20 extra arrows and start with 10 Notches on your bow. |
+|     | 6      | You abandoned your family and your land to seek wealth, glory, and a better position. Gain 3 rations and lingering guilt. |
+| 2   | Soldier|     |
+|     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
+|     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
+|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 5gp and 1 camp follower. |
+|     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
+|     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
+|     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
+| 3   | Sailor |     |
+|     | 1      | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed. |
+|     | 2      | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves. |
+|     | 3      | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals. |
+|     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
+|     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
+|     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
+| 4   | Unusual|     |
+|     | 1      | Your parents, maddened by grief at the death of their first born, insisted you replace them. Gain the “Disguise” skill. |
+|     | 2      | You have a letter that proves you were a soldier transformed by a spell or curse. 10% chance this is true. Gain the “Law” skill. |
+|     | 3      | You were taken as a squire by a lecherous, poor, eccentric, or nearsighted knight. Gain the “Horses” skill. |
+|     | 4      | You’ll try your hand at anything. Roll twice on the Table of Professions, gaining both skills listed. |
+|     | 5      | You were part of the retinue of a powerful mercenary captain. Gain 10gp and the “Courtesy” skill. |
+|     | 6      | You were raised in a mercenary camp. Your manners are shocking. Gain 2 daggers and 1gp. |
 
 ## Barbarian
 
-Starting Equpment:
-Starting Skill:
+Starting Equpment: heavy weapon, leather armour.
 
-**A:**
+Starting Skill: Foreign Parts. Also, roll on the following table.
 
-**B:**
+**A:** Rage
 
-**C:**
+**B:** Danger Sense, A Taste of Home, +1 Stealth
 
-**D:**
+**C:** Feat of Strength, Die Hard
 
-Bonus
+**D:** Tough
 
-### A:
+You gain +2 HP for each Barbarian template you possess.
 
-### B:
+### A: Rage
 
-### C:
+You can choose to enter a rage at the start of your turn, or in response to taking damage. You might froth, or stare in battlefocus, or merely let a facade drop and give in to your ancient urges, brutal warrior training, or religious fanaticism.
 
-### D:
+While in a rage:
+
+- You gain +4 to Wisdom for Initiative purposes. You act before all other PCs in a round.
+- You gain +1 attack per round.
+- All your melee attacks inflict +1 damage.
+- You can only cast damaging spells. All your spells deal +2 damage (if single target) or +1 damage (if multiple targets).
+- You are immune to pain and fear.
+- You cannot do anything defensive, curative, or tactical with your allies. All you can do is attempt to kill things.
+- You cannot stop fighting until you kill, subdue, or drive off all enemies. If an ally has injured you this fight, they count as an enemy.
+
+To stop raging, Make a Wisdom Save at the start of your turn.
+
+### B: Danger Sense
+
+If you are surprised, you have a 50% chance to act in the surprise round anyway. If you encounter a creature no one in the group has seen before, you can roll under Intelligence to remember a detail or weakness, provided the creature is not unique.
+
+### B: A Taste of Home
+
+You can consume a special ration to regain 1d6+1 HP. This takes 1 round. Roll on the Table of Barbarian Delicacies. One “dose” costs 1gp and can be purchased in any trading city. 3 doses fit in a single inventory slot. You cannot eat while raging, but you can immediately enter a rage after eating the ration. If you have any Lethal Damage, you instead heal to 0 HP. If an ally waves the ration under you nose, you can roll under Constitution to wake up.
+
+### C: Feat of Strength
+
+Once per day, you have 22 Strength for 1 round. Your Strength bonus is +4.
+
+### C: Die Hard
+
+You have 4 rounds instead of 3 to remove all your Fatal Wounds.
+
+### D: Tough
+
+Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effects, including your save to end a Rage. 
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
+| 1d6 | 1d6 | Barbarian Skills | 
 | :-: | :-: | :----- | 
-| 1   | Farmer |     |
+| 1   | Mountaineer | You cannot wear chain or plate armour |
 |     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+|     | 2      | You are the [1d10+2]th son of a poor farmer. You needed to leave or risk starvation. If your siblings die you inherit the farm. |
+|     | 3      | Your farm and village were burned during a war. The only profession you could find other than begging is warfare. |
+|     | 4      | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1pp. |
+|     | 5      | Years of practice have made you a deadly shot. Gain 20 extra arrows and start with 10 Notches on your bow. |
+|     | 6      | You abandoned your family and your land to seek wealth, glory, and a better position. Gain 3 rations and lingering guilt. |
+| 2   | Soldier|     |
+|     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
+|     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
+|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 5gp and 1 camp follower. |
+|     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
+|     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
+|     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
+| 3   | Sailor |     |
+|     | 1      | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed. |
+|     | 2      | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves. |
+|     | 3      | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals. |
+|     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
+|     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
+|     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
+| 4   | Unusual|     |
+|     | 1      | Your parents, maddened by grief at the death of their first born, insisted you replace them. Gain the “Disguise” skill. |
+|     | 2      | You have a letter that proves you were a soldier transformed by a spell or curse. 10% chance this is true. Gain the “Law” skill. |
+|     | 3      | You were taken as a squire by a lecherous, poor, eccentric, or nearsighted knight. Gain the “Horses” skill. |
+|     | 4      | You’ll try your hand at anything. Roll twice on the Table of Professions, gaining both skills listed. |
+|     | 5      | You were part of the retinue of a powerful mercenary captain. Gain 10gp and the “Courtesy” skill. |
+|     | 6      | You were raised in a mercenary camp. Your manners are shocking. Gain 2 daggers and 1gp. |
+| 5   | Soldier|     |
+|     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
+|     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
+|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 5gp and 1 camp follower. |
+|     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
+|     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
+|     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
+| 6   | Sailor |     |
+|     | 1      | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed. |
+|     | 2      | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves. |
+|     | 3      | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals. |
+|     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
+|     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
+|     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
+
 
 ## Knight
 
