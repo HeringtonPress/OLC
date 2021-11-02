@@ -24,21 +24,21 @@ A newly created PC without any class templates is expected to be reasonably comp
 
 The basic, balanced, and entirely sensible classes. Suitable for new players, uncertain players, small groups, or a more grounded setting.
 
-- [Fighter](Chapter03.md##Fighter)
-- [Thief](Chapter03.md##Thief)
-- [Wizard](Chapter03.md##Wizard) [(Orthodox)](Chapter03.md##Orthodox Wizard)
+- [Fighter](Chapter03.md#Fighter)
+- [Thief](Chapter03.md#Thief)
+- [Wizard](Chapter03.md#Wizard) ([Orthodox](Chapter03.md#Orthodox-Wizard))
 
 ### Core Classes
 
 The classes listed here are the classics! Functional alone and in any imaginable combination with eachother. Excelent for any circumstance without getting to gonzo while still making sure each one holds it's own charm.
 
-- Fighter
+- [Fighter](Chapter03.md#Fighter)
 - Barbarian
 - Knight
-- Thief
+- [Thief](Chapter03.md#Thief)
 - Hunter
 - Monk
-- Wizard
+- [Wizard](Chapter03.md#Wizard)
 - Sorcerer
 - Summoner
 
