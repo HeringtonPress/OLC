@@ -24,7 +24,7 @@ A newly created PC without any class templates is expected to be reasonably comp
 
 The basic, balanced, and entirely sensible classes. Suitable for new players, uncertain players, small groups, or a more grounded setting.
 
-- Fighter
+- [Fighter](Chapter03.md##Fighter)
 - Thief
 - Wizard (Orthodox)
 
