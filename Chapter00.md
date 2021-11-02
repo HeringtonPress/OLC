@@ -9,9 +9,9 @@
 
 [Chapter 2 Characters](Chapter02.md#chapter-2-characters)
 
-[Chapter 3 Equipment](Chapter03.md#chapter-3-equipment)
+[Chapter 3 Classes](Chapter03.md#chapter-3-classes)
 
-[Chapter 4 Proficiencies](Chapter04.md#chapter-4-proficiencies)
+[Chapter 4 Equipment](Chapter04.md#chapter-4-equipment)
 
 [Chapter 5 Spells](Chapter05.md#chapter-5-spells)
 
