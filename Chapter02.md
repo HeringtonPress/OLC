@@ -12,7 +12,7 @@
 - Roll your Stats. 3d6 in order. You may reroll the Stat given by your Race and pick the higher result.
 - Choose or roll for your Class. Gain the first template (A) and any other items and bonuses.
 - Roll for any skills or items requested by your class.
-- Gain 3d4x10gp. If the entire group is level 1, all PCs also gain a blanket (1 slot) and 3 rations (1 slot).
+- Gain 1d10cp. If the entire group is level 1, all PCs also gain a blanket (1 slot) and 3 rations (1 slot).
 
 ## The Base Adventurer
 
