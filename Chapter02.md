@@ -97,4 +97,4 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 
 * * *
 
-[Previous](Chapter01.md#chapter-1-introduction) [Top](Chapter00.md#table-of-contents) [Next](Chapter03.md#chapter-3-equipment)
+[Previous](Chapter00.md#table-of-contents) [Top](Chapter01.md#chapter-1-introduction) [Next](Chapter03.md#chapter-3-classes)
