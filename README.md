@@ -1,4 +1,4 @@
-# HeringtonPress Law of Gaming
+# One Last Coin
 
 ## System Reference Document
 
