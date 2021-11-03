@@ -52,6 +52,8 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 
 ### Who Are You?
 
+You are probably a member of the Third Estate. In Civilised Parts, you theoretically owe service to a lord. Carrying a sword is probably illegal, everything you do is taxed, and changing your station in life is almost impossible. If there’s a war on, all the usual rules stop applying. You might be a soldier from a levied army seeking an independent fortune, a mercenary with grand plans, or an unscrupulous highway robber. You’re likely to be practical, worldy-wise, and skeptical.
+
 | 1d4 | 1d6 | Fighter Skills | 
 | :-: | :-: | :----- | 
 | 1   | Farmer |     |
@@ -310,7 +312,7 @@ Starting Skill: Locksmith and Pickpocket. Also, roll on the Thief Skill Table. Y
 
 **D:** Pick 1 Thief Trick, Roll 1 Thief Trick
 
-Bonus
+You gain +1 to Stealth for each Thief template you possess.
 
 ### A: Always Prepared
 
@@ -349,52 +351,54 @@ You can climb as well without climbing gear as most people can with climbing gea
 | 19   | Watchful | Gain +4 on rolls to Find Hidden Things. You can’t be snuck past. |
 | 20   | Wizardly Initiate | By tasting an object you can determine if it is magical or not. |
 
-### Who Are You?
+### What Did You Do?
 
-| 1d6 | 1d6 | Barbarian Skills | 
+You are a member of the Third Estate or an Outlaw. You blend in with society or slide around it, seeking opportunities for wealth and status. You don’t dress like a thief. There are no guilds of thieves. If you are caught you will be maimed, hanged, or worse. Nobody cares who you are; everyone cares about your crimes, or your potential usefulness in their schemes.
+
+| 1d6 | 1d6 | Thief Skills | 
 | :-: | :-: | :----- | 
-| 1   | Mountaineer | You cannot wear chain or plate armour |
-|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
-|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
-|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
-|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
-|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
-|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
-| 2   | Raider | You cannot wear plate armour |
-|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
-|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
-|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
-| 3   | Horses | You cannot wear plate armour    |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
-| 4   | Soldier|     |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
-| 5   | Sailor | You cannot wear chain or plate armour |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+| 1   | Bandit |  |
+|     | 1      | You were an archer in a band of wild and unruly mercenaries. Gain a bow and 20 arrows. |
+|     | 2      | You specialized in ambushing merchant caravans. Gain a red silk cloak and fur hat worth 5sp. |
+|     | 3      | You’ve roamed the world, free of morality and law. Start with the “Foreign Parts” skill. Make up 1d6 ludicrous lies. |
+|     | 4      | You specialized in killing heavily armoured knights with a dagger to the joints. In melee, plate armour counts as chain to you. |
+|     | 5      | After acquiring 100gp, your fellow bandits agreed to split it in a very odd and unfair way. Gain 1gp and the “Logic” skill. |
+|     | 6      | You raided castles and fortified houses by night. Gain 30’ of rope and a grappling hook. |
+| 2   | Soldier |  |
+|     | 1      | You were recruited for a war but caught looting a church, against your lord’s command. Gain a bow and 20 arrows. |
+|     | 2      | You were part of a mercenary company and a respectable fence, brawler, and leader. Gain 1d4 camp followers. |
+|     | 3      | You worked as a kidnapper, targeting valuable citizens. Gain manacles and 1gp. |
+|     | 4      | You were a sapper and a tunnel rat. Gain a shovel and no fear of enclosed or underground spaces. |
+|     | 5      | Your pay never arrived. You turned to petty crime in retaliation. Gain 2cp and a travelling cloak. |
+|     | 6      | Violence is sometimes the answer. Gain a heavy weapon, a saucy grin, and a willingness to break kneecaps. |
+| 3   | Farmer |  |
+|     | 1      | You stole something minor and inconsequential (a loaf of bread, a ribbon, eggs, etc.). The guilt of that theft haunts you forever. |
+|     | 2      | You believe you are cursed. One year, the crops failed, your friends fled, and your cattle died. The world is against you. |
+|     | 3      | While pretending to be a simple farmer, you are in fact an agent of a foreign power. Gain the “Spy” skill. You can read and write. |
+|     | 4      | You were branded and exiled for theft. Gain a thief-mark brand on your hand. You may desire revenge. |
+|     | 5      | You abandoned your family and land to seek wealth and glory. Gain 2 extra rations and a lingering sense of guilt. |
+|     | 6      | You stole cattle in a lawless border region. Gain 30’ of rope and a black cloak. |
+| 4   | Frontier |  |
+|     | 1      | The region where you grew up was very poor. Iron was a rarity. Gain +15% XP for frivolous purchases (instead of +10%). |
+|     | 2      | You were hired to protect a village. If you betrayed them, gain 5sp. If you helped them, gain 3 rations and a goat. |
+|     | 3      | You raided from horseback, stealing and then fleeing into the hills. Gain a horse. |
+|     | 4      | You are very, very acquisitive. Gain any number of mundane items you can write down now before the GM rolls a 6 on a d6. |
+|     | 5      | You sometimes dropped trees on travellers, trapping them or knocking over their horses. Gain a saw. |
+|     | 6      | You lived in the trackless wilderness, retreating to inhospitable areas when threatened. Gain a waterproof floppy hat. |
+| 5   | Scum |  |
+|     | 1      | You sold your body, or assisted others in the same trade. Gain the “Prostitute” skill and a makeup (disguise) kit. |
+|     | 2      | You sold false relics and indulgences. Gain the “Religion” skill and 3 trinkets worth 1sp to the credulous. |
+|     | 3      | You earned a reputation in a famous city. Gain the “Poison” skill and a small vial of deadly poison. |
+|     | 4      | Greed, a secret vice, or tragedy lead you astray. Roll on the Table of Professions and gain the skill listed. |
+|     | 5      | You earned a living by blackmail. Make up a rumour about every other PC. Players vote if the rumour is true or false. Roll on the Table of Professions and gain the skill listed. |
+|     | 6      | You were a pirate or a sea-raider. Gain the “Sailor” skill and the ability to swim. |
 | 6   | Unusual | Gain the skill listed |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+|     | 1      | You are a failed apprentice wizard. Gain a random cantrip from a random wizard school and the “Literature” skill. |
+|     | 2      | A divine vision commanded you to roam the world and make adjustments, or so you claim. Gain the “Religion” skill. |
+|     | 3      | The life of an outlaw attracted you for unusual reasons. Gain the “Poetry” skill and a book of verse. |
+|     | 4      | You committed a terrible crime but were saved by legal chicanery. Gain the “Law” skill. |
+|     | 5      | Fire erases many sins. Gain the “Carpenter” skill, a lantern, and 3 flasks of lamp oil. Lose your eyebrows. |
+|     | 6      | You stole silver from a mine. Gain the “Miner” skill, a pickaxe, and 5sp. |
 
 * * *
 
@@ -1327,12 +1331,6 @@ Bonus
 
 * * *
 
-
-
-
-
-________________________________________________
-
 * * *
 
 ## Template
@@ -1365,3 +1363,6 @@ Bonus
 | 1   | Farmer |     |
 |     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
 
+* * *
+
+[Previous](Chapter02.md#chapter-2-characters) [Top](Chapter00.md#table-of-contents) [Next](Chapter04.md#chapter-4-equipment)
