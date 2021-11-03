@@ -410,55 +410,85 @@ Starting Skill: Wilderness. Also, roll on the following table.
 
 **A:** Rangefinder, Wilderness Sense
 
-**B:** Crippling Shot, Precision
+**B:** Crippling Shot, Quick Shot
 
 **C:** True Caution
 
 **D:** Impossible Shot, Vanish
 
-Bonus
+You gain +1 to Stealth for each Hunter template you possess.
 
-### A:
+### A: Rangefinder
 
-### B:
+When you miss with a ranged attack, your next shot is made with advantage.
 
-### C:
+### A: Wilderness Sense
 
-### D:
+After the GM gives you the Omen for an encounter, you can choose to reroll the encounter and get a different Omen. You must accept the new result. You have a 50% chance to act in surprise rounds.
+
+### B: Crippling Shot
+
+If you hit an enemy with a ranged weapon, you can choose to deal 1 damage instead of rolling for damage. The next attack made by the enemy deals 1⁄2 normal damage.
+
+### B: Quick Shot
+
+If you do not move on your turn you may make an additional attack with a ranged weapon. Your first attack must have been made with the same weapon.
+
+If using a crossbow or other weapon requiring 1 or more rounds to reload, take only one shot, but ignore the reload time.
+
+### C: Master Trapper
+
+Skilled in the way of hiding traps, any trap you set causes the creature to DEX save with disadvantage. Additionally you can coble together a trap out of things most people would consider mundane and useless.
+
+### C: Monster Chef
+
+You’ve learned to prepare and preserve monsters that you’ve hunted before (you must keep track of this). Rations created this way provide an additional 1d4 HP.
+
+Make an INT Save to tell if a new monster will be outright poisonous to eat. You can also make an educated guess about the extra effects of consuming magical creatures.
+
+### D: Impossible Shot
+
+Once per combat, you can make an impossible shot with a ranged weapon. The attack automatically hits the target, provided it is within 2x the weapon’s listed rage. The attack can bounce around corners, cut a coin in half, or part a single hair on a target’s head.
+
+### D: Vanish
+
+If you are in dense forests, hills, caves, or other terrain with abundant line-of-sight-blocking features, you can choose to vanish. While vanished, you cannot affect the world or be affected by it. This ability is limited by plausibility. You can reappear at any time by climbing down a tree, walking over a hill, emerging from a shrub, etc.
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Barbarian Skills | 
+You are a member of the Third Estate or an Outlaw. You are a hunter, either of beasts or people. You use ranged weapons (traditionally a bow) with exceptional skill. When danger threatens, you retreat, study, plan, and strike. In this dangerous world your hard-earned skills are valuable.
+
+| 1d6 | 1d6 | Hunter Skills | 
 | :-: | :-: | :----- | 
-| 1   | Mountaineer | You cannot wear chain or plate armour |
-|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
-|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
-|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
-|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
-|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
-|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
-| 2   | Raider | You cannot wear plate armour |
-|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
-|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
-|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
-| 3   | Horses | You cannot wear plate armour    |
+| 1   | Farmer |  |
 |     | 1      |  |
 |     | 2      |  |
 |     | 3      |  |
 |     | 4      |  |
 |     | 5      |  |
 |     | 6      |  |
-| 4   | Soldier|     |
+| 2   | Soldier |  |
 |     | 1      |  |
 |     | 2      |  |
 |     | 3      |  |
 |     | 4      |  |
 |     | 5      |  |
 |     | 6      |  |
-| 5   | Sailor | You cannot wear chain or plate armour |
+| 3   | Frontier |  |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 4   | Bandit |     |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 5   | Scum | Gain the skill listed |
 |     | 1      |  |
 |     | 2      |  |
 |     | 3      |  |
@@ -502,23 +532,23 @@ Bonus
 ### Who Are You?
 
 
-| 1d6 | 1d6 | Barbarian Skills | 
+| 1d6 | 1d6 | Monk Skills | 
 | :-: | :-: | :----- | 
-| 1   | Mountaineer | You cannot wear chain or plate armour |
-|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
-|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
-|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
-|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
-|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
-|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
-| 2   | Raider | You cannot wear plate armour |
-|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
-|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
-|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
+| 1   | Farmer |  |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
 |     | 4      |  |
 |     | 5      |  |
 |     | 6      |  |
-| 3   | Horses | You cannot wear plate armour    |
+| 2   | Soldier |  |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 3   | Frontier |  |
 |     | 1      |  |
 |     | 2      |  |
 |     | 3      |  |
@@ -1300,6 +1330,8 @@ Many Goblins gain a special 6th inventory slot that contains a random item rolle
 * * *
 
 ## Surly Gnome
+
+![image](https://user-images.githubusercontent.com/93562930/140182019-b78c2de7-303c-41ce-9524-40565fb822bc.png)
 
 Starting Equpment:
 Starting Skill:
