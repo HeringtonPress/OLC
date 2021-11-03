@@ -33,25 +33,24 @@ The basic, balanced, and entirely sensible classes. Suitable for new players, un
 The classes listed here are the classics! Functional alone and in any imaginable combination with eachother. Excelent for any circumstance without getting to gonzo while still making sure each one holds it's own charm.
 
 - [Fighter](Chapter03.md#Fighter)
-- Barbarian
-- Knight
+- [Barbarian](Chapter03.md#Barbarian)
+- [Knight](Chapter03.md#Knight)
 - [Thief](Chapter03.md#Thief)
-- Hunter
-- Monk
+- [Hunter](Chapter03.md#Hunter)
+- [Monk](Chapter03.md#Monk)
 - [Wizard](Chapter03.md#Wizard)
-- Sorcerer
-- Summoner
+- [Sorcerer](Chapter03.md#Sorcerer)
+- [Summoner](Chapter03.md#Summoner)
 
 ### Novelty Classes
 
 The classes listed here require unusual playstyles, GM adjudication, or a specific kind of setting.
 
-- Cannoneer
-- Exorcist
-- Inventor Necromancer
-- Goblin
-- Many Goblins
-- Paladin of the Word
+- [Cannoneer](Chapter03.md#Cannoneer)
+- [Exorcist](Chapter03.md#Exorcist)
+- [Inventor Necromancer](Chapter03.md#Inventor-Necromancer)
+- [Goblin](Chapter03.md#Goblin)
+- [Many Goblins](Chapter03.md#Many-Goblins)
 
 ### Extra
 
