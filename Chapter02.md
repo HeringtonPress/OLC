@@ -48,6 +48,7 @@ The classes listed here require unusual playstyles, GM adjudication, or a specif
 
 - [Cannoneer](Chapter03.md#Cannoneer)
 - [Exorcist](Chapter03.md#Exorcist)
+- [Homunculator](Chapter03.md#Homunculator)
 - [Inventor Necromancer](Chapter03.md#Inventor-Necromancer)
 - [Goblin](Chapter03.md#Goblin)
 - [Many Goblins](Chapter03.md#Many-Goblins)
@@ -56,7 +57,7 @@ The classes listed here require unusual playstyles, GM adjudication, or a specif
 
 Extra classes cannot be taken as a first template. They are odd, obscure, and strange.
 
-- Surly Gnome
+- [Surly Gnome](Chapter03.md#Surly-Gnome)
 
 ## Templates & Multiclassing
 
