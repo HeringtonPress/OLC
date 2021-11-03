@@ -57,8 +57,6 @@ The classes listed here require unusual playstyles, GM adjudication, or a specif
 Extra classes cannot be taken as a first template. They are odd, obscure, and strange.
 
 - Surly Gnome
-- Cannibal Gourmet
-- Vampire
 
 ## Templates & Multiclassing
 
@@ -73,11 +71,32 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 | 3    | Knight       | 3   | Inventor Necromancer |
 | 4    | Thief        | 4   | Goblin |
 | 5    | Hunter       | 5   | Many Goblins |
-| 6    | Monk         | 6   | Paladin of the Word |
+| 6    | Monk         |     |  |
 | 7    | Wizard       |     |  |
 | 8    | Sorcerer     |     |  |
 | 9    | Summoner     |     |  |
 | 10   | [Reroll]     |     |  |
+
+## Leveling Up
+
+PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot must be taken to a place of safety and divided or assigned to the PCs to become XP. Items or equipment used by the characters and not sold don’t count for XP purposes. Players should track a PC’s XP (the total amount of treasure they have accumulated) along with their current cash. Purely frivolous spending converts 10% of the money spent into XP.
+
+Whenever a PC levels, increase their HP, Attack, and base Save (before their Charisma bonus is added). A PC can also test to improve a stat of their choice. Declare the stat and roll 3d6. If the result is over, the stat’s value increases by 1.
+
+| Level| XP       | HP     | Class Templates | 
+| :--- | :------: | :----: | :-------------: |
+| 1    | -        | Con -4 | 1               |
+| 2    | 200      | Con -2 | 2               |
+| 3    | 400      | Con    | 3               |
+| 4    | 700      | Con +2 | 4               |
+
+At Level 5, and every time a PC levels up past Level 5, they can retire to safety. The GM cannot torment them anymore. If they can afford it, they can buy some land, set up a shop, teach at a wizard college, or beg in the gutter. At Level 10 and beyond, a PC who dies can fight death. If they succeed, they can return to life. All future Saves to avoid death will be at a penalty, but they gain a second chance.
+
+| Stat |  | Bonus |  | Stat |  | Bonus |  | Stat |  | Bonus |
+| :--: |:-:| :---: |:-:| :--: |:-:| :---: |:-:| :--: |:-:| :---: |
+| 1,2 |  | -3 |  | 9,10,11 |  | 0 |  | 18,19,20 |  | 3 |
+| 3,4,5 |  | -2 |  | 12,13,14 |  | 1 |  | 21,22,23 |  | 4 |
+| 6,7,8 |  | -1 |  | 15,16,17 |  | 2 |  | 24+ |  | 5 |
 
 ## Table of Kin
 
