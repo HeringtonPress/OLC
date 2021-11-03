@@ -100,18 +100,38 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 
 ## Table of Kin
 
-| 1d50 | Kin      | Reroll | Bonus | Weakness | Lore |
-| :--- | :------- | :----- | :---- | :------- | :--- |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 1-10 | Human    | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
+| 1d66  | Kin      | Reroll | Bonus | Weakness | Lore |
+| :---: | :------- | :----- | :---- | :------- | :--- |
+| 11-16 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
+| 21 | Elf | CHA |  |  |  |
+| 22 | Dwarf |  |  |  |  |
+| 23 | Gnome |  |  |  |  |
+| 24 |     |  |  |  |  |
+| 25 |     |  |  |  |  |
+| 26 |     |  |  |  |  |
+| 31 |     |  |  |  |  |
+| 32 |     |  |  |  |  |
+| 33 |     |  |  |  |  |
+| 34 |     |  |  |  |  |
+| 35 |     |  |  |  |  |
+| 36 |     |  |  |  |  |
+| 41 |     |  |  |  |  |
+| 42 |     |  |  |  |  |
+| 43 |     |  |  |  |  |
+| 45 |     |  |  |  |  |
+| 46 |     |  |  |  |  |
+| 51 |     |  |  |  |  |
+| 52 |     |  |  |  |  |
+| 53 |     |  |  |  |  |
+| 54 |     |  |  |  |  |
+| 55 |     |  |  |  |  |
+| 56 |     |  |  |  |  |
+| 61 |     |  |  |  |  |
+| 62 |     |  |  |  |  |
+| 63 |     |  |  |  |  |
+| 64 |     |  |  |  |  |
+| 65 |     |  |  |  |  |
+| 66 |     |  |  |  |  |
 
 * * *
 
