@@ -16,7 +16,7 @@
 
 ## The Base Adventurer
 
-A newly created PC without any class templates is expected to be reasonably competent in most areas but not specialized in any one direction. One Last Coin is not about classes. Classes are just your hammer not the whole toolbelt. Classes are significantly less important than What You Do Around The Table.
+A newly created PC without any class templates is expected to be reasonably competent in most areas but not specialized in any one direction. One Last Coin is not about classes. Classes are just your hammer not the whole toolbelt. Classes are significantly less important than what you do around the table.
 
 ## Classes Overview
 
