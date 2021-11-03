@@ -33,7 +33,6 @@ Below are some of the most common abbreviations that will be found in this book 
 | sp           | Silver pieces
 | ep           | Electrum pieces
 | gp           | Gold pieces
-| pp           | Platinum pieces
 | TT           | Treasure Type
 
 * * *
