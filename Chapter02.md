@@ -104,7 +104,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 | :---: | :------- | :----- | :---- | :------- | :--- |
 | 11-16 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
 | 21 | Elf | CHA |  |  |  |
-| 22 | Dwarf |  |  |  |  |
+| 22 | Dwarf |  |  |  | A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago. |
 | 23 | Gnome |  |  |  |  |
 | 24 |     |  |  |  |  |
 | 25 |     |  |  |  |  |
