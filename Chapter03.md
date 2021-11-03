@@ -507,6 +507,8 @@ You are a member of the Third Estate or an Outlaw. You are a hunter, either of b
 
 ## Monk / Nun
 
+![image](https://user-images.githubusercontent.com/93562930/140201637-bcb6be08-a250-4f18-be26-291b05393ea5.png)
+
 Starting Equpment: robes, holy book.
 
 Starting Skill: Religion. Also, roll on the following table.
