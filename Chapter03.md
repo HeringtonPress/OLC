@@ -344,17 +344,17 @@ You can climb as well without climbing gear as most people can with climbing gea
 
 ## Hunter
 
-Starting Equpment:
+Starting Equpment: bow, 40 arrows, dagger, leather armour.
 
-Starting Skill:
+Starting Skill: Wilderness. Also, roll on the following table.
 
-**A:**
+**A:** Rangefinder, Wilderness Sense
 
-**B:**
+**B:** Crippling Shot, Precision
 
-**C:**
+**C:** True Caution
 
-**D:**
+**D:** Impossible Shot, Vanish
 
 Bonus
 
@@ -368,23 +368,64 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
+| 1d6 | 1d6 | Barbarian Skills | 
 | :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+| 1   | Mountaineer | You cannot wear chain or plate armour |
+|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
+|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
+|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
+|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
+|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
+|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
+| 2   | Raider | You cannot wear plate armour |
+|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
+|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
+|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 3   | Horses | You cannot wear plate armour    |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 4   | Soldier|     |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 5   | Sailor | You cannot wear chain or plate armour |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 6   | Unusual | Gain the skill listed |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
 
 ## Monk / Nun
 
-Starting Equpment:
-Starting Skill:
+Starting Equpment: robes, holy book.
 
-**A:**
+Starting Skill: Religion. Also, roll on the following table.
 
-**B:**
+**A:** Literacy, Restrictions of your Order, Unarmed Strike
 
-**C:**
+**B:** Flighty, Stunning Strike
 
-**D:**
+**C:** Evasion, Obscure Knowledge
+
+**D:** Improved Dodge, Pronouncement
 
 Bonus
 
@@ -398,10 +439,30 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
+
+| 1d6 | 1d6 | Barbarian Skills | 
 | :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+| 1   | Mountaineer | You cannot wear chain or plate armour |
+|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
+|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
+|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
+|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
+|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
+|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
+| 2   | Raider | You cannot wear plate armour |
+|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
+|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
+|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 3   | Horses | You cannot wear plate armour    |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
 
 ## Wizard
 
@@ -832,20 +893,30 @@ Bonus
 
 ## Sorcerer
 
-Starting Equpment:
-Starting Skill:
+Starting Equpment: Outlandish Costume worth 1sp
 
-**A:**
+Starting Skill: Foreign Parts
 
-**B:**
+**A:** +1SD, Soul Casting, 1 Ambient Sorcery
 
-**C:**
+**B:** +1SD, Billowing Robes
 
-**D:**
+**C:** +1SD, Soul Vision
+
+**D:** +1SD, Magic Ward
 
 Bonus
 
-### A:
+### A: Soul Casting
+
+You alter the world through sheer force of will. You need no charms, no runes, no spells, no incantations. Reality is yours to
+command.
+
+To change the world, select an ability (Alter, Create, or Harm) and a number of Sorcerer Dice (SD) you wish to invest, roll them, and add the numbers together. As a Sorcerer, you get +1 SD per Sorcerer template. Some effects depend on the number of [dice] invested and the [sum] they show. Doubles, triples and quadruples result in Calamities.
+
+SD can be used any number of times per day. Unlike a wizard’s MD, they always return to your pool. Each time you use your sorcerous powers past the �rst time per day, add +1 ID (Instability Die) to your pool. These dice do not count towards the [dice] and [sum] of sorcerous effects, but they do count towards doubles. Use 2 different colours of dice. Increasing the power of your sorcerous effects may also add ID.
+
+Sorcerers don't run out of steam. They have the opposite problem.
 
 ### B:
 
@@ -855,10 +926,74 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+### Sorcerous Effects
+
+**Harm**
+
+Deal [sum]+[dice] damage to one target creature or object you can see. Creatures and magical objects can Save to negate. Flavour however you'd like: lightning bolts, beams of light, grasping hands from the underworld. It’s your soul vs. the target’s soul. Unlike your other abilities, this effect is permanent.
+
++1 ID for each prior sorcerous effect you've used today.
+
++1 ID per additional target.
+
+**Alter**
+
+Make a declarative statement affecting one creature or object you can see. The statement is true for [dice] rounds. The statement cannot cause damage directly (use Harm), move a creature or object, or create new objects or effects (use Create). Creatures and magical objects can Save to avoid being altered.
+
++1 ID for each prior sorcerous effect you've used today.
+
++1 ID per additional target.
+
++1 ID to affect an area the size of a wagon.
+
++2 ID to affect an area the size of a cottage.
+
++3 ID to affect an area the size of a village.
+
++1 ID to make the effect last for [dice] minutes.
+
++2 ID to make the effect last for [dice] hours.
+
++3 ID to make the effect last for [dice] days.
+
+**Create**
+
+Create something. The creature or object created exists for [dice] rounds. Without adding ID, the creature is person-sized or smaller and has 2 or fewer HD. Objects are person-sized or smaller.
+
+Creatures created cannot deal damage. You can create objects with magical effects (flying carpets, invisibility cloaks), but created objects cannot deal magical damage (you can make a regular sword but not a +10 vorpal sword of fire) or or provide permanent effects (healing potions only heal for the duration listed, rings of permanent stat gain only work for the duration). You can make a sword that looks like a +10 vorpal sword of fire though.
+
++1 ID for each prior sorcerous effect you've used today.
+
++1 ID per additional object or creature created.
+
++2 ID to create a creature of up to +4 HD.
+
++1 ID to create an object the size of a wagon.
+
++2 ID to create an object the size of a cottage.
+
++3 ID to create an object the size of a village.
+
++1 ID to create a magical or suf�ciently weird object.
+
++1 ID to make the creature or object last for [dice] minutes.
+
++2 ID to make the creature or object last for [dice] hours.
+
++3 ID to make the creature or object last for [dice] days.
+
+| 1d10 | Outlandish Costume | Ambient Sorcery | 
+| :--: | :----------------- | :-------------- | 
+| 1    | Long woven cloak of many colours. | Clap hands to take 1 damage and teleport 1'. | 
+| 2    | Thick coat made of human skin, teeth, and hair. | Can read any language, but must read outloud. |
+| 3    |  |  |
+| 4    |  |  |
+| 5    |  |  |
+| 6    |  |  |
+| 7    |  |  |
+| 8    |  |  |
+| 9    |  |  |
+| 10   |  |  |
 
 ## Summoner
 
