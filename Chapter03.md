@@ -139,6 +139,8 @@ Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effect
 
 ### Who Are You?
 
+You are from Foreign Parts. The language of people Around Here is strange to you; their customs are sometimes amusing and sometimes disgusting. You might worship the Authority as they do, but you might be from a heretical sect or cult. You are a probably a member of the Third Estate or an Outlaw. You carry your own law and customs.
+
 | 1d6 | 1d6 | Barbarian Skills | 
 | :-: | :-: | :----- | 
 | 1   | Mountaineer | You cannot wear chain or plate armour |
@@ -152,70 +154,93 @@ Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effect
 |     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
 |     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
 |     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+|     | 4      | You must spend at least 1 round chanting and painting your face before entering a rage. This may force your enemies to take a Morale check or Save vs Fear. Gain a pot of war paint. |
+|     | 5      | You are an expert slave-catcher. If you grapple a human-sized target, you can make an Attack roll to disarm them. |
+|     | 6      | You travelled here to join or start a mercenary company. Storms claimed all but 1 camp follower. |
 | 3   | Horses | You cannot wear plate armour    |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+|     | 1      | You are completely at ease in the saddle of a horse. Gain a bow and 20 arrows, but no horse (it died recently). |
+|     | 2      | Gain a riding animal of an unusual breed (a six-legged horse, a camel, a giant centipede). Its is identical to a horse mechanically and too weird to sell. Replacements cost 200gp. |
+|     | 3      | You can instantly evaluate a horse’s condition and worth just by inspecting it. If you sell a horse, you always get a good price. |
+|     | 4      | You are part of a vast warrior nation that lurks just beyond the horizon. Gain a horse and a ceremonial dagger. |
+|     | 5      | You are an expert on riding over rough terrain. Gain a horse. While riding, you never need to make checks for terrain. |
+|     | 6      | You were a horse-thief and roving trader. Gain a horse, 1gp, and a long list of enemies. |
 | 4   | Soldier|     |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+|     | 1      | You were part of a mercenary army brought here for a war. When the war ended, you were left behind. Gain a shield. |
+|     | 2      | You were born into a mercenary family and know no other life. Gain 1gp and 1 camp follower. |
+|     | 3      | You were an expert night-raider. You can see as well in dim light above ground as most people can see in daylight. |
+|     | 4      | Your battle-rage is terrifying. If you kill an enemy, you can spend the subsequent round ritually defiling the corpse to force your enemies to take a Morale check or Save vs Fear. |
+|     | 5      | You brawl indiscriminately. Thrown improvised weapons deal 1d6+Strength bonus damage (instead of 1d4). |
+|     | 6      | You have fists like stones. Your unarmed attacks deal 1d6+Strength Bonus damage (instead of 1d4+Strength bonus). |
 | 5   | Sailor | You cannot wear chain or plate armour |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+|     | 1      | You can swim, even in leather armour. You can hold your breath for twice as long as normal. |
+|     | 2      | Your ship was half wrecked in a storm and you drifted for months. Make up 1d6 ludicrous lies about Foreign Parts. |
+|     | 3      | You kissed a mermaid once. The first time you would die from drowning, you instead wash up with 0 HP. |
+|     | 4      | You raided a monastery but underwent a miraculous conversion. You will not harm any monk or nun. Start in the First Estate. |
+|     | 5      | You guarded a merchant who died on a sea voyage. Start with 1d10gp. You speak small fragments of a dozen languages. |
+|     | 6      | The horrifying things you saw at sea convinced you dry land was safer. Gain +2 to Save vs Fear. |
 | 6   | Unusual | Gain the skill listed |
-|     | 1      |  |
-|     | 2      |  |
-|     | 3      |  |
-|     | 4      |  |
-|     | 5      |  |
-|     | 6      |  |
+|     | 1      | You were a holy warrior fighting for an obscure cause. Gain the “Religion” skill and a small religious icon. |
+|     | 2      | You know a secret ritual. Gain the 1st Necromancer cantrip. You can use it once per day. Gain the “History” skill. |
+|     | 3      | You have hardened your soul. Gain a +2 bonus to Save vs all spells and the “Religion” skill. |
+|     | 4      | You are a natural leader. Your hirelings can reroll failed Morale checks or Saves vs Fear. Gain the “Speechmaker” skill. |
+|     | 5      | Once (ever), if a suitably dramatic event occurs, you can declare “the prophecy is fulfilled” and gain a +2 to all rolls for the rest of the encounter. Gain the “Farmer” skill. |
+|     | 6      | You cannot lie under any circumstances. Your oaths are iron. Start with the “Law” skill. |
 
 * * *
 
 ## Knight
 
-Starting Equpment:
-Starting Skill:
+Starting Equpment: chainmail, shield, sword, horse, 5sp.
 
-**A:**
+Starting Skill: Courtesy. Also, roll on the following table.
 
-**B:**
+**A:** Challenge, Champion
 
-**C:**
+**B:** Bodyguard
 
-**D:**
+**C:** Dragon Slayer, Parry
 
-Bonus
+**D:** Aura of Courage, Inspire
+
+You gain +2 to Save vs Fear for each Knight template you possess. 
 
 ### A: Challenge
 
+This ability only works on creatures that can understand you and are capable of being offended. If you challenge a creature outside combat, they must Save or accept your challenge. In civilized areas, this could mean a duel, a joust, or a brawl. The challenged party can set conditions for the duel. Leaders may send out champions.
+
+In combat, you can challenge one creature each turn as a free action. The creature must Save. If they fail they must attack you. This ability cannot force an enemy to make major tactical errors.
+
 ### A: Champion
+
+After all enemies have completed their turns in a combat round, select one enemy that only targeted you with attacks, and that you targeted with your attack. Make a second attack against that enemy. Effectively, this gives you two attacks per round if you are fighting an enemy one-on-one.
 
 ### B: Bodyguard
 
+Once per round, if an adjacent ally would take damage from a physical attack, you may make an Attack roll. If you succeed, you take the damage instead.
+
 ### C: Dragon Slayer
+
+Once per day, you may add +X damage to one of your physical attacks, where X is the HD of the most powerful monster killed by you or your party. Keep track of this. If you miss, this ability is not expended.
 
 ### C: Parry
 
+Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d12.
+
 ### D: Aura of Courage
+
+Allies who can see and hear you can use your Save vs Fear instead of their own. This ability has no effect if you are currently afraid.
 
 ### D: Inspire
 
+Once per day, allies who can see and hear you heal 1d4 HP. If they were at full HP, they instead gain +2 to their next Attack roll.
+
 ### Who Are You?
+
+You are a member of the Second Estate, an armour-clad warrior on horseback. Knights from Around Here are universally male or must appear as male. Anything goes in Foreign Parts. You lend legitimacy to any group. You may be granted titles, gifts of land, or castles. Everyone else has to work furiously to get into your social class. People respect you.
+
+If you are from Around Here your weapon of choice is the sword and you ride a horse. In Foreign Parts, knights might use bows and ride lizards, but Foreign Parts are disreputable.
+
+Honour and chivalry are ideals often disregarded in practice.
 
 | 1d3 | 1d6 | Knight Skills | 
 | :-: | :-: | :----- | 
@@ -242,6 +267,32 @@ Bonus
 |     | 6      |  |
 
 ### The Second Estate
+
+Your starting Noble Rank is 1. Your expenses are 12gp/month. Roll on the table below to see how you are supported.
+
+The highest rank you can possibly inherit is 1d6+2. This might be your father’s uncle’s title or something equally remote. This might require divine intervention, a plague, or a most dreadful amount of killing. If you are a bastard, you cannot inherit unless you are legitimized by a higher noble (usually a King).
+
+| 1d3 | Knightly Support |     | 
+| :-: | :--------------- | :-- | 
+| 1   | Large Farm | You hold a prosperous farm and a minor title. You have 1d6 tenants (total, not families), a small house, and no prestige. The farm pays 12gp per month. |
+| 2   | Dubious Stipend | Your family is prosperous, but you are a minor son of a minor branch. Your stipend pays 12gp per month, but each month roll 1d10. On a 10 it stops forever. |
+| 3   | No Support | You are a knight without land or support. There is a 50% chance you are a bastard. If you fail to pay your expenses you will drop out of the Second Estate. |
+
+|      | Heraldry Generator  |                    |                     |
+| :--: | :------------------ | :----------------- | :------------------ |
+| **1d10** | **Field (Base Colour)** | **Division (Overlay)** | **Charge (Decoration)** |
+| 1    | Argent (Silver) | Fess (Top/Bottom) | Escutcheon (Shield) |
+| 2    | Or (Gold) | Pale (Left/Right) | Lozenge (Diamond) |
+| 3    | Azure (Blue) | Bend (Diagonal S) | Roundel (Circle) |
+| 4    | Gules (Red) | Bend Sinister (Diag. Z) | Billet (Vert. Rectangle) |
+| 5    | Very (Green) | Saltire (Quart. X) | Mullet (Star) |
+| 6    | Indigo | Cross (Quart. + | Crescent (Moon) |
+| 7    | Vilette (Violet) | Chevron (Half ^) | Cross |
+| 8    | Sable (Black) | Pall (Split Y) | Angel |
+| 9    | Sanguine (Blood) | Wavy (Half ~) | Lion |
+| 10   | Tenne (Tawny) | Dancetty (Half ^^^^^) | Sword |
+
+Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll once for Division, designating sections as different Field colours. Roll 1d4 times for Charges, with 1d4 copies of each charge. Muck around with the idea a bit. This generator will infuriate students of heraldry. Deal with it.
 
 * * *
 
