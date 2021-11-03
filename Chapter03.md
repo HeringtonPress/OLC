@@ -57,13 +57,13 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 |     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
 |     | 2      | You are the [1d10+2]th son of a poor farmer. You needed to leave or risk starvation. If your siblings die you inherit the farm. |
 |     | 3      | Your farm and village were burned during a war. The only profession you could find other than begging is warfare. |
-|     | 4      | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1pp. |
+|     | 4      | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1gp. |
 |     | 5      | Years of practice have made you a deadly shot. Gain 20 extra arrows and start with 10 Notches on your bow. |
 |     | 6      | You abandoned your family and your land to seek wealth, glory, and a better position. Gain 3 rations and lingering guilt. |
 | 2   | Soldier|     |
 |     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
 |     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
-|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 5gp and 1 camp follower. |
+|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 2gp and 1 camp follower. |
 |     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
 |     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
 |     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
@@ -74,13 +74,13 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 |     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
 |     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
 |     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
-| 4   | Unusual|     |
+| 4   | Unusual| Gain the skill listed |
 |     | 1      | Your parents, maddened by grief at the death of their first born, insisted you replace them. Gain the “Disguise” skill. |
 |     | 2      | You have a letter that proves you were a soldier transformed by a spell or curse. 10% chance this is true. Gain the “Law” skill. |
 |     | 3      | You were taken as a squire by a lecherous, poor, eccentric, or nearsighted knight. Gain the “Horses” skill. |
 |     | 4      | You’ll try your hand at anything. Roll twice on the Table of Professions, gaining both skills listed. |
-|     | 5      | You were part of the retinue of a powerful mercenary captain. Gain 10gp and the “Courtesy” skill. |
-|     | 6      | You were raised in a mercenary camp. Your manners are shocking. Gain 2 daggers and 1gp. |
+|     | 5      | You were part of the retinue of a powerful mercenary captain. Gain 1gp and the “Courtesy” skill. |
+|     | 6      | You were raised in a mercenary camp. Your manners are shocking. Gain 2 daggers and 5sp. |
 
 ## Barbarian
 
@@ -139,47 +139,47 @@ Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effect
 | 1d6 | 1d6 | Barbarian Skills | 
 | :-: | :-: | :----- | 
 | 1   | Mountaineer | You cannot wear chain or plate armour |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-|     | 2      | You are the [1d10+2]th son of a poor farmer. You needed to leave or risk starvation. If your siblings die you inherit the farm. |
-|     | 3      | Your farm and village were burned during a war. The only profession you could find other than begging is warfare. |
-|     | 4      | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1pp. |
-|     | 5      | Years of practice have made you a deadly shot. Gain 20 extra arrows and start with 10 Notches on your bow. |
-|     | 6      | You abandoned your family and your land to seek wealth, glory, and a better position. Gain 3 rations and lingering guilt. |
-| 2   | Soldier|     |
-|     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
-|     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
-|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 5gp and 1 camp follower. |
-|     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
-|     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
-|     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
-| 3   | Sailor |     |
-|     | 1      | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed. |
-|     | 2      | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves. |
-|     | 3      | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals. |
-|     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
-|     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
-|     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
-| 4   | Unusual|     |
-|     | 1      | Your parents, maddened by grief at the death of their first born, insisted you replace them. Gain the “Disguise” skill. |
-|     | 2      | You have a letter that proves you were a soldier transformed by a spell or curse. 10% chance this is true. Gain the “Law” skill. |
-|     | 3      | You were taken as a squire by a lecherous, poor, eccentric, or nearsighted knight. Gain the “Horses” skill. |
-|     | 4      | You’ll try your hand at anything. Roll twice on the Table of Professions, gaining both skills listed. |
-|     | 5      | You were part of the retinue of a powerful mercenary captain. Gain 10gp and the “Courtesy” skill. |
-|     | 6      | You were raised in a mercenary camp. Your manners are shocking. Gain 2 daggers and 1gp. |
-| 5   | Soldier|     |
-|     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
-|     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
-|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 5gp and 1 camp follower. |
-|     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
-|     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
-|     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
-| 6   | Sailor |     |
-|     | 1      | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed. |
-|     | 2      | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves. |
-|     | 3      | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals. |
-|     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
-|     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
-|     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
+|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
+|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
+|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
+|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
+|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
+|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
+| 2   | Raider | You cannot wear plate armour |
+|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
+|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
+|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 3   | Horses | You cannot wear plate armour    |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 4   | Soldier|     |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 5   | Sailor | You cannot wear chain or plate armour |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 6   | Unusual | Gain the skill listed |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
 
 
 ## Knight
@@ -197,24 +197,155 @@ Starting Skill:
 
 Bonus
 
-### A:
+### A: Challenge
 
-### B:
+### A: Champion
 
-### C:
+### B: Bodyguard
 
-### D:
+### C: Dragon Slayer
+
+### C: Parry
+
+### D: Aura of Courage
+
+### D: Inspire
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
+| 1d3 | 1d6 | Knight Skills | 
 | :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+| 1   | Farmer |  |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 2   | Soldier |  |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 3   | Unusual | Gain the skill listed |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+
+### The Second Estate
+
+
 
 ## Thief
 
+Starting Equpment: leather armour, lockpicks, dagger.
+
+Starting Skill: Locksmith and Pickpocket. Also, roll on the Thief Skill Table. You may roll on the Table of Professions for a cover story. Gain the item but not the skill listed.
+
+**A:** Always Prepared, Evaluate, Wall Crawler
+
+**B:** Pick 1 Thief Trick, Roll 1 Thief Trick
+
+**C:** Roll 2 Thief Tricks
+
+**D:** Pick 1 Thief Trick, Roll 1 Thief Trick
+
+Bonus
+
+### A: Always Prepared
+
+In town, you may spend any amount of money to buy an Unlabelled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can put multiple items inside a large Unlabelled Package, including smaller Unlabelled Packages. You can have up to two Unlabelled Packages at a time.
+
+### A: Evaluate
+
+You automatically know the worth of mundane items. Unique items may require an Intelligence roll.
+
+### A: Wall Crawler
+
+You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a test. You can attempt impossible climbs.
+
+### Tricks of the Trade
+
+| 1d20 |     | Trick | 
+| :--: | :-: | :---- | 
+| 1    | Acrobat | You can move an extra 15’ per round (45’ total). You can jump 20’ instead of 10’. Treat your falls as 20’ shorter. You can easily maintain your balance on a taut rope. |
+| 2    | Always Armed | Even when you have been disarmed, you still have a dagger hidden on you. |
+| 3    | Backstab | Whenever you have a situational bonus to an Attack roll (surprise, elevation, etc.) attacks that hit deal an additional +1d6 damage. |
+| 4    | Cat's Eyes | With a small amount of light (moonlight, candle) you can see 30’ in darkness. |
+| 5    | Coward | Cover grants you an extra +1 AC. |
+| 6    | Dog Whisperer | You start with a dog. Dogs you train can DEX save for stealth with advantage, communicate to you if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment). |
+| 7    | Delicate Tasks | Gain +4 on DEX saves to disable traps and pick locks. |
+| 8    | Great Escape | Once per day, you can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, lynchings, pit traps, and awkward social situations, but not sealed coffins. |
+| 9    | Lucky | 1/day reroll a D20. |
+| 10   | Pack Rat | Gain an additional 3 item slots. |
+| 11   | Quick Draw | Gain an additional 3 quick draw slots. |
+| 12   | Quick Fingers | You have advantage on DEX saves to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) DEX save. |
+| 13   | Recorder Crow | You start with a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart. |
+| 14   | Second Chance | When you trigger a trap you hear a “click”. Save vs INT. Success means you did not trigger the trap and you know exactly what would have happened if you did. |
+| 15   | Getaway Horse | You start with a horse. Horses you train can DEX Save for stealth with advantage, understand abstract directions, and follow a schedule to the minute.  |
+| 16   | Redirect | Once per round, when an enemy attacks you, you can make a DEX Save to redirect their attack to another creature they can hit.  |
+| 17   | Urchin | A street rat demands to learn. They’re a very sneaky hireling that doesn’t ask for pay. If you lose your urchin, you can recruit another wherever urchins are plentiful, but it will be difficult if you have a reputation for getting them killed. |
+| 18   | Very Lucky | Requires Lucky. You may use your Lucky ability twice per day. An adjacent ally can use one of your rerolls, provided you could have plausibly assisted them. |
+| 19   | Watchful | Gain +4 on rolls to Find Hidden Things. You can’t be snuck past. |
+| 20   | Wizardly Initiate | By tasting an object you can determine if it is magical or not. |
+
+
+### Who Are You?
+
+| 1d6 | 1d6 | Barbarian Skills | 
+| :-: | :-: | :----- | 
+| 1   | Mountaineer | You cannot wear chain or plate armour |
+|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
+|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
+|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
+|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
+|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
+|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
+| 2   | Raider | You cannot wear plate armour |
+|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
+|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
+|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 3   | Horses | You cannot wear plate armour    |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 4   | Soldier|     |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 5   | Sailor | You cannot wear chain or plate armour |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+| 6   | Unusual | Gain the skill listed |
+|     | 1      |  |
+|     | 2      |  |
+|     | 3      |  |
+|     | 4      |  |
+|     | 5      |  |
+|     | 6      |  |
+
+## Hunter
+
 Starting Equpment:
+
 Starting Skill:
 
 **A:**
