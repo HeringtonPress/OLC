@@ -32,7 +32,7 @@ Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (suc
 - Special ability (negotiat with GM, one per weapon).
 Examples: ability to draw the weapon from any slot, knock a target prone on a critical, wield a two-handed weapon in one hand, gain a bonus to use the weapon as a tool, etc.
 
-For example, a Fighter with 50 �ail kills (4 notches) could have +1 damage, a critical range of (1-3), and the ability to stun an opponent for one round on a critical hit. The GM decides what counts as a kill.
+For example, a Fighter with 50 flail kills (4 notches) could have +1 damage, a critical range of (1-3), and the ability to stun an opponent for one round on a critical hit. The GM decides what counts as a kill.
 
 ### B: Campaigner
 
