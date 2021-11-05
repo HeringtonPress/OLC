@@ -13,9 +13,9 @@ Starting Equpment: leather armour, sword, bow, 20 arrows.
 
 Starting Skill: Roll on the following table.
 
-**A:** Parry, +1 attack per round
+**A:** Notches, +1 attack per round
 
-**B:** Notches
+**B:** Campaigner, Parry
 
 **C:** Quick Learner, +2 Attack Bonus
 
@@ -23,11 +23,7 @@ Starting Skill: Roll on the following table.
 
 You gain +1 HP for each Fighter template you possess.
 
-### A: Parry
-
-Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d12.
-
-### B: Notches
+###A: Notches
 
 Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (such as 10 kills with a dagger), you unlock a new ability for that weapon, chosen from the list below. Keep track of your kills and special abilities on the back of your character sheet.
 
@@ -38,6 +34,15 @@ Examples: ability to draw the weapon from any slot, knock a target prone on a cr
 
 For example, a Fighter with 50 �ail kills (4 notches) could have +1 damage, a critical range of (1-3), and the ability to stun an opponent for one round on a critical hit. The GM decides what counts as a kill.
 
+###B: Campaigner
+
+Armor occupies 2 fewer item slots in your inventory. Example: chain occupies 0 slots instead of 2.
+
+### B: Parry
+
+Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d12.
+
+### B: 
 ### C: Quick Learner
 
 You can become proficient with a new weapon after 4 successful hits (instead of 8). On a critical hit, you immediately become proficient.
