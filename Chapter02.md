@@ -72,8 +72,8 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 | 3    | Knight       | 3   | Inventor Necromancer |
 | 4    | Thief        | 4   | Goblin |
 | 5    | Hunter       | 5   | Many Goblins |
-| 6    | Monk         |     |  |
-| 7    | Wizard       |     |  |
+| 6    | Monk         | 6   | Homunculator |
+| 7    | Wizard       | 7   | Deathtouched |
 | 8    | Sorcerer     |     |  |
 | 9    | Summoner     |     |  |
 | 10   | [Reroll]     |     |  |
@@ -84,12 +84,19 @@ PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot 
 
 Whenever a PC levels, increase their HP, Attack, and base Save (before their Charisma bonus is added). A PC can also test to improve a stat of their choice. Declare the stat and roll 3d6. If the result is over, the stat’s value increases by 1.
 
-| Level| XP       | HP     | Class Templates | 
-| :--- | :------: | :----: | :-------------: |
-| 1    | -        | Con -4 | 1               |
-| 2    | 200      | Con -2 | 2               |
-| 3    | 400      | Con    | 3               |
-| 4    | 700      | Con +2 | 4               |
+| Level| XP        | HP      | Class Templates | 
+| :--- | :-------: | :-----: | :-------------: |
+| 1    | -         | Con -4  | 1               |
+| 2    | 200       | Con -2  | 2               |
+| 3    | 400       | Con     | 3               |
+| 4    | 700       | Con +2  | 4               |
+| 5    | 1000      | Con +4  |                 |
+| 6    | 1400      | Con +6  |                 |
+| 7    | 1800      | Con +7  |                 |
+| 8    | 2200      | Con +8  |                 |
+| 9    | 2600      | Con +9  |                 |
+| 10   | 3000      | Con +10 |                 |
+| +1   | +500      | +1.     |                 |
 
 At Level 5, and every time a PC levels up past Level 5, they can retire to safety. The GM cannot torment them anymore. If they can afford it, they can buy some land, set up a shop, teach at a wizard college, or beg in the gutter. At Level 10 and beyond, a PC who dies can fight death. If they succeed, they can return to life. All future Saves to avoid death will be at a penalty, but they gain a second chance.
 
