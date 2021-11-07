@@ -15,15 +15,15 @@
 
 [Chapter 5 Spells](Chapter05.md#chapter-5-spells)
 
-[Chapter 6 Adventures](Chapter06.md#chapter-6-adventures)
+[Chapter 6 Setting](Chapter06.md#chapter-6-setting)
 
 [Chapter 7 Campaigns](Chapter07.md#chapter-7-campaigns)
 
-[Chapter 8 Monsters](Chapter08.md#chapter-8-monsters)
+[Chapter 8 Adventures](Chapter08.md#chapter-8-monsters)
 
 [Chapter 9 Treasure](Chapter09.md#chapter-9-treasure)
 
-[Chapter 10 Secrets](Chapter10.md#chapter-10-secrets)
+[Chapter 10 Monsters](Chapter10.md#chapter-10-monsters)
 
 [OGL](OGL.md#open-game-license)
 
