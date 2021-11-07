@@ -40,9 +40,7 @@ Armor occupies 2 fewer item slots in your inventory. Example: chain occupies 0 s
 
 ### B: Parry
 
-Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d12.
-
-### B: 
+Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d
 ### C: Quick Learner
 
 You can become proficient with a new weapon after 4 successful hits (instead of 8). On a critical hit, you immediately become proficient.
