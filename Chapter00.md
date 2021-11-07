@@ -13,7 +13,7 @@
 
 [Chapter 4 Equipment](Chapter04.md#chapter-4-equipment)
 
-[Chapter 5 Spells](Chapter05.md#chapter-5-spells)
+[Chapter 5 ](Chapter05.md#chapter-5-)
 
 [Chapter 6 Setting](Chapter06.md#chapter-6-setting)
 
