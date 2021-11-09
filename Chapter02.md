@@ -108,38 +108,36 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 
 ## Table of Kin
 
-| 1d66  | Kin      | Reroll | Bonus | Weakness | Lore |
-| :---: | :------- | :----- | :---- | :------- | :--- |
-| 11-16 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
-| 21 | Elf | CHA |  |  |  |
-| 22 | Dwarf |  |  |  | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
-| 23 | Gnome |  |  |  |  |
-| 24 |     |  |  |  |  |
-| 25 |     |  |  |  |  |
-| 26 |     |  |  |  |  |
-| 31 |     |  |  |  |  |
-| 32 |     |  |  |  |  |
-| 33 |     |  |  |  |  |
-| 34 |     |  |  |  |  |
-| 35 |     |  |  |  |  |
-| 36 |     |  |  |  |  |
-| 41 |     |  |  |  |  |
-| 42 |     |  |  |  |  |
-| 43 |     |  |  |  |  |
-| 45 |     |  |  |  |  |
-| 46 |     |  |  |  |  |
-| 51 |     |  |  |  |  |
-| 52 |     |  |  |  |  |
-| 53 |     |  |  |  |  |
-| 54 |     |  |  |  |  |
-| 55 |     |  |  |  |  |
-| 56 |     |  |  |  |  |
-| 61 |     |  |  |  |  |
-| 62 |     |  |  |  |  |
-| 63 |     |  |  |  |  |
-| 64 |     |  |  |  |  |
-| 65 |     |  |  |  |  |
-| 66 |     |  |  |  |  |
+| D6     | Catagory | Kin      | Reroll | Bonus | Weakness | Lore |
+| :----: | :------- | :------- | :----- | :---- | :------- | :--- |
+| 1-3  | Human (d10) |  |  |  |  |  |
+|        | 1 - 5 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
+|        | 6  | Elf | CHA |  |  |  |
+|        | 7  | Dwarf |  |  |  | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
+|        | 8  | Halfling |  |  |  |  |
+|        | 9  | Gnome |  |  |  |  |
+|        | 10 | Orc |  |  |  |  |
+| 4      | Monsterous (d10) |  |  |  |  |  |
+|        | 1  | Goblin | DEX |  |  |  |
+|        | 2  | Kobold | CHA |  |  |  |
+|        | 3  | Orc |  |  |  |  |
+|        | 4  | Gnome |  |  |  |  |
+|        | 5  | Dwarf |  |  |  |  |
+|        | 6  | Gnome |  |  |  |  |
+|        | 7  | Dwarf |  |  |  |  |
+|        | 8  | Gnome |  |  |  |  |
+|        | 9  | Dwarf |  |  |  |  |
+|        | 10 | Gnome |  |  |  |  |
+| 5      | Beast (d20) |  |  |  |  |  |
+|        | 1 - 10 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
+|        | 11 - 14 | Elf | CHA |  |  |  |
+|        | 15 | Dwarf |  |  |  | ** |
+|        | 16 | Gnome |  |  |  |  |
+| 6      | Human (d20) |  |  |  |  |  |
+|        | 1 - 10 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
+|        | 11 - 14 | Elf | CHA |  |  |  |
+|        | 15 | Dwarf |  |  |  | ** |
+|        | 16 | Gnome |  |  |  |  |
 
 * * *
 
