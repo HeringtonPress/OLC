@@ -111,7 +111,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 | D6     | Catagory | Kin      | Reroll | Bonus | Weakness | Lore |
 | :----: | :------- | :------- | :----- | :---- | :------- | :--- |
 | 1-3  | Human (d10) |  |  |  |  |  |
-|        | 1 - 5 | Folkn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
+|        | 1 - 5 | Foulkn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
 |        | 6  | Elf | WIS |  |  |  |
 |        | 7  | Dwarf | CON |  | Sink like a stone. | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
 |        | 8  | Halfling | DEX |  |  |  |
