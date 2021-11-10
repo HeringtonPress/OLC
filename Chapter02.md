@@ -111,12 +111,11 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 | D6     | Catagory | Kin      | Reroll | Bonus | Weakness | Lore |
 | :----: | :------- | :------- | :----- | :---- | :------- | :--- |
 | 1-3    | Human (d10) |  |  |  |  |  |
-|        | 1 - 5 | Foulkn | Choice | Can detect undead as a chill down your neck. | -4 to Save against mutated or transformed. | ** |
-|        | 6  | Elf | WIS |  |  |  |
-|        | 7  | Dwarf | CON |  | Sink like a stone. | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
-|        | 8  | Halfling | DEX | You can reroll a 1 once a day. | Eat two rations at lunch. |  |
-|        | 9  | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
-|        | 10 | Orc | STR |  |  |  |
+|        | 1 - 3 | Foulkn | Choice | Can detect undead as a chill down your neck. | -4 to Save against mutated or transformed. | ** |
+|        |    | Elf | WIS |  |  |  |
+|        | 4  | Dwarf | CON |  | Sink like a stone. | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
+|        | 5  | Halfling | DEX | You can reroll a 1 once a day. | Eat two rations at lunch. |  |
+|        | 6  | Orc | STR |  |  |  |
 | 4      | Beast (d10) |  |  |  |  |  |
 |        | 1  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
 |        | 2  | Frog-kin | CHA | Prehensile tongue, can grab objects 20' away. |  |  |
@@ -182,7 +181,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 10 |  |  |  |  |  |
 | 6      | Exotic (d20) |  |  |  |  |  |
 |        | 1 | Dragonborn |  |  |  |  |
-|        | 2 |  |  |  |  |  |
+|        | 2 | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
 |        | 3 |  |  |  |  |  |
 |        | 4 |  |  |  |  |  |
 
