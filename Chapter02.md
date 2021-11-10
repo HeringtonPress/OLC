@@ -111,7 +111,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 | D6     | Catagory | Kin      | Reroll | Bonus | Weakness | Lore |
 | :----: | :------- | :------- | :----- | :---- | :------- | :--- |
 | 1-3  | Human (d10) |  |  |  |  |  |
-|        | 1 - 5 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | *The "Hu" was a small, ugly, pink mole-like creature that the humans exterminated out of shame.* |
+|        | 1 - 5 | Folkn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
 |        | 6  | Elf | CHA |  |  |  |
 |        | 7  | Dwarf |  |  |  | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
 |        | 8  | Halfling |  |  |  |  |
