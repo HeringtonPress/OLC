@@ -133,8 +133,8 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 11 - 14 | Elf | CHA |  |  |  |
 |        | 15 | Dwarf |  |  |  | ** |
 |        | 16 | Gnome |  |  |  |  |
-| 6      | Human (d20) |  |  |  |  |  |
-|        | 1 - 10 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
+| 6      | Exotic (d20) |  |  |  |  |  |
+|        | 1 - 10 | Dragonborn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
 |        | 11 - 14 | Elf | CHA |  |  |  |
 |        | 15 | Dwarf |  |  |  | ** |
 |        | 16 | Gnome |  |  |  |  |
