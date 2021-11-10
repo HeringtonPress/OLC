@@ -122,12 +122,53 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 2  | Frog-kin | CHA | Prehensile tongue, can grab objects 20' away. |  |  |
 |        | 3  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
 |        | 4  | Crow-kin | INT |  | Must make a Wisdom save or pick up shiny objects. |  |
-|        | 5  |  |  |  |  |  |
-|        | 6  |  |  |  |  |  |
-|        | 7  |  |  |  |  |  |
-|        | 8  |  |  |  |  |  |
-|        | 9  |  |  |  |  |  |
-|        | 10 |  |  |  |  |  |
+|        | 5  | Eel-kin |  |  |  |  |
+|        | 6  | Ant-kin |  |  |  |  |
+|        | 7  | Quill-kin |  |  |  |  |
+|        | 8  | Deer-kin |  |  |  |  |
+|        | 9  | Sloth-kin |  |  |  |  |
+|        | 10 | Mouse-kin |  |  |  |  |
+|        | 11 | Boar-kin |  |  |  |  |
+|        | 12 | Hawk-kin |  |  |  |  |
+|        | 13 | Hound-kin |  |  |  |  |
+|        | 14 | Beetle-kin |  |  |  |  |
+|        | 15 | Fish-kin |  |  |  |  |
+|        | 16 | Swan-kin |  |  |  |  |
+|        | 17 | Owl-kin |  |  |  |  |
+|        | 18 | Slug-kin |  |  |  |  |
+|        | 19 | fly-kin |  |  |  |  |
+|        | 20 | Rabbit-kin |  |  |  |  |
+|        | 21 | Goose-kin |  |  |  |  |
+|        | 22 | Weasel-kin |  |  |  |  |
+|        | 23 | Lizard-kin |  |  |  |  |
+|        | 24 | Moth-kin |  |  |  |  |
+|        | 25 | Rat-kin |  |  |  |  |
+|        | 26 | Goat-kin |  |  |  |  |
+|        | 27 | Fox-kin |  |  |  |  |
+|        | 28 | Worm-kin |  |  |  |  |
+|        | 29 | Flea-kin |  |  |  |  |
+|        | 30 | Bat-kin |  |  |  |  |
+|        | 31 | -kin |  |  |  |  |
+|        | 31 | -kin |  |  |  |  |
+|        | 32 | -kin |  |  |  |  |
+|        | 33 | -kin |  |  |  |  |
+|        | 34 | -kin |  |  |  |  |
+|        | 35 | -kin |  |  |  |  |
+|        | 36 | -kin |  |  |  |  |
+|        | 37 | -kin |  |  |  |  |
+|        | 38 | -kin |  |  |  |  |
+|        | 39 | -kin |  |  |  |  |
+|        | 40 | -kin |  |  |  |  |
+|        | 41 | -kin |  |  |  |  |
+|        | 42 | -kin |  |  |  |  |
+|        | 43 | -kin |  |  |  |  |
+|        | 44 | -kin |  |  |  |  |
+|        | 45 | -kin |  |  |  |  |
+|        | 46 | -kin |  |  |  |  |
+|        | 47 | -kin |  |  |  |  |
+|        | 48 | -kin |  |  |  |  |
+|        | 49 | -kin |  |  |  |  |
+|        | 50 | -kin |  |  |  |  |
 | 5      | Monsterous (d10) |  |  |  |  |  |
 |        | 1  | Goblin | DEX |  |  |  |
 |        | 2  | Kobold | CHA |  |  |  |
