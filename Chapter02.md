@@ -112,32 +112,38 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 | :----: | :------- | :------- | :----- | :---- | :------- | :--- |
 | 1-3  | Human (d10) |  |  |  |  |  |
 |        | 1 - 5 | Folkn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
-|        | 6  | Elf | CHA |  |  |  |
-|        | 7  | Dwarf |  |  |  | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
-|        | 8  | Halfling |  |  |  |  |
-|        | 9  | Gnome |  |  |  |  |
-|        | 10 | Orc |  |  |  |  |
-| 4      | Monsterous (d10) |  |  |  |  |  |
+|        | 6  | Elf | WIS |  |  |  |
+|        | 7  | Dwarf | CON |  | Sink like a stone. | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
+|        | 8  | Halfling | DEX |  |  |  |
+|        | 9  | Gnome | INT |  |  |  |
+|        | 10 | Orc | STR |  |  |  |
+| 4      | Beast (d10) |  |  |  |  |  |
+|        | 1  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
+|        | 2  | Frog-kin | CHA | Prehensile tongue, can grab objects 20' away. |  |  |
+|        | 3  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
+|        | 4  | Crow-kin | INT |  | Must make a Wisdom save or pick up shiny objects. |  |
+|        | 5  |  |  |  |  |  |
+|        | 6  |  |  |  |  |  |
+|        | 7  |  |  |  |  |  |
+|        | 8  |  |  |  |  |  |
+|        | 9  |  |  |  |  |  |
+|        | 10 |  |  |  |  |  |
+| 5      | Monsterous (d10) |  |  |  |  |  |
 |        | 1  | Goblin | DEX |  |  |  |
 |        | 2  | Kobold | CHA |  |  |  |
-|        | 3  | Orc |  |  |  |  |
-|        | 4  | Gnome |  |  |  |  |
-|        | 5  | Dwarf |  |  |  |  |
-|        | 6  | Gnome |  |  |  |  |
-|        | 7  | Dwarf |  |  |  |  |
-|        | 8  | Gnome |  |  |  |  |
-|        | 9  | Dwarf |  |  |  |  |
-|        | 10 | Gnome |  |  |  |  |
-| 5      | Beast (d20) |  |  |  |  |  |
-|        | 1 - 10 | Human | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
-|        | 11 - 14 | Elf | CHA |  |  |  |
-|        | 15 | Dwarf |  |  |  | ** |
-|        | 16 | Gnome |  |  |  |  |
+|        | 3  | Tiefling |  |  |  |  |
+|        | 4  | Goliath |  |  |  |  |
+|        | 5  | Triton |  |  |  |  |
+|        | 6  |  |  |  |  |  |
+|        | 7  |  |  |  |  |  |
+|        | 8  |  |  |  |  |  |
+|        | 9  |  |  |  |  |  |
+|        | 10 |  |  |  |  |  |
 | 6      | Exotic (d20) |  |  |  |  |  |
-|        | 1 - 10 | Dragonborn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
-|        | 11 - 14 | Elf | CHA |  |  |  |
-|        | 15 | Dwarf |  |  |  | ** |
-|        | 16 | Gnome |  |  |  |  |
+|        | 1 | Dragonborn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
+|        | 2 | Elf | CHA |  |  |  |
+|        | 3 | Dwarf |  |  |  | ** |
+|        | 4 | Gnome |  |  |  |  |
 
 * * *
 
