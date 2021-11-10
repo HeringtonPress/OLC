@@ -110,12 +110,12 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 
 | D6     | Catagory | Kin      | Reroll | Bonus | Weakness | Lore |
 | :----: | :------- | :------- | :----- | :---- | :------- | :--- |
-| 1-3  | Human (d10) |  |  |  |  |  |
+| 1-3    | Human (d10) |  |  |  |  |  |
 |        | 1 - 5 | Foulkn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
 |        | 6  | Elf | WIS |  |  |  |
 |        | 7  | Dwarf | CON |  | Sink like a stone. | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
-|        | 8  | Halfling | DEX |  |  |  |
-|        | 9  | Gnome | INT |  |  |  |
+|        | 8  | Halfling | DEX | You can reroll a 1 once a day. | Eat two rations at lunch. |  |
+|        | 9  | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
 |        | 10 | Orc | STR |  |  |  |
 | 4      | Beast (d10) |  |  |  |  |  |
 |        | 1  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
@@ -181,10 +181,10 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 9  |  |  |  |  |  |
 |        | 10 |  |  |  |  |  |
 | 6      | Exotic (d20) |  |  |  |  |  |
-|        | 1 | Dragonborn | Choice | +1 Inventory Slots. Gain random item. | -4 to Save against mutated or transformed. | ** |
-|        | 2 | Elf | CHA |  |  |  |
-|        | 3 | Dwarf |  |  |  | ** |
-|        | 4 | Gnome |  |  |  |  |
+|        | 1 | Dragonborn |  |  |  |  |
+|        | 2 |  |  |  |  |  |
+|        | 3 |  |  |  |  |  |
+|        | 4 |  |  |  |  |  |
 
 * * *
 
