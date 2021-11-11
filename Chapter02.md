@@ -117,72 +117,45 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 5  | Halfling | DEX | You can reroll a 1 once a day. | Eat two rations at lunch. |  |
 |        | 6  | Orc | STR |  |  |  |
 | 4      | Beast (d10) |  |  |  |  |  |
-|        | 1  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
-|        | 2  | Frog-kin | INT | Prehensile tongue, can grab objects 20' away. |  |  |
-|        | 3  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
-|        | 4  | Crow-kin | INT |  | Must make a Wisdom save or pick up shiny objects. |  |
-|        | 5  | Eel-kin |  |  |  |  |
-|        | 6  | Ant-kin |  |  |  |  |
-|        | 7  | Quill-kin |  |  |  |  |
-|        | 8  | Deer-kin |  |  |  |  |
-|        | 9  | Sloth-kin |  |  |  |  |
-|        | 10 | Mouse-kin |  |  |  |  |
-|        | 11 | Boar-kin |  |  |  |  |
-|        | 12 | Hawk-kin |  |  |  |  |
-|        | 13 | Hound-kin |  |  |  |  |
-|        | 14 | Beetle-kin |  |  |  |  |
-|        | 15 | Fish-kin |  |  |  |  |
-|        | 16 | Swan-kin |  |  |  |  |
-|        | 17 | Owl-kin |  |  |  |  |
-|        | 18 | Slug-kin |  |  |  |  |
-|        | 19 | fly-kin |  |  |  |  |
-|        | 20 | Rabbit-kin |  |  |  |  |
-|        | 21 | Goose-kin |  |  |  |  |
-|        | 22 | Weasel-kin |  |  |  |  |
-|        | 23 | Lizard-kin |  |  |  |  |
-|        | 24 | Moth-kin |  |  |  |  |
-|        | 25 | Rat-kin |  |  |  |  |
-|        | 26 | Goat-kin |  |  |  |  |
-|        | 27 | Fox-kin |  |  |  |  |
-|        | 28 | Worm-kin |  |  |  |  |
-|        | 29 | Flea-kin |  |  |  |  |
-|        | 30 | Bat-kin |  |  |  |  |
-|        | 31 | -kin |  |  |  |  |
-|        | 31 | -kin |  |  |  |  |
-|        | 32 | -kin |  |  |  |  |
-|        | 33 | -kin |  |  |  |  |
-|        | 34 | -kin |  |  |  |  |
-|        | 35 | -kin |  |  |  |  |
-|        | 36 | -kin |  |  |  |  |
-|        | 37 | -kin |  |  |  |  |
-|        | 38 | -kin |  |  |  |  |
-|        | 39 | -kin |  |  |  |  |
-|        | 40 | -kin |  |  |  |  |
-|        | 41 | -kin |  |  |  |  |
-|        | 42 | -kin |  |  |  |  |
-|        | 43 | -kin |  |  |  |  |
-|        | 44 | -kin |  |  |  |  |
-|        | 45 | -kin |  |  |  |  |
-|        | 46 | -kin |  |  |  |  |
-|        | 47 | -kin |  |  |  |  |
-|        | 48 | -kin |  |  |  |  |
-|        | 49 | -kin |  |  |  |  |
-|        | 50 | -kin |  |  |  |  |
+|        | 11  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
+|        | 12  | Frog-kin | INT | Prehensile tongue, can grab objects 20' away. |  |  |
+|        | 13  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
+|        | 14  | Crow-kin | INT | Can see detail at a great distance. | Must make a Wisdom save or pick up shiny objects. |  |
+|        | 15  | Ant-kin |  |  |  |  |
+|        | 16  | Quill-kin |  |  |  |  |
+|        | 21  | Deer-kin |  |  |  |  |
+|        | 22  | Feline-kin |  |  |  |  |
+|        | 23  | Possum-kin |  | Can very convincingly play dead. | When afraid, will freeze instead of running. |  |
+|        | 24  | Boar-kin |  |  |  |  |
+|        | 25  | Hound-kin |  |  |  |  |
+|        | 26  | Fish-kin |  |  |  |  |
+|        | 31  | Swan-kin |  | Prehensile neck, can fit through small spaces. | -4 to Save against mutated or transformed. |  |
+|        | 32  | Owl-kin |  |  |  |  |
+|        | 33  | Slug-kin |  |  |  |  |
+|        | 34  | Rabbit-kin |  |  |  |  |
+|        | 35  | Weasel-kin |  |  |  |  |
+|        | 36  | Lizard-kin |  |  |  |  |
+|        | 41  | Moth-kin |  |  |  |  |
+|        | 42  | Mouse-kin |  |  |  |  |
+|        | 43  | Goat-kin |  |  |  |  |
+|        | 44  | Fox-kin |  |  |  |  |
+|        | 45  | Bat-kin |  |  |  |  |
+|        | 46  | Kra-kin |  |  |  |  |
 | 5      | Monsterous (d10) |  |  |  |  |  |
 |        | 1  | Goblin | DEX |  |  |  |
 |        | 2  | Kobold | CHA |  |  |  |
 |        | 3  | Tiefling |  |  |  |  |
 |        | 4  | Goliath |  |  |  |  |
 |        | 5  | Triton |  |  |  |  |
-|        | 6  |  |  |  |  |  |
-|        | 7  |  |  |  |  |  |
-|        | 8  |  |  |  |  |  |
-|        | 9  |  |  |  |  |  |
+|        | 6  | Corpsefly |  |  |  |  |
+|        | 7  | Bugbear |  |  |  |  |
+|        | 8  | Firbolg |  |  |  |  |
+|        | 9  | Aasimar |  |  |  |  |
 |        | 10 |  |  |  |  |  |
 | 6      | Exotic (d20) |  |  |  |  |  |
 |        | 1 | Dragonborn |  |  |  |  |
 |        | 2 | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
-|        | 3 |  |  |  |  |  |
+|        | 3 | Gith |  |  |  |  |
 |        | 4 |  |  |  |  |  |
 
 * * *
