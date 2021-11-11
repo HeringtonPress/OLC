@@ -37,7 +37,7 @@ The classes listed here are the classics! Functional alone and in any imaginable
 - [Knight](Chapter03.md#Knight)
 - [Thief](Chapter03.md#Thief)
 - [Hunter](Chapter03.md#Hunter)
-- [Monk](Chapter03.md#Monk-/-Nun)
+- [Monk](Chapter03.md#Monk--Nun)
 - [Wizard](Chapter03.md#Wizard)
 - [Sorcerer](Chapter03.md#Sorcerer)
 - [Summoner](Chapter03.md#Summoner)
