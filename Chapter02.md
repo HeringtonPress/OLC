@@ -146,7 +146,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 2  | Kobold | CHA |  |  |  |
 |        | 3  | Tiefling |  |  |  |  |
 |        | 4  | Goliath |  |  |  |  |
-|        | 5  | Triton |  |  |  |  |
+|        | 5  | Triton |  | Hold breath 5 minutes. | Weakness to heat exhaustion. |  |
 |        | 6  | Corpsefly |  |  |  |  |
 |        | 7  | Bugbear |  |  |  |  |
 |        | 8  | Firbolg |  |  |  |  |
