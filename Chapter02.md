@@ -34,19 +34,20 @@ The classes listed here are the classics! Functional alone and in any imaginable
 
 - [Fighter](Chapter03.md#Fighter)
 - [Barbarian](Chapter03.md#Barbarian)
-- [Knight](Chapter03.md#Knight)
 - [Thief](Chapter03.md#Thief)
+- [Knight](Chapter03.md#Knight)
 - [Hunter](Chapter03.md#Hunter)
-- [Monk](Chapter03.md#Monk--Nun)
 - [Wizard](Chapter03.md#Wizard)
 - [Sorcerer](Chapter03.md#Sorcerer)
 - [Summoner](Chapter03.md#Summoner)
+- [Monk](Chapter03.md#Monk--Nun)
 
 ### Novelty Classes
 
 The classes listed here require unusual playstyles, GM adjudication, or a specific kind of setting.
 
 - [Cannoneer](Chapter03.md#Cannoneer)
+- [Deathtouched](Chapter03.md#Deathtouched)
 - [Exorcist](Chapter03.md#Exorcist)
 - [Homunculator](Chapter03.md#Homunculator)
 - [Inventor Necromancer](Chapter03.md#Inventor-Necromancer)
@@ -80,7 +81,7 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 
 ## Leveling Up
 
-PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot must be taken to a place of safety and divided or assigned to the PCs to become XP. Items or equipment used by the characters and not sold don’t count for XP purposes. Players should track a PC’s XP (the total amount of treasure they have accumulated) along with their current cash. Purely frivolous spending converts 10% of the money spent into XP.
+PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot must be taken to a place of safety and divided or assigned to the PCs to become XP. Items or equipment used by the characters and not sold don’t count for XP purposes. If a PC would recieve enough XP to level up more then once they instead cap just before the second level they would take. Players should track a PC’s XP (the total amount of treasure they have accumulated) along with their current cash. Purely frivolous spending converts 10% of the money spent into XP.
 
 Whenever a PC levels, increase their HP, select a class template if applicable, and select any one stat to increase the score of by 1.
 
@@ -110,13 +111,13 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 
 | D6     | Catagory | Kin      | Reroll | Bonus | Weakness | Lore |
 | :----: | :------- | :------- | :----- | :---- | :------- | :--- |
-| 1-3    | Human (d10) |  |  |  |  |  |
+| 1-3    | Human (d6) |  |  |  |  |  |
 |        | 1 - 3 | Foulkn | Choice | Can detect undead as a chill down your neck. | -4 to Save against mutated or transformed. | ** |
 |        |    | Elf | WIS |  |  |  |
 |        | 4  | Dwarf | CON |  | Sink like a stone. | *A people carved from stone, Dwarves are a dying breed as the art of carving them was lost long ago.* |
 |        | 5  | Halfling | DEX | You can reroll a 1 once a day. | Eat two rations at lunch. |  |
 |        | 6  | Orc | STR |  |  |  |
-| 4      | Beast (d10) |  |  |  |  |  |
+| 4      | Beast (d46) |  |  |  |  |  |
 |        | 11  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
 |        | 12  | Frog-kin | INT | Prehensile tongue, can grab objects 20' away. |  |  |
 |        | 13  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
@@ -152,7 +153,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 8  | Firbolg |  |  |  |  |
 |        | 9  | Aasimar |  |  |  |  |
 |        | 10 | Slime |  |  |  |  |
-| 6      | Exotic (d20) |  |  |  |  |  |
+| 6      | Exotic (d4) |  |  |  |  |  |
 |        | 1 | Dragonborn |  | 2d6 dragonbreath 1/day, 15'. | Breath causes 1d6 damage to self. |  |
 |        | 2 | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
 |        | 3 | Gith |  |  |  |  |
