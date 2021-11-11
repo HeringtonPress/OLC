@@ -134,7 +134,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 33  | Slug-kin |  |  |  |  |
 |        | 34  | Rabbit-kin |  |  |  |  |
 |        | 35  | Weasel-kin |  |  |  |  |
-|        | 36  | Lizard-kin |  |  |  |  |
+|        | 36  | Lizard-kin |  | +1 AC as shield. | Weakness to chill exhaustion. |  |
 |        | 41  | Moth-kin |  |  |  |  |
 |        | 42  | Mouse-kin |  |  |  |  |
 |        | 43  | Goat-kin |  |  |  |  |
