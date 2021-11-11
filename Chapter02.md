@@ -151,7 +151,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 7  | Bugbear |  |  |  |  |
 |        | 8  | Firbolg |  |  |  |  |
 |        | 9  | Aasimar |  |  |  |  |
-|        | 10 |  |  |  |  |  |
+|        | 10 | Slime |  |  |  |  |
 | 6      | Exotic (d20) |  |  |  |  |  |
 |        | 1 | Dragonborn |  | 2d6 dragonbreath 1/day, 15'. | Breath causes 1d6 damage to self. |  |
 |        | 2 | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
