@@ -415,7 +415,7 @@ Starting Skill: Wilderness. Also, roll on the following table.
 
 **B:** Crippling Shot, Quick Shot
 
-**C:** True Caution
+**C:** Master Trapper, Monster Chef
 
 **D:** Impossible Shot, Vanish
 
