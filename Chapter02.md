@@ -118,7 +118,7 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 6  | Orc | STR |  |  |  |
 | 4      | Beast (d10) |  |  |  |  |  |
 |        | 1  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
-|        | 2  | Frog-kin | CHA | Prehensile tongue, can grab objects 20' away. |  |  |
+|        | 2  | Frog-kin | INT | Prehensile tongue, can grab objects 20' away. |  |  |
 |        | 3  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
 |        | 4  | Crow-kin | INT |  | Must make a Wisdom save or pick up shiny objects. |  |
 |        | 5  | Eel-kin |  |  |  |  |
