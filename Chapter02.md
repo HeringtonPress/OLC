@@ -37,7 +37,7 @@ The classes listed here are the classics! Functional alone and in any imaginable
 - [Knight](Chapter03.md#Knight)
 - [Thief](Chapter03.md#Thief)
 - [Hunter](Chapter03.md#Hunter)
-- [Monk](Chapter03.md#Monk)
+- [Monk](Chapter03.md#Monk-/-Nun)
 - [Wizard](Chapter03.md#Wizard)
 - [Sorcerer](Chapter03.md#Sorcerer)
 - [Summoner](Chapter03.md#Summoner)
@@ -82,7 +82,7 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 
 PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot must be taken to a place of safety and divided or assigned to the PCs to become XP. Items or equipment used by the characters and not sold don’t count for XP purposes. Players should track a PC’s XP (the total amount of treasure they have accumulated) along with their current cash. Purely frivolous spending converts 10% of the money spent into XP.
 
-Whenever a PC levels, increase their HP, Attack, and base Save (before their Charisma bonus is added). A PC can also test to improve a stat of their choice. Declare the stat and roll 3d6. If the result is over, the stat’s value increases by 1.
+Whenever a PC levels, increase their HP, select a class template if applicable, and select any one stat to increase the score of by 1.
 
 | Level| XP        | HP      | Class Templates | 
 | :--- | :-------: | :-----: | :-------------: |
