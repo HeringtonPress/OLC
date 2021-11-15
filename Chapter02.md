@@ -83,7 +83,7 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 
 PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot must be taken to a place of safety and divided or assigned to the PCs to become XP. Items or equipment used by the characters and not sold don’t count for XP purposes. *If a PC would recieve enough XP to level up more then once they instead cap just before the second level they would take.* Players should track a PC’s XP (the total amount of treasure they have accumulated) along with their current cash. Purely frivolous spending converts 10% of the money spent into XP.
 
-Whenever a PC levels, increase their HP, select a class template if applicable, and select any one stat to increase the score of by 1.
+Whenever a PC levels, increase their HP to a maximum of 20, select a class template if applicable, and select any one stat to increase the score of by 1.
 
 | Level| XP        | HP      | Class Templates | 
 | :--- | :-------: | :-----: | :-------------: |
@@ -119,40 +119,40 @@ At Level 5, and every time a PC levels up past Level 5, they can retire to safet
 |        | 6  | Orc | STR |  |  |  |
 | 4      | Beast (d46) |  |  |  |  |  |
 |        | 11  | Spider-kin | DEX | Can secrete 30' of rope once per day. | Cannot see more than 30'. |  |
-|        | 12  | Frog-kin | INT | Prehensile tongue, can grab objects 20' away. |  |  |
+|        | 12  | Frog-kin | INT | Prehensile tongue, can grab objects 20' away. | Con reduced by 1 per each day spent without submerging in water. |  |
 |        | 13  | Toad-kin | STR | Can jump 6 feet of the ground from a standstill. |  |  |
 |        | 14  | Crow-kin | INT | Can see detail at a great distance. | Must make a Wisdom save or pick up shiny objects. |  |
 |        | 15  | Ant-kin |  |  |  |  |
 |        | 16  | Quill-kin |  |  |  |  |
-|        | 21  | Deer-kin |  |  |  |  |
-|        | 22  | Feline-kin |  |  |  |  |
-|        | 23  | Possum-kin |  | Can very convincingly play dead. | When afraid, will freeze instead of running. |  |
-|        | 24  | Boar-kin |  |  |  |  |
-|        | 25  | Hound-kin |  |  |  |  |
-|        | 26  | Fish-kin |  |  |  |  |
-|        | 31  | Swan-kin |  | Prehensile neck, can fit through small spaces. | -4 to Save against mutated or transformed. |  |
-|        | 32  | Owl-kin |  |  |  |  |
-|        | 33  | Slug-kin |  |  |  |  |
-|        | 34  | Rabbit-kin |  |  |  |  |
-|        | 35  | Weasel-kin |  |  |  |  |
-|        | 36  | Lizard-kin |  | +1 AC as shield. | Weakness to chill exhaustion. |  |
-|        | 41  | Moth-kin |  |  |  |  |
-|        | 42  | Mouse-kin |  |  |  |  |
-|        | 43  | Goat-kin |  |  |  |  |
-|        | 44  | Fox-kin |  |  |  |  |
-|        | 45  | Bat-kin |  |  |  |  |
-|        | 46  | Kra-kin |  |  |  |  |
+|        | 21  | Deer-kin | DEX |  |  |  |
+|        | 22  | Feline-kin | DEX |  |  |  |
+|        | 23  | Possum-kin | WIS | Can very convincingly play dead. | When afraid, will freeze instead of running. |  |
+|        | 24  | Boar-kin | STR |  |  |  |
+|        | 25  | Hound-kin | CHA |  |  |  |
+|        | 26  | Fish-kin |  |  | Con reduced by 1 per each day spent without submerging in water. |  |
+|        | 31  | Swan-kin | CHA | Prehensile neck, can fit through small spaces. | -4 to Save against mutated or transformed. |  |
+|        | 32  | Owl-kin | INT |  |  |  |
+|        | 33  | Slug-kin | CON |  |  |  |
+|        | 34  | Rabbit-kin | DEX |  |  |  |
+|        | 35  | Weasel-kin | WIS |  |  |  |
+|        | 36  | Lizard-kin | CON | +1 AC as shield. | Weakness to chill exhaustion. |  |
+|        | 41  | Moth-kin | WIS |  |  |  |
+|        | 42  | Mouse-kin | DEX |  |  |  |
+|        | 43  | Goat-kin | STR |  |  |  |
+|        | 44  | Fox-kin | INT |  |  |  |
+|        | 45  | Bat-kin | INT |  |  |  |
+|        | 46  | Kra-kin | WIS |  |  |  |
 | 5      | Monsterous (d10) |  |  |  |  |  |
 |        | 1  | Goblin | DEX |  |  |  |
 |        | 2  | Kobold | CHA |  |  |  |
-|        | 3  | Tiefling |  |  |  |  |
-|        | 4  | Goliath |  |  |  |  |
-|        | 5  | Triton |  | Hold breath 5 minutes. | Weakness to heat exhaustion. |  |
-|        | 6  | Corpsefly |  |  |  |  |
-|        | 7  | Bugbear |  |  |  |  |
-|        | 8  | Firbolg |  |  |  |  |
-|        | 9  | Aasimar |  |  |  |  |
-|        | 10 | Slime |  |  |  |  |
+|        | 3  | Tiefling | CHA |  |  |  |
+|        | 4  | Goliath | STR |  |  |  |
+|        | 5  | Triton | CON | Hold breath 5 minutes. | Weakness to heat exhaustion. |  |
+|        | 6  | Corpsefly | WIS |  |  |  |
+|        | 7  | Bugbear | STR |  |  |  |
+|        | 8  | Firbolg | WIS |  |  |  |
+|        | 9  | Aasimar | INT |  |  |  |
+|        | 10 | Slime | CON |  |  |  |
 | 6      | Exotic (d4) |  |  |  |  |  |
 |        | 1 | Dragonborn |  | 2d6 dragonbreath 1/day, 15'. | Breath causes 1d6 damage to self. |  |
 |        | 2 | Gnome | INT | Invisible while hoalding your breath and closing your eyes. | Must make a Charisma saving throw or punch someone who side eyes you. |  |
