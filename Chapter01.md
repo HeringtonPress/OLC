@@ -154,7 +154,7 @@ Under certain circumstances you may be required to make a durability roll. Roll 
 
 ### Armour
 
-Armour pieces reduce damage by 1, to a minnimum of 1, but also lowers your dexterity by 1 (down to 1). You can wear 3 pieces of armour at a time; head, body, and misc.
+Armour pieces reduce damage by 1, to a minnimum of 1, but also lowers your dexterity by 1, to a minnimum of 1. You 4 armour slots; Head, Torso, Arms, and Legs. You can only have one piece of armour equiped to a slot at a time.
 
 When an attack against you rolls max damage you must make a durability roll.
 
