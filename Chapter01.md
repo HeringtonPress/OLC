@@ -52,6 +52,8 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 
 ## Stats and Skills
 
+### Core Six
+
 **Strength** represents your physical prowess. It affects the number of things you can carry and your melee attacks.
 
 **Dexterity** represents your balance, precision and reflexes. It affects your ranged attacks.
@@ -63,6 +65,14 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 **Wisdom** represents your instinct and willpower. It is used to resist many spells and affects the number of spells you can know.
 
 **Charisma** represents your personality. It is used to for social intereactions and affects the number of followers you can have.
+
+| Stat  |     | Bonus |     |   Stat   |     | Bonus |     |   Stat   |     | Bonus |
+|:-----:|:---:|:-----:|:---:|:--------:|:---:|:-----:|:---:|:--------:|:---:|:-----:|
+|  1,2  |     |  -3   |     | 9,10,11  |     |   0   |     | 18,19,20 |     |   3   |
+| 3,4,5 |     |  -2   |     | 12,13,14 |     |   1   |     | 21,22,23 |     |   4   |
+| 6,7,8 |     |  -1   |     | 15,16,17 |     |   2   |     |   24+    |     |   5   |
+
+### Additional Skills
 
 **HP** (or Hit Points) is the amount of damage you can take before getting Wounded.
 
