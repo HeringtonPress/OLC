@@ -7,6 +7,29 @@
 
 * * *
 
+## Templates & Multiclassing
+
+Each class has 4 Templates. Templates are gained sequentially (A, then B, then C, then D). To multiclass, simply pick the lowest template from another class. E.g. A level 4 character could pick Fighter A, Wizard A, Monk A, and Fighter B. Multiclassing should make sense. Multiclassing for optimization or mechanical reasons should be strongly discouraged by the GM. The game is not about the mechanics or having the biggest numbers. **Bigger numbers will not save you.**
+
+# Class List
+
+1. Fighter
+2. Thief
+3. Wizard
+4. Priest
+5. Knight
+6. Barbarian
+7. Hunter
+8. Sorcerer
+9. Summoner
+10. Monk
+11. Cannoneer
+12. Goblin
+13. Many Goblins
+14. Surely Gnome
+15. Death Touched
+16. 
+
 ## Fighter
 
 Starting Equpment: leather armour, sword, bow, 20 arrows.
