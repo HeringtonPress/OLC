@@ -29,9 +29,13 @@
 | Hound | 1gp |
 | Sheep | 3sp |
 
-| Animals | Cost |
-| :---: | :---: |
-| Cattle | 1gp |
+| Armour | Cost |
+| :----: | :--: |
+| Cattle | 1gp  |
+
+| Exotic Armour | Cost |
+| :-----------: | :--: |
+| Cattle        | 1gp  |
 
 | Animals | Cost |
 | :---: | :---: |
