@@ -29,13 +29,14 @@
 | Hound | 1gp |
 | Sheep | 3sp |
 
-| Armour | Cost |
-| :----: | :--: |
-| Cattle | 1gp  |
-
-| Exotic Armour | Cost |
-| :-----------: | :--: |
-| Cattle        | 1gp  |
+| Armour    | Effect                                | Max Durability | Price/Durability | Slots |
+| --------- | ------------------------------------- |:--------------:|:----------------:|:-----:|
+| Helmet    |                                       |       2        |        5gp       |   1   |
+| Chest     |                                       |       4        |        10gp      |   2   |
+| Gauntlets |                                       |       2        |        5gp       |   1   |
+| Boots     |                                       |       2        |        2gp       |   1   |
+| **Exotic**    |                                       |                |                  |       |
+| Manica    | Can be Sundered for a d6              |       2        |        10gp      |   1   |
 
 | Animals | Cost |
 | :---: | :---: |
