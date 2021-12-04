@@ -24,7 +24,7 @@ Simply, the referee describes a situation, and you tell what your character woul
 - Choose or roll for your Kin. Your Kin will grant you a bonus, a drawback, and one stat you can reroll.
 - Roll your Stats. 4d4 in order. You may reroll the Stat given by your Race and pick the higher result.
 - Choose or roll for your Class. Gain the first template (A) and any other items and bonuses.
-- Gain 1d10cp. If the entire group is level 1, all PCs also gain a blanket (1 slot) and 3 rations (1 slot).
+- Gain 1d10cp. All PCs also start with a blanket (1 slot), 4 rations (1 slot), and 4 torches (1 slot).
 
 ## Leveling up
 
