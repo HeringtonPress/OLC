@@ -12,10 +12,10 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 - [Creating a Character](Chapter01.md#creating-a-character)
 - [Leveling Up](Chapter01.md#leveling-up)
-- [Stats & Skills](Chapter01.md#stats-&-skills)
+- [Stats & Skills](Chapter01.md#stats--skills)
 - [Rolling](Chapter01.md#rolling)
 - [Combat](Chapter01.md#combat)
-- [Dying & Healing](Chapter01.md#dying-&-healing)
+- [Dying & Healing](Chapter01.md#dying--healing)
 - [Inventory](Chapter01.md#inventory)
 - [Equipment](Chapter01.md#equipment)
 
