@@ -150,17 +150,15 @@ Armour pieces reduce damage by 1, to a minnimum of 1, but also lowers your dexte
 
 When an attack against you rolls max damage you must make a durability roll.
 
-**Helmet**
+| Item      | Effect                                | Max Durability | Price/Durability | Slots |
+| --------- | ------------------------------------- |:--------------:|:----------------:|:-----:|
+| Helmet    |                                       |       2        |        5gp       |   1   |
+| Chest     | Reduces Dexterity by 2 instead of 1   |       4        |        10gp      |   2   |
+| Gauntlets | Does not reduce dexterity             |       2        |        5gp       |   1   |
+| Boots     | Takes up no inventory slots when worn |       2        |        2gp       |   1   |
+| Pauldrons |                                       |       3        |        10gp      |   1   |
 
-**Breastplate**
-
-**Gauntlets**
-
-**Boots**
-
-**Pauldrons**
-
-**Shields** Like most armour shields reduce damage taken by 1 and do not count towards your worn armour limit but do require a free hand. Additionally a shield can be sundered. Breaking the shield but reducing the incoming damage of one attack by a d12 instead of 1.
+**Shields** Like most armour shields reduce damage taken by 1 but do not count towards your worn armour limit. They do, however, require a free hand to use. Additionally a shield can be sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1. Take up 1 slot and cost 5 gp.
 
 * * *
 
