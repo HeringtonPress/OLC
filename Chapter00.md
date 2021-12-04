@@ -5,9 +5,9 @@
 
 ## Table of Contents
 
-[Chapter 1 Introduction](Chapter01.md#chapter-1-introduction)
+[Chapter 1 Core Rules](Chapter01.md#chapter-1)
 
-[Chapter 2 Characters](Chapter02.md#chapter-2-characters)
+[Chapter 2 Kin](Chapter02.md#chapter-2-kin)
 
 [Chapter 3 Classes](Chapter03.md#chapter-3-classes)
 
