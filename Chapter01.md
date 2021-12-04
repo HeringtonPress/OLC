@@ -162,8 +162,9 @@ When an attack against you rolls max damage you must make a durability roll.
 | --------- | ------------------------------------- |:--------------:|:----------------:|:-----:|
 | Helmet    |                                       |       2        |        5gp       |   1   |
 | Chest     |                                       |       4        |        10gp      |   2   |
-| Gauntlets | Does not reduce dexterity             |       2        |        5gp       |   1   |
-| Boots     | Takes up no inventory slots when worn |       2        |        2gp       |   1   |
+| Gauntlets |                                       |       2        |        5gp       |   1   |
+| Boots     |                                       |       2        |        2gp       |   1   |
+
 | Manica    | Can be Sundered for a d6              |       2        |        10gp      |   1   |
 
 **Shields** Like most armour shields reduce damage taken by 1 but do not count towards your worn armour limit. They do, however, require a free hand to use. Additionally a shield can be sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1. Take up 1 slot and cost 5 gp.
