@@ -124,25 +124,22 @@ Under certain circumstances you may be required to make a durability roll. Roll 
 
 ### Melee Weapons
 
-Improvised (wine bottle, chair) 1D4 damage, can be throw
-
-Light (dagger, javelin) 1D6 damage, can be thrown
-
-Medium (sword, axe) 1D8 damage, 1D10 with two hands
-
-Heavy (greatsword, greataxe) 1D12 damage, needs two hands
-
-Pole (spear, halberd) 1D8 damage, needs two hands, free attack if a monster charges you
+| Item       | Effect                                                            | Max Durability | Price/Durability | Slots |
+| ---------- | ----------------------------------------------------------------- |:--------------:|:----------------:|:-----:|
+| Improvised | 1D4 damage, can be throw                                          |       1        |        ~         |   ~   |
+| Light      | 1D6 damage, can be thrown                                         |       2        |       5sp        |  0.5  |
+| Medium     | 1D8 damage, 1D10 with two hands                                   |       3        |      2.5gp       |   1   |
+| Heavy      | 1D12 damage, needs two hands                                      |       4        |       5gp        |   2   |
+| Pole       | 1D8 damage, needs two hands, free attack if a monster charges you |       3        |       5gp        |   2   |
 
 ### Ranged Weapons
 
-Light (darts) 1 damage, can attack twice
-
-Medium (sling) 1D4 damage
-
-Heavy (bow) 1D6 damage, needs two hands
-
-Mechanical (crossbow, musket) 1D12 damage, needs two hands, must take one action to recharge
+| Item       | Effect                                                         | Max Durability | Price/Durability | Slots |
+| ---------- | -------------------------------------------------------------- |:--------------:|:----------------:|:-----:|
+| Light      | 1 damage, can attack twice                                     |       1        |       1sp        |  10   |
+| Medium     | 1D4 damage                                                     |       2        |       2sp        |   1   |
+| Heavy      | 1D6 damage, needs two hands                                    |       3        |       2gp        |   2   |
+| Mechanical | 1D12 damage, needs two hands, must take one action to recharge |       4        |       5gp        |   2   |
 
 ### Armour
 
