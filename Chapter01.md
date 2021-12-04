@@ -100,7 +100,7 @@ When you are dying, you must roll Constitution on each of your turns.
 - On a success, nothing changes.
 - On a roll of 20 or on result of 24 or higher, you stabilize and stop dying.
 
-Up to two allies can roll Wisdom to stabilize you. Expanding bandages gives advantage on that roll.
+Up to two allies can roll Wisdom to stabilize you. Expending bandages gives advantage on that roll.
 
 Stabilizing does not remove wounds.
 
@@ -118,7 +118,11 @@ It takes an action to retrieve an item, unless it is in your first 3 slots.
 
 ## Equipment
 
-**Melee Weapons**
+### Durability
+
+Under certain circumstances you may be required to make a durability roll. Roll a d6 and compare it to the durability stat of the target item. if it is above the stat the item breaks.
+
+### Melee Weapons
 
 Improvised (wine bottle, chair) 1D4 damage, can be throw
 
@@ -130,7 +134,7 @@ Heavy (greatsword, greataxe) 1D12 damage, needs two hands
 
 Pole (spear, halberd) 1D8 damage, needs two hands, free attack if a monster charges you
 
-**Ranged Weapons**
+### Ranged Weapons
 
 Light (darts) 1 damage, can attack twice
 
@@ -140,11 +144,23 @@ Heavy (bow) 1D6 damage, needs two hands
 
 Mechanical (crossbow, musket) 1D12 damage, needs two hands, must take one action to recharge
 
-**Armor**
+### Armour
 
-All armor pieces reduce damage by 1, to a minnimum of 1, but also lowers your dexterity by 1 (down to 1). You can wear 3 pieces of armour at a time, Head, body, and extra.
+Armour pieces reduce damage by 1, to a minnimum of 1, but also lowers your dexterity by 1 (down to 1). You can wear 3 pieces of armour at a time; head, body, and misc.
 
-**Shields** Like armour shields reduce damage taken by 1 and do not count towards your worn armour limit. Additionally a shield can be sundered. Breaking the shield but reducing the incoming damage of one attack by a d12 instead of 1.
+When an attack against you rolls max damage you must make a durability roll.
+
+**Helmet**
+
+**Breastplate**
+
+**Gauntlets**
+
+**Boots**
+
+**Pauldrons**
+
+**Shields** Like most armour shields reduce damage taken by 1 and do not count towards your worn armour limit but do require a free hand. Additionally a shield can be sundered. Breaking the shield but reducing the incoming damage of one attack by a d12 instead of 1.
 
 * * *
 
