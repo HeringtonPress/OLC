@@ -4,7 +4,7 @@
 - Damage Types (damage combos)
 - Stat Damage
 - Conditions
-- Rare Metals (mithril and shit)
+- Rare Crafting Materials 
 - Treasures (alternative to xp and money)
 - Traveling
 - Between Adventures (ways to spend Treasures)
@@ -88,7 +88,7 @@ If you’re being chased, roll 2d6. On a 2, you’re surprised. On a 3–6, it�
 
 Optional modifiers. +1 for each of the following: if there are twice as many chasing you, if you have a faster movement rate, if there’s a thief in your party, if it rains, if it’s dark. -1 for each of the following: if there’s an elf or a ranger tracking you, if there are wounded party members with you, if there’s snow on the ground. 
 
-## Rare Metals
+## Rare Crafting Materials
 
 Fairies, elementals, ghosts and devils resist or ignore damage. But some rare metals overcome that. Additionaly, Adamantium and Platinum weapons are very useful for fighters because they dont get destroyed when they use their parry ability.
 
