@@ -164,7 +164,7 @@ When an attack against you rolls max damage on a die you must make a durability 
 | Gauntlets |                                       |     2      | Mundane  |   1   |
 | Boots     |                                       |     2      | Mundane  |   1   |
 
-**Shields** Like most armour shields reduce damage taken by 1 but do not count towards your worn armour limit. They do, however, require a free hand to use. Additionally a shield can be sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1. Take up 1 slot and is of Mundane worth.
+**Shields** Like most armour shields reduce damage taken by 1 but do not take up any armour slot. They do, however, require a free hand to use. Additionally a shield can be Sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1. Takes up 1 slot and is of Mundane worth.
 
 * * *
 
