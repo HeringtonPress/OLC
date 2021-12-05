@@ -550,9 +550,9 @@ You are a member of the Third Estate or an Outlaw. You blend in with society or 
 
 ## Hunter
 
-Starting Equpment: bow, 40 arrows, dagger, leather armour.
+**Starting Equpment**: bow, 40 arrows, dagger, leather armour.
 
-Starting Skill: Wilderness. Also, roll on the following table.
+**Starting Skill (+1)**: "Tracking" and your choice of "Foraging", "Maps" or "Beasts". 
 
 **A:** Rangefinder, Wilderness Sense
 
