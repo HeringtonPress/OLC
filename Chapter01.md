@@ -135,37 +135,36 @@ Under certain circumstances you may be required to make a durability roll. Roll 
 
 ### Melee Weapons
 
-| Item       | Effect                                                            | Max Durability | Price/Durability | Slots |
-| ---------- | ----------------------------------------------------------------- |:--------------:|:----------------:|:-----:|
-| Improvised | 1D4 damage, can be throw                                          |       1        |        ~         |   ~   |
-| Light      | 1D6 damage, can be thrown                                         |       2        |       5sp        |  0.5  |
-| Medium     | 1D8 damage, 1D10 with two hands                                   |       3        |      2.5gp       |   1   |
-| Heavy      | 1D12 damage, needs two hands                                      |       4        |       5gp        |   2   |
-| Pole       | 1D8 damage, needs two hands, free attack if a monster charges you |       3        |       5gp        |   2   |
+| Item       | Effect                                                            | Durability |    Worth    | Slots |
+| :--------- | ----------------------------------------------------------------- |:----------:|:-----------:|:-----:|
+| Improvised | 1D4 damage, can be throw                                          |     1      |    Trash    |   ~   |
+| Light      | 1D6 damage, can be thrown                                         |     2      | 1/2 Mundane |  0.5  |
+| Medium     | 1D8 damage, 1D10 with two hands                                   |     3      |   Mundane   |   1   |
+| Heavy      | 1D12 damage, needs two hands                                      |     4      |   Valuable  |   2   |
+| Pole       | 1D8 damage, needs two hands, free attack if a monster charges you |     3      |   Valuable  |   2   |
 
 ### Ranged Weapons
 
-| Item       | Effect                                                         | Max Durability | Price/Durability | Slots |
-| ---------- | -------------------------------------------------------------- |:--------------:|:----------------:|:-----:|
-| Light      | 1 damage, can attack twice                                     |       1        |       1sp        |  10   |
-| Medium     | 1D4 damage                                                     |       2        |       2sp        |   1   |
-| Heavy      | 1D6 damage, needs two hands                                    |       3        |       2gp        |   2   |
-| Mechanical | 1D12 damage, needs two hands, must take one action to recharge |       4        |       5gp        |   2   |
+| Item       | Effect                                                         | Durability |    Worth    | Slots |
+| :--------- | -------------------------------------------------------------- |:----------:|:-----------:|:-----:|
+| Light      | 1D4 damage                                                     |     2      |   Mundane   |   1   |
+| Medium     | 1D6 damage, needs two hands                                    |     3      |   Mundane   |   2   |
+| Mechanical | 1D12 damage, needs two hands, must take one action to recharge |     4      |   Valuable  |   2   |
 
 ### Armour
 
 Armour pieces reduce damage by 1, to a minnimum of 1, but also lowers your dexterity by 1, to a minnimum of 1. You 4 armour slots; Head, Torso, Arms, and Legs. You can only have one piece of armour equiped to a slot at a time.
 
-When an attack against you rolls max damage you must make a durability roll.
+When an attack against you rolls max damage on a die you must make a durability roll. Player puts up the armour as wager on what will be destroyed.
 
-| Item      | Effect                                | Max Durability | Worth    | Slots |
-| --------- | ------------------------------------- |:--------------:|:--------:|:-----:|
-| Helmet    |                                       |       2        | Mundane  |   1   |
-| Chest     |                                       |       4        | Valuable |   2   |
-| Gauntlets |                                       |       2        | Mundane  |   1   |
-| Boots     |                                       |       2        | Mundane  |   1   |
+| Item      | Effect                                | Durability | Worth    | Slots |
+| --------- | ------------------------------------- |:----------:|:--------:|:-----:|
+| Helmet    |                                       |     2      | Mundane  |   1   |
+| Chest     |                                       |     4      | Valuable |   2   |
+| Gauntlets |                                       |     2      | Mundane  |   1   |
+| Boots     |                                       |     2      | Mundane  |   1   |
 
-**Shields** Like most armour shields reduce damage taken by 1 but do not count towards your worn armour limit. They do, however, require a free hand to use. Additionally a shield can be sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1. Take up 1 slot and cost 5 gp.
+**Shields** Like most armour shields reduce damage taken by 1 but do not count towards your worn armour limit. They do, however, require a free hand to use. Additionally a shield can be sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1. Take up 1 slot and is of Mundane worth.
 
 * * *
 
