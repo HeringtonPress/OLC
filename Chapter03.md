@@ -117,7 +117,7 @@ You are probably a member of the Third Estate. In Civilised Parts, you theoretic
 
 **Starting Equpment**: Holy Vestments, a Censer, a Holy Book.
 
-**Starting Skill (+1)**: "The Holy Scriptures” and your choice of “Dead Languages”, “Preaching” or “Inquisition
+**Starting Skill (+1)**: "The Holy Scriptures” and your choice of “Dead Languages”, “Preaching” or “Inquisition"
 
 For every Priest template you have, you gain one new Sacrament.
 
@@ -338,9 +338,9 @@ You are from Foreign Parts. The language of people Around Here is strange to you
 
 ## Knight
 
-Starting Equpment: chainmail, shield, sword, horse, 5sp.
+**Starting Equpment**: chainmail, shield, sword, horse, 5sp.
 
-Starting Skill: Courtesy. Also, roll on the following table.
+**Starting Skill (+1)**: "Courtesy" and your choice of "Poetry", "Military" and "Inquisition".
 
 **A:** Challenge, Champion
 
