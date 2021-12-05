@@ -1642,4 +1642,103 @@ Bonus
 
 * * *
 
+Choices of Sacraments:
+Anoint the sword of the Conqueror
+
+    You can spend Spell Dices as you attack and add the sum to your attack and damage rolls.
+    When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Dice for your next combat turn.
+    Roll 1D4, you gain the following spell: 1. Bloodlust, 2. Blood Scabbard, 3. Cure, 4. Nine Lives
+
+Bathe in the Sacred Element
+
+    Choose what is the Sacred Element. You can shape it like clay.
+    If your body is covered in the Sacred Element, you have a free spell dice.
+    Roll 1D4, you gain the following spell: 1. Cloak of Element, 2. Conjure (the element), 3. Elementamorphosis, 4. One with the Elements
+
+1D20 Elements
+
+    Wind / Oxygen / Sound
+    Stone / Sand / Earth
+    Flames / Sparks / Explosion
+    Water / Rain / Bubbles
+    Magma / Coal / Glass
+    Ice / Snow / Cold
+    Ooze / Plant / Mud
+    Smoke / Gas / Heat
+    Positive Energy / Blood / Mind
+    Negative Energy / Darkness / Rot
+    Light / Star / Radium
+    Metal / Gem / Alloy
+    Lightning / Magnetism / Static
+    Steam / Cloud / Vapor
+    Salt / Oil / Mercury
+    Dust / Bone / Debris
+    Ash / Sulfur / Soot
+    Vacuum / Antigravity / Ether
+    Roll twice, choose one.
+    Roll twice: it’s both at the same time.
+
+
+Burn books in an auto-da-fé
+
+    Idiots believe you.
+    When you destroy a source of knowledge, you gain 1 Spell Dice (until you spend it).
+    Roll 1D4, you gain the following spell: 1. Pinky Knot, 2. Poppy’s Milk, 3. Servitude, 4. Singularity of Purpose
+
+Commune with the Sacred Beast
+
+    Choose what kind of animal is the Sacred Beast. You can speak with this animal.
+    As long as you are behaving like the chosen animal you have at least 1 Spell Dice.
+    Roll 1D4, you gain the following spell relating to the chosen animal: 1. Animorph, 2. Bestow Animal Aspect, 3. The Animal Allure, 4. Call of the Animal.
+
+Contact the Voices-from-Beyond
+
+    Roll on the D500 mutation table.
+    When the referee wrongfully guesses why you are casting a spell (ask them!), add 1 Spell Dice to it.
+    Roll 1D4, you gain the following spell: 1. Conjure, 2. Genoplasm, 3. Petition, 4. Transcendence
+
+Declaim the 100 Great Wisdoms
+
+    If you would roll for a new spell, roll twice and choose. You can do that retroactively for your other Sacraments.
+    Every session, you gain 1 Spell Dice (until you spend it).
+    Roll 1D4, you gain the following spell: 1. Astral Projection, 2. Doom Foretold, 3. Empathic Vessel, 4. Amulet of the Open Hand
+
+Drink the blood of your enemies
+
+    Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
+    When you do to others what they have done to you, you gain 1 Spell Dice (until you rest).
+    Roll 1D4, you gain the following spell: 1. Karmic Retribution, 2. Petition, 3. Relentless Vigor, 4. Undying Oath
+
+Kiss the feet of the Infant and Elder
+
+    You gain a new follower each time you end a session in a city.
+    Each person joining you in the casting of a spell adds 0.5 Spell Dice to it.
+    Roll 1D4, you gain the following spell: 1. Circle of Protection, 2. Last Oath, 3. Rite of the Seventh Day, 4. Salvation
+
+Meditate in isolation
+
+    Each session, you can ask a Yes/No question to the referee. You will get the answer at the beginning of your next game.
+    At the end of a session, note 2 specific actions you want to do. The next time you play you have 1 additional Spell Dice when doing those actions.
+    Roll 1D4, you gain the following spell: 1. Aura of Renewal, 2. Delay, 3. Indolence, 4. Seal of Retribution
+
+Parade the icons of the Faith
+
+    When you go into town, you draw audiences of pious followers. After your sermons, you can hire on a number of believers equal to the Treasures you carry.
+    You can give a class level to your next follower.
+    You can command your followers as a group and they will follow your orders blindly.
+
+Prostrate yourself before the Authority
+
+    You are considered judge, jury and executioner by the faithful.
+    When you punish someone for breaking the Law, you gain 1 Spell Dice (until you spend it).
+    Roll 1D4, you gain the following spell: 1. Call for Judgement, 2. Command, 3. Smell Sin, 4. Smite the Wicked
+
+Return the dead to Nature
+
+    You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
+    You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
+    Roll 1D4, you gain the following spell: 1. Cordiceps Apotheosis, 2. Fey Ring, 3. Hallucinogenesis, 4. Potpourri
+
+
+
 [Previous](Chapter02.md#chapter-2-characters) [Top](Chapter00.md#table-of-contents) [Next](Chapter04.md#chapter-4-equipment)
