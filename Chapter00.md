@@ -49,10 +49,10 @@
 
 ### [Chapter 3 Classes](Chapter03.md#chapter-3-Classes)
 
-- [Templates & Multiclassing](Chapter03.md#chapter-3-templates--multiclassing)
-- [Class List](Chapter03.md#chapter-3-class-list)
-- [Fighter](Chapter03.md#chapter-3-fighter)
-- [Thief](Chapter03.md#chapter-3-thief)
+- [Templates & Multiclassing](Chapter03.md#templates--multiclassing)
+- [Class List](Chapter03.md#class-list)
+- [Fighter](Chapter03.md#fighter)
+- [Thief](Chapter03.md#thief)
 - [Wizard]
 - [Priest]
 - [Knight]
