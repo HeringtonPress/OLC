@@ -53,19 +53,19 @@
 - [Class List](Chapter03.md#class-list)
 - [Fighter](Chapter03.md#fighter)
 - [Thief](Chapter03.md#thief)
-- [Wizard]
-- [Priest]
-- [Hunter]
-- [Barbarian]
-- [Knight]
-- [Sorcerer]
-- [Summoner]
-- [Monk]
-- [Cannoneer]
-- [Goblin]
-- [Many Goblins]
-- [Surely Gnome]
-- [Death Touched]
+- [Wizard](Chapter03.md#wizard)
+- [Priest](Chapter03.md#priest)
+- [Hunter](Chapter03.md#hunter)
+- [Barbarian](Chapter03.md#barbarian)
+- [Knight](Chapter03.md#knight)
+- [Sorcerer](Chapter03.md#sorcerer)
+- [Summoner](Chapter03.md#summoner)
+- [Monk](Chapter03.md#monk--nun)
+- [Cannoneer](Chapter03.md#cannoneer)
+- [Goblin](Chapter03.md#goblin)
+- [Many Goblins](Chapter03.md#many-goblins)
+- [Surely Gnome](Chapter03.md#surely-gnome)
+- [Death Touched](Chapter03.md#death-touched)
 
 ### [Chapter 4 Items and Equipment]
 
