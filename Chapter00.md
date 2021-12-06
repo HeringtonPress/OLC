@@ -44,15 +44,15 @@
 
 ### [Chapter 2 Kin](Chapter02.md#chapter-2-kin)
 
-- [Table of Kin]
-- [Kin Extended]
+- [Table of Kin](Chapter02.md#table-of-kin)
+- [Kin Extended](Chapter02.md#kin-extended)
 
-### [Chapter 3 Classes]
+### [Chapter 3 Classes](Chapter03.md#chapter-3-Classes)
 
-- [Templates & Multiclassing]
-- [Class List]
-- [Fighter]
-- [Thief]
+- [Templates & Multiclassing](Chapter03.md#chapter-3-templates--multiclassing)
+- [Class List](Chapter03.md#chapter-3-class-list)
+- [Fighter](Chapter03.md#chapter-3-fighter)
+- [Thief](Chapter03.md#chapter-3-thief)
 - [Wizard]
 - [Priest]
 - [Knight]
