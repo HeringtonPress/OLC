@@ -32,15 +32,15 @@
 
 ### [Chapter 1 Base Rules](Chapter01.md#chapter-1-base-rules)
 
-- [How to Play](Chapter01.md#rolling-and-throwing-the-dice)
-- [Creating a Character](Chapter01.md#rolling-the-dice)
-- [Leveling Up]
-- [Stats & Skills]
-- [Rolling]
-- [Combat]
-- [Dying & Healing]
-- [Inventroy]
-- [Equipment]
+- [How to Play](Chapter01.md#how-to-play)
+- [Creating a Character](Chapter01.md#creating-a-character)
+- [Leveling Up](Chapter01.md#leveling-up)
+- [Stats & Skills](Chapter01.md#stats--skills)
+- [Rolling](Chapter01.md#rolling)
+- [Combat](Chapter01.md#comabt)
+- [Dying & Healing](Chapter01.md#dying--healing)
+- [Inventroy](Chapter01.md#inventroy)
+- [Equipment](Chapter01.md#equipment)
 
 ### [Chapter 2 Kin](Chapter02.md#chapter-2-kin)
 
