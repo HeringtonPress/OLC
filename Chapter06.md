@@ -4,6 +4,15 @@
  
 # Wizard Schools
 
+| 1d12 | Wizard Schools |      |     |
+| :--: | :------------- | :--: | :-- |
+| 1    | Animist (Outlawed) | 7    | Geometer (Chartered) |
+| 2    | Biomancer (Outlawed) | 8    | Illusionist (Chartered) |
+| 3    | Curse-Eater (Outlawed) | 9    | Necromancer (Outlaw) |
+| 4    | Drowned (Outsider) | 10   | Orthodox (Chartered) |
+| 5    | Elementalist (Chartered) | 11   | Spider (Outsider) |
+| 6    | Elf (Outsider) or Garden (Chartered) | 12   | White Hand (Chartered) |
+
 * * *
 
 ## Animast Wizard
