@@ -17,9 +17,9 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 2. Thief
 3. Wizard
 4. Priest
-5. Knight
+5. Hunter
 6. Barbarian
-7. Hunter
+7. Knight
 8. Sorcerer
 9. Summoner
 10. Monk
@@ -80,36 +80,120 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 
 You are probably a member of the Third Estate. In Civilised Parts, you theoretically owe service to a lord. Carrying a sword is probably illegal, everything you do is taxed, and changing your station in life is almost impossible. If there’s a war on, all the usual rules stop applying. You might be a soldier from a levied army seeking an independent fortune, a mercenary with grand plans, or an unscrupulous highway robber. You’re likely to be practical, worldy-wise, and skeptical.
 
-| 1d4 | 1d6 | Fighter Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-|     | 2      | You are the [1d10+2]th son of a poor farmer. You needed to leave or risk starvation. If your siblings die you inherit the farm. |
-|     | 3      | Your farm and village were burned during a war. The only profession you could find other than begging is warfare. |
-|     | 4      | You hoarded your money carefully but it was not enough to save your farm from pillagers. Gain 1gp. |
-|     | 5      | Years of practice have made you a deadly shot. Gain 20 extra arrows and start with 10 Notches on your bow. |
-|     | 6      | You abandoned your family and your land to seek wealth, glory, and a better position. Gain 3 rations and lingering guilt. |
-| 2   | Soldier|     |
-|     | 1      | You’ve served across the seas and over the mountains. Make up 1d6 ludicrous lies and gain the “Foreign Parts” skill. |
-|     | 2      | Your mercenary service has not been well rewared. You’re seeking your fortune elsewhere. |
-|     | 3      | You served in a mercenary band that was disbanded and scattered. Start with 2gp and 1 camp follower. |
-|     | 4      | You were free with your money and accumulated 1d4+1 camp followers. You may have a reputation as a generous soldier. |
-|     | 5      | Your skill with your weapon of choice has brought you fame as a sellsword and bodyguard. Start with an insufferable swagger. |
-|     | 6      | You are a professional outlaw and lawless brigand. Start with 20 extra arrows, 3 rations, and many enemies. |
-| 3   | Sailor |     |
-|     | 1      | You can swim, even in leather armour. You learned this at great cost. Roll on the Table of Professions and gain the skill listed. |
-|     | 2      | You served aboard a galley. You are immune to exhaustion from heat. You sometimes have nightmares of drumming and waves. |
-|     | 3      | Your ship was wrecked in a storm. You may reroll reaction rolls when interacting with water or lightning elementals. |
-|     | 4      | You saw a sea monster once. Gain a +2 to Save vs Fear against creatures larger than a cottage. |
-|     | 5      | You can eat anything. Save to reroll negative effects from spoiled food, dungeon meat, etc. |
-|     | 6      | You fought many battles on the decks of ships. You can stand up from prone and attack or move in the same round. |
-| 4   | Unusual| Gain the skill listed |
-|     | 1      | Your parents, maddened by grief at the death of their first born, insisted you replace them. Gain the “Disguise” skill. |
-|     | 2      | You have a letter that proves you were a soldier transformed by a spell or curse. 10% chance this is true. Gain the “Law” skill. |
-|     | 3      | You were taken as a squire by a lecherous, poor, eccentric, or nearsighted knight. Gain the “Horses” skill. |
-|     | 4      | You’ll try your hand at anything. Roll twice on the Table of Professions, gaining both skills listed. |
-|     | 5      | You were part of the retinue of a powerful mercenary captain. Gain 1gp and the “Courtesy” skill. |
-|     | 6      | You were raised in a mercenary camp. Your manners are shocking. Gain 2 daggers and 5sp. |
+* * *
+
+## Thief
+
+Starting Equpment: leather armour, lockpicks, dagger.
+
+Starting Skill: Locksmith and Pickpocket. +2
+
+**A:** Always Prepared, Evaluate, Wall Crawler
+
+**B:** Pick 1 Thief Trick, Roll 1 Thief Trick
+
+**C:** Roll 2 Thief Tricks
+
+**D:** Pick 1 Thief Trick, Roll 1 Thief Trick
+
+You gain +1 to Stealth for each Thief template you possess.
+
+### A: Always Prepared
+
+In town, you may spend any amount of money to buy an Unlabelled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can put multiple items inside a large Unlabelled Package, including smaller Unlabelled Packages. You can have up to two Unlabelled Packages at a time.
+
+### A: Evaluate
+
+You automatically know the worth of mundane items. Unique items may require an Intelligence roll.
+
+### A: Wall Crawler
+
+You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a test. You can attempt impossible climbs.
+
+### Tricks of the Trade
+
+| 1d20 |     | Trick | 
+| :--: | :-: | :---- | 
+| 1    | Acrobat | You can move an extra 15’ per round (45’ total). You can jump 20’ instead of 10’. Treat your falls as 20’ shorter. You can easily maintain your balance on a taut rope. |
+| 2    | Always Armed | Even when you have been disarmed, you still have a dagger hidden on you. |
+| 3    | Backstab | Whenever you have a situational bonus to an Attack roll (surprise, elevation, etc.) attacks that hit deal an additional +1d6 damage. |
+| 4    | Cat's Eyes | With a small amount of light (moonlight, candle) you can see 30’ in darkness. |
+| 5    | Coward | Cover grants you an extra +1 AC. |
+| 6    | Dog Whisperer | You start with a dog. Dogs you train can DEX save for stealth with advantage, communicate to you if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment). |
+| 7    | Delicate Tasks | Gain +4 on DEX saves to disable traps and pick locks. |
+| 8    | Great Escape | Once per day, you can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, lynchings, pit traps, and awkward social situations, but not sealed coffins. |
+| 9    | Lucky | 1/day reroll a D20. |
+| 10   | Pack Rat | Gain an additional 3 item slots. |
+| 11   | Quick Draw | Gain an additional 3 quick draw slots. |
+| 12   | Quick Fingers | You have advantage on DEX saves to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) DEX save. |
+| 13   | Recorder Crow | You start with a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart. |
+| 14   | Second Chance | When you trigger a trap you hear a “click”. Save vs INT. Success means you did not trigger the trap and you know exactly what would have happened if you did. |
+| 15   | Getaway Horse | You start with a horse. Horses you train can DEX Save for stealth with advantage, understand abstract directions, and follow a schedule to the minute.  |
+| 16   | Redirect | Once per round, when an enemy attacks you, you can make a DEX Save to redirect their attack to another creature they can hit.  |
+| 17   | Urchin | A street rat demands to learn. They’re a very sneaky hireling that doesn’t ask for pay. If you lose your urchin, you can recruit another wherever urchins are plentiful, but it will be difficult if you have a reputation for getting them killed. |
+| 18   | Very Lucky | Requires Lucky. You may use your Lucky ability twice per day. An adjacent ally can use one of your rerolls, provided you could have plausibly assisted them. |
+| 19   | Watchful | Gain +4 on rolls to Find Hidden Things. You can’t be snuck past. |
+| 20   | Wizardly Initiate | By tasting an object you can determine if it is magical or not. |
+
+### What Did You Do?
+
+You are a member of the Third Estate or an Outlaw. You blend in with society or slide around it, seeking opportunities for wealth and status. You don’t dress like a thief. There are no guilds of thieves. If you are caught you will be maimed, hanged, or worse. Nobody cares who you are; everyone cares about your crimes, or your potential usefulness in their schemes.
+
+* * *
+
+## Wizard
+
+Starting Equpment: varies by Wizard School. Select a school or roll for one on the adjacent table.
+
+Starting Skill: roll on the appropriate following skills table for the school's status (Chartered, Outsider, or Outlaw).
+
+**A:** Spellcasting, +1 MD, +1 Spell Slot, +2 Spells (1-6)
+
+**B:** +1 MD, +1 Spell Slot, +1 Spells (1-8), Book Casting
+
+**C:** +1 MD, +1 Spell Slot, +1 Spells (1-10), Friendly Spell
+
+**D:** +1 MD, +1 Spell Slot, +4 Spells (Choice)
+
+### A: Spellcasting
+
+Spells are living creatures. Spells, enchantments, ghosts, and souls are all more or less the same. A wizard's spells range in intelligence from pond scum to ferrets. A spellbook is a menagerie-prison. A well-trained brain is a mind-gun loaded with spell-bullets. Minor spells, called cantrips, infest a wizard's soul and bind to it. It takes 1hr to move any number of spells between a spell slot in your brain and a spellbook, scroll, or wand.
+
+To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. As a Wizard, you get +1 MD per Wizard template. Most spells depend on the number of [dice] invested and the [sum] they show. Doubles generate Mishaps; triples generate Dooms. Casting a spell from a scroll provides +1 MD as the scroll burns.
+
+Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool for the day. Your spells return at sunrise to last location they were imprisoned, when the octarine light of the sun touches the world and infuses Creation with an extra boost of raw magic. Your MD return if you get a good night's sleep. If you didn't sleep well, you can Save for each MD to have them return to your pool anyway.
+
+When you gain Template A, roll 2d6s and gain the spells listed. Template B, roll 1d8. Template C, roll 1d10. Template D, choose 4 spells from the list. If a duplicate spell is rollled, you may choose to keep it or reroll.
+
+You can try to bodge together a spell-like effect appropriate to your school by pouring any number of MD into a target and hoping for the best. Effects are adjudicated by the GM, but are usually haphazard and dangerous. Mishaps and Dooms apply.
+
+You can detect strong ambient magic if you are not distracted. To learn details about spells or magic items, roll under Intelligence.
+
+### B: Book Casting
+
+You can cast from a scroll or a spellbook in a way that does not consume the scroll. This allows you to cast directly from your spellbook without loading the spell into your brain first. You do not gain the bonus MD that consuming a scroll generates. You must declare you are casting a spell from a book before initiatives are rolled for the turn. You automatically go last in the initiative round, and you automatically fumble the spell if you take any damage during the round. The spell vanishes from the scroll or book and returns the next morning.
+
+### C: Friendly Spell
+
+Apply a random mutation to a spell you frequently cast.
+
+### Who Are You?
+
+You are a member of the Third Estate or an Outlaw. You might be a respectable wizard in recognisable robes, a member of an ancient tradition, radical sect, or curious group of explorers, or you might use forbidden magic to bend the world to your will. You are both useful and a liability.
+
+[Wizard Schools](Chapter07.md#)
+
+### Chartered Wizards
+
+Some schools of magic have royal charters. They are protected by law in many kingdoms. Their pedigree is established, their students (while raucous and troublesome), are predictable, and their utility in war or in peace is undeniable. However grudgingly, they are allowed a place in the order of the world. Chartered schools also charge ruinous tuition, requiring the use of Wizard Student Loans. Graduates of these schools must pay back 10,000gp + 1d1000gp, in monthly instalments of 20gp or more. Magic items, strange spells, and ancient books dragged out of dungeons and tombs are accepted in lieu of gold; that’s the whole point of the Wizard Student Loans.
+
+### Outsider Wizards
+
+Some wizards are neither within the law nor opposed by it. They are strange, ancient schools, forgotten by most, or simply ignored by society at large.
+
+### Outsider Wizards
+
+Some wizard schools are illegal. Church doctrine and public opinion pursue them with torches, daggers, and the law.
 
 * * *
 
@@ -161,7 +245,6 @@ When you choose a Sacrament, you become imparted by the divine grace of the auth
 18. Vacuum / Antigravity / Ether
 19. Roll twice, choose one.
 20. Roll twice: it’s both at the same time.
-
 
 **Burn books in an auto-da-fé**
 
@@ -225,11 +308,63 @@ When you choose a Sacrament, you become imparted by the divine grace of the auth
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |  |
-|     | 1      |  |
+* * *
 
+## Hunter
+
+**Starting Equpment**: bow, 40 arrows, dagger, leather armour.
+
+**Starting Skill (+1)**: "Tracking" and your choice of "Foraging", "Maps" or "Beasts". 
+
+**A:** Rangefinder, Wilderness Sense
+
+**B:** Crippling Shot, Quick Shot
+
+**C:** Master Trapper, Monster Chef
+
+**D:** Impossible Shot, Vanish
+
+You gain +1 to Stealth for each Hunter template you possess.
+
+### A: Rangefinder
+
+When you miss with a ranged attack, your next shot is made with advantage.
+
+### A: Wilderness Sense
+
+After the GM gives you the Omen for an encounter, you can choose to reroll the encounter and get a different Omen. You must accept the new result. You have a 50% chance to act in surprise rounds.
+
+### B: Crippling Shot
+
+If you hit an enemy with a ranged weapon, you can choose to deal 1 damage instead of rolling for damage. The next attack made by the enemy deals 1⁄2 normal damage.
+
+### B: Quick Shot
+
+If you do not move on your turn you may make an additional attack with a ranged weapon. Your first attack must have been made with the same weapon.
+
+If using a crossbow or other weapon requiring 1 or more rounds to reload, take only one shot, but ignore the reload time.
+
+### C: Master Trapper
+
+Skilled in the way of hiding traps, any trap you set causes the creature to DEX save with disadvantage. Additionally you can coble together a trap out of things most people would consider mundane and useless.
+
+### C: Monster Chef
+
+You’ve learned to prepare and preserve monsters that you’ve hunted before (you must keep track of this). Rations created this way provide an additional 1d4 HP.
+
+Make an INT Save to tell if a new monster will be outright poisonous to eat. You can also make an educated guess about the extra effects of consuming magical creatures.
+
+### D: Impossible Shot
+
+Once per combat, you can make an impossible shot with a ranged weapon. The attack automatically hits the target, provided it is within 2x the weapon’s listed rage. The attack can bounce around corners, cut a coin in half, or part a single hair on a target’s head.
+
+### D: Vanish
+
+If you are in dense forests, hills, caves, or other terrain with abundant line-of-sight-blocking features, you can choose to vanish. While vanished, you cannot affect the world or be affected by it. This ability is limited by plausibility. You can reappear at any time by climbing down a tree, walking over a hill, emerging from a shrub, etc.
+
+### Who Are You?
+
+You are a member of the Third Estate or an Outlaw. You are a hunter, either of beasts or people. You use ranged weapons (traditionally a bow) with exceptional skill. When danger threatens, you retreat, study, plan, and strike. In this dangerous world your hard-earned skills are valuable.
 
 * * *
 
@@ -289,51 +424,6 @@ Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effect
 
 You are from Foreign Parts. The language of people Around Here is strange to you; their customs are sometimes amusing and sometimes disgusting. You might worship the Authority as they do, but you might be from a heretical sect or cult. You are a probably a member of the Third Estate or an Outlaw. You carry your own law and customs.
 
-| 1d6 | 1d6 | Barbarian Skills | 
-| :-: | :-: | :----- | 
-| 1   | Mountaineer | You cannot wear chain or plate armour |
-|     | 1      | You lived in the high alpine passes, feuding with your neighbours. Gain a set of winter clothes and 1 goat. |
-|     | 2      | You lived on the back of a great glacier or a trackless snowfield. Each morning, if above ground, Save to predict the weather. |
-|     | 3      | You were a noble in a minor nation in the mountains. Gain the “Courtesy” skill and a Noble Rank of 1 (upkeep 12gp/month). |
-|     | 4      | You were a great skirmisher and high-pass fighter. Gain 50’ of rope, a grappling hook, and a weather-worn face. |
-|     | 5      | You were a mercenary and a guide. Sometimes you lead armies to their death. Gain 1gp and a sword. |
-|     | 6      | You searched the mountains for rare beasts. Gain fur robes worth 20gp that you won’t sell even if threatened with death. |
-| 2   | Raider | You cannot wear plate armour |
-|     | 1      | Your appearance is so outlandish that people stare at you. Gain a situational +2 or -2 bonus to Reaction rolls. |
-|     | 2      | Your culture rewards glorious death in battle. You must Save to retreat from a fight. Gain a +2 to Save vs Fear. |
-|     | 3      | You were an expert looter. You can evaluate the worth of looted treasure (as a Thief). Gain a brightly coloured silk cloak. |
-|     | 4      | You must spend at least 1 round chanting and painting your face before entering a rage. This may force your enemies to take a Morale check or Save vs Fear. Gain a pot of war paint. |
-|     | 5      | You are an expert slave-catcher. If you grapple a human-sized target, you can make an Attack roll to disarm them. |
-|     | 6      | You travelled here to join or start a mercenary company. Storms claimed all but 1 camp follower. |
-| 3   | Horses | You cannot wear plate armour    |
-|     | 1      | You are completely at ease in the saddle of a horse. Gain a bow and 20 arrows, but no horse (it died recently). |
-|     | 2      | Gain a riding animal of an unusual breed (a six-legged horse, a camel, a giant centipede). Its is identical to a horse mechanically and too weird to sell. Replacements cost 200gp. |
-|     | 3      | You can instantly evaluate a horse’s condition and worth just by inspecting it. If you sell a horse, you always get a good price. |
-|     | 4      | You are part of a vast warrior nation that lurks just beyond the horizon. Gain a horse and a ceremonial dagger. |
-|     | 5      | You are an expert on riding over rough terrain. Gain a horse. While riding, you never need to make checks for terrain. |
-|     | 6      | You were a horse-thief and roving trader. Gain a horse, 1gp, and a long list of enemies. |
-| 4   | Soldier|     |
-|     | 1      | You were part of a mercenary army brought here for a war. When the war ended, you were left behind. Gain a shield. |
-|     | 2      | You were born into a mercenary family and know no other life. Gain 1gp and 1 camp follower. |
-|     | 3      | You were an expert night-raider. You can see as well in dim light above ground as most people can see in daylight. |
-|     | 4      | Your battle-rage is terrifying. If you kill an enemy, you can spend the subsequent round ritually defiling the corpse to force your enemies to take a Morale check or Save vs Fear. |
-|     | 5      | You brawl indiscriminately. Thrown improvised weapons deal 1d6+Strength bonus damage (instead of 1d4). |
-|     | 6      | You have fists like stones. Your unarmed attacks deal 1d6+Strength Bonus damage (instead of 1d4+Strength bonus). |
-| 5   | Sailor | You cannot wear chain or plate armour |
-|     | 1      | You can swim, even in leather armour. You can hold your breath for twice as long as normal. |
-|     | 2      | Your ship was half wrecked in a storm and you drifted for months. Make up 1d6 ludicrous lies about Foreign Parts. |
-|     | 3      | You kissed a mermaid once. The first time you would die from drowning, you instead wash up with 0 HP. |
-|     | 4      | You raided a monastery but underwent a miraculous conversion. You will not harm any monk or nun. Start in the First Estate. |
-|     | 5      | You guarded a merchant who died on a sea voyage. Start with 1d10gp. You speak small fragments of a dozen languages. |
-|     | 6      | The horrifying things you saw at sea convinced you dry land was safer. Gain +2 to Save vs Fear. |
-| 6   | Unusual | Gain the skill listed |
-|     | 1      | You were a holy warrior fighting for an obscure cause. Gain the “Religion” skill and a small religious icon. |
-|     | 2      | You know a secret ritual. Gain the 1st Necromancer cantrip. You can use it once per day. Gain the “History” skill. |
-|     | 3      | You have hardened your soul. Gain a +2 bonus to Save vs all spells and the “Religion” skill. |
-|     | 4      | You are a natural leader. Your hirelings can reroll failed Morale checks or Saves vs Fear. Gain the “Speechmaker” skill. |
-|     | 5      | Once (ever), if a suitably dramatic event occurs, you can declare “the prophecy is fulfilled” and gain a +2 to all rolls for the rest of the encounter. Gain the “Farmer” skill. |
-|     | 6      | You cannot lie under any circumstances. Your oaths are iron. Start with the “Law” skill. |
-
 * * *
 
 ## Knight
@@ -390,30 +480,6 @@ If you are from Around Here your weapon of choice is the sword and you ride a ho
 
 Honour and chivalry are ideals often disregarded in practice.
 
-| 1d3 | 1d6 | Knight Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |  |
-|     | 1 | You never attend formal court unless summoned. In high pressure situations, you follow shiny and confident people. |
-|     | 2 | 2d6 squabbling tenant families write you frequent letters askingfor advice or informing on their treasonous neighbours. |
-|     | 3 | Your armour is dented, your horse is used to the plough, andyour sword is rusty. Other knights laugh at you... for now. |
-|     | 4 | Your family is on the decline. Given half the chance, you’ll slipout of the Second Estate entirely. |
-|     | 5 | You migrated here, invented a tale, and assumed the garb of aknight. Gain the “Foreign Parts” skill. |
-|     | 6 | You are deeply pious (or pretend to be so). You pray to a patronsaint, quote holy texts, and protect relics and churches. |
-| 2   | Soldier |  |
-|     | 1 | To you, honour is everything. Maintaining your image as achivalric paragon often clashes with the realities of life. |
-|     | 2 | You love to fight. You read reports of battles and tournamentswith glee. New weapons or fighting styles fill you with joy. |
-|     | 3 | You distinguished yourself in several tournaments. Other noblesmight recognize your heraldry or colours. |
-|     | 4 | A famous ancestor distinguished themselves in battle. You areexpected to do the same or die trying. |
-|     | 5 | Your relatives continually write to you insisting you marry. Theysuggest alarming brides with alarming regularity. |
-|     | 6 | You love brightly coloured silks, long pointed shoes, fancyhawks, and rare spices. |
-| 3   | Unusual | Gain the skill listed |
-|     | 1 | You are the bastard son of a noble. You’ve fought in half a dozenwars to earn his attention. Gain the “Siege Warfare” skill. |
-|     | 2 | Gain the “Foreign Parts” skill and a riding animal of an unusualbreed (a six-legged horse, a camel, a giant centipede). Its isidentical to a horse mechanically and too weird to sell.Replacements cost 200gp. |
-|     | 3 | You are the bastard son of a noble, and a real mean bastard too.Gain the “Poison” skill and a small vial of deadly poison. |
-|     | 4 | Your family is so large they more-or-less forgot about you. Gainthe “History” skill |
-|     | 5 | You fight with an unusual weapon. Gain a heavy weapon (if Strength >12) or a dagger (if <12) and the “Horses” skill. |
-|     | 6 | You fell in love with a noble lady. Her family did not approve.Gain the “Poetry” skill and a memento of her love. |
-
 ### The Second Estate
 
 Your starting Noble Rank is 1. Your expenses are 12gp/month. Roll on the table below to see how you are supported.
@@ -441,803 +507,6 @@ The highest rank you can possibly inherit is 1d6+2. This might be your father’
 | 10   | Tenne (Tawny) | Dancetty (Half ^^^^^) | Sword |
 
 Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll once for Division, designating sections as different Field colours. Roll 1d4 times for Charges, with 1d4 copies of each charge. Muck around with the idea a bit. This generator will infuriate students of heraldry. Deal with it.
-
-* * *
-
-## Thief
-
-Starting Equpment: leather armour, lockpicks, dagger.
-
-Starting Skill: Locksmith and Pickpocket. Also, roll on the Thief Skill Table. You may roll on the Table of Professions for a cover story. Gain the item but not the skill listed.
-
-**A:** Always Prepared, Evaluate, Wall Crawler
-
-**B:** Pick 1 Thief Trick, Roll 1 Thief Trick
-
-**C:** Roll 2 Thief Tricks
-
-**D:** Pick 1 Thief Trick, Roll 1 Thief Trick
-
-You gain +1 to Stealth for each Thief template you possess.
-
-### A: Always Prepared
-
-In town, you may spend any amount of money to buy an Unlabelled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can put multiple items inside a large Unlabelled Package, including smaller Unlabelled Packages. You can have up to two Unlabelled Packages at a time.
-
-### A: Evaluate
-
-You automatically know the worth of mundane items. Unique items may require an Intelligence roll.
-
-### A: Wall Crawler
-
-You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a test. You can attempt impossible climbs.
-
-### Tricks of the Trade
-
-| 1d20 |     | Trick | 
-| :--: | :-: | :---- | 
-| 1    | Acrobat | You can move an extra 15’ per round (45’ total). You can jump 20’ instead of 10’. Treat your falls as 20’ shorter. You can easily maintain your balance on a taut rope. |
-| 2    | Always Armed | Even when you have been disarmed, you still have a dagger hidden on you. |
-| 3    | Backstab | Whenever you have a situational bonus to an Attack roll (surprise, elevation, etc.) attacks that hit deal an additional +1d6 damage. |
-| 4    | Cat's Eyes | With a small amount of light (moonlight, candle) you can see 30’ in darkness. |
-| 5    | Coward | Cover grants you an extra +1 AC. |
-| 6    | Dog Whisperer | You start with a dog. Dogs you train can DEX save for stealth with advantage, communicate to you if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment). |
-| 7    | Delicate Tasks | Gain +4 on DEX saves to disable traps and pick locks. |
-| 8    | Great Escape | Once per day, you can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, lynchings, pit traps, and awkward social situations, but not sealed coffins. |
-| 9    | Lucky | 1/day reroll a D20. |
-| 10   | Pack Rat | Gain an additional 3 item slots. |
-| 11   | Quick Draw | Gain an additional 3 quick draw slots. |
-| 12   | Quick Fingers | You have advantage on DEX saves to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) DEX save. |
-| 13   | Recorder Crow | You start with a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart. |
-| 14   | Second Chance | When you trigger a trap you hear a “click”. Save vs INT. Success means you did not trigger the trap and you know exactly what would have happened if you did. |
-| 15   | Getaway Horse | You start with a horse. Horses you train can DEX Save for stealth with advantage, understand abstract directions, and follow a schedule to the minute.  |
-| 16   | Redirect | Once per round, when an enemy attacks you, you can make a DEX Save to redirect their attack to another creature they can hit.  |
-| 17   | Urchin | A street rat demands to learn. They’re a very sneaky hireling that doesn’t ask for pay. If you lose your urchin, you can recruit another wherever urchins are plentiful, but it will be difficult if you have a reputation for getting them killed. |
-| 18   | Very Lucky | Requires Lucky. You may use your Lucky ability twice per day. An adjacent ally can use one of your rerolls, provided you could have plausibly assisted them. |
-| 19   | Watchful | Gain +4 on rolls to Find Hidden Things. You can’t be snuck past. |
-| 20   | Wizardly Initiate | By tasting an object you can determine if it is magical or not. |
-
-### What Did You Do?
-
-You are a member of the Third Estate or an Outlaw. You blend in with society or slide around it, seeking opportunities for wealth and status. You don’t dress like a thief. There are no guilds of thieves. If you are caught you will be maimed, hanged, or worse. Nobody cares who you are; everyone cares about your crimes, or your potential usefulness in their schemes.
-
-| 1d6 | 1d6 | Thief Skills | 
-| :-: | :-: | :----- | 
-| 1   | Bandit |  |
-|     | 1      | You were an archer in a band of wild and unruly mercenaries. Gain a bow and 20 arrows. |
-|     | 2      | You specialized in ambushing merchant caravans. Gain a red silk cloak and fur hat worth 5sp. |
-|     | 3      | You’ve roamed the world, free of morality and law. Start with the “Foreign Parts” skill. Make up 1d6 ludicrous lies. |
-|     | 4      | You specialized in killing heavily armoured knights with a dagger to the joints. In melee, plate armour counts as chain to you. |
-|     | 5      | After acquiring 100gp, your fellow bandits agreed to split it in a very odd and unfair way. Gain 1gp and the “Logic” skill. |
-|     | 6      | You raided castles and fortified houses by night. Gain 30’ of rope and a grappling hook. |
-| 2   | Soldier |  |
-|     | 1      | You were recruited for a war but caught looting a church, against your lord’s command. Gain a bow and 20 arrows. |
-|     | 2      | You were part of a mercenary company and a respectable fence, brawler, and leader. Gain 1d4 camp followers. |
-|     | 3      | You worked as a kidnapper, targeting valuable citizens. Gain manacles and 1gp. |
-|     | 4      | You were a sapper and a tunnel rat. Gain a shovel and no fear of enclosed or underground spaces. |
-|     | 5      | Your pay never arrived. You turned to petty crime in retaliation. Gain 2cp and a travelling cloak. |
-|     | 6      | Violence is sometimes the answer. Gain a heavy weapon, a saucy grin, and a willingness to break kneecaps. |
-| 3   | Farmer |  |
-|     | 1      | You stole something minor and inconsequential (a loaf of bread, a ribbon, eggs, etc.). The guilt of that theft haunts you forever. |
-|     | 2      | You believe you are cursed. One year, the crops failed, your friends fled, and your cattle died. The world is against you. |
-|     | 3      | While pretending to be a simple farmer, you are in fact an agent of a foreign power. Gain the “Spy” skill. You can read and write. |
-|     | 4      | You were branded and exiled for theft. Gain a thief-mark brand on your hand. You may desire revenge. |
-|     | 5      | You abandoned your family and land to seek wealth and glory. Gain 2 extra rations and a lingering sense of guilt. |
-|     | 6      | You stole cattle in a lawless border region. Gain 30’ of rope and a black cloak. |
-| 4   | Frontier |  |
-|     | 1      | The region where you grew up was very poor. Iron was a rarity. Gain +15% XP for frivolous purchases (instead of +10%). |
-|     | 2      | You were hired to protect a village. If you betrayed them, gain 5sp. If you helped them, gain 3 rations and a goat. |
-|     | 3      | You raided from horseback, stealing and then fleeing into the hills. Gain a horse. |
-|     | 4      | You are very, very acquisitive. Gain any number of mundane items you can write down now before the GM rolls a 6 on a d6. |
-|     | 5      | You sometimes dropped trees on travellers, trapping them or knocking over their horses. Gain a saw. |
-|     | 6      | You lived in the trackless wilderness, retreating to inhospitable areas when threatened. Gain a waterproof floppy hat. |
-| 5   | Scum |  |
-|     | 1      | You sold your body, or assisted others in the same trade. Gain the “Prostitute” skill and a makeup (disguise) kit. |
-|     | 2      | You sold false relics and indulgences. Gain the “Religion” skill and 3 trinkets worth 1sp to the credulous. |
-|     | 3      | You earned a reputation in a famous city. Gain the “Poison” skill and a small vial of deadly poison. |
-|     | 4      | Greed, a secret vice, or tragedy lead you astray. Roll on the Table of Professions and gain the skill listed. |
-|     | 5      | You earned a living by blackmail. Make up a rumour about every other PC. Players vote if the rumour is true or false. Roll on the Table of Professions and gain the skill listed. |
-|     | 6      | You were a pirate or a sea-raider. Gain the “Sailor” skill and the ability to swim. |
-| 6   | Unusual | Gain the skill listed |
-|     | 1      | You are a failed apprentice wizard. Gain a random cantrip from a random wizard school and the “Literature” skill. |
-|     | 2      | A divine vision commanded you to roam the world and make adjustments, or so you claim. Gain the “Religion” skill. |
-|     | 3      | The life of an outlaw attracted you for unusual reasons. Gain the “Poetry” skill and a book of verse. |
-|     | 4      | You committed a terrible crime but were saved by legal chicanery. Gain the “Law” skill. |
-|     | 5      | Fire erases many sins. Gain the “Carpenter” skill, a lantern, and 3 flasks of lamp oil. Lose your eyebrows. |
-|     | 6      | You stole silver from a mine. Gain the “Miner” skill, a pickaxe, and 5sp. |
-
-* * *
-
-## Hunter
-
-**Starting Equpment**: bow, 40 arrows, dagger, leather armour.
-
-**Starting Skill (+1)**: "Tracking" and your choice of "Foraging", "Maps" or "Beasts". 
-
-**A:** Rangefinder, Wilderness Sense
-
-**B:** Crippling Shot, Quick Shot
-
-**C:** Master Trapper, Monster Chef
-
-**D:** Impossible Shot, Vanish
-
-You gain +1 to Stealth for each Hunter template you possess.
-
-### A: Rangefinder
-
-When you miss with a ranged attack, your next shot is made with advantage.
-
-### A: Wilderness Sense
-
-After the GM gives you the Omen for an encounter, you can choose to reroll the encounter and get a different Omen. You must accept the new result. You have a 50% chance to act in surprise rounds.
-
-### B: Crippling Shot
-
-If you hit an enemy with a ranged weapon, you can choose to deal 1 damage instead of rolling for damage. The next attack made by the enemy deals 1⁄2 normal damage.
-
-### B: Quick Shot
-
-If you do not move on your turn you may make an additional attack with a ranged weapon. Your first attack must have been made with the same weapon.
-
-If using a crossbow or other weapon requiring 1 or more rounds to reload, take only one shot, but ignore the reload time.
-
-### C: Master Trapper
-
-Skilled in the way of hiding traps, any trap you set causes the creature to DEX save with disadvantage. Additionally you can coble together a trap out of things most people would consider mundane and useless.
-
-### C: Monster Chef
-
-You’ve learned to prepare and preserve monsters that you’ve hunted before (you must keep track of this). Rations created this way provide an additional 1d4 HP.
-
-Make an INT Save to tell if a new monster will be outright poisonous to eat. You can also make an educated guess about the extra effects of consuming magical creatures.
-
-### D: Impossible Shot
-
-Once per combat, you can make an impossible shot with a ranged weapon. The attack automatically hits the target, provided it is within 2x the weapon’s listed rage. The attack can bounce around corners, cut a coin in half, or part a single hair on a target’s head.
-
-### D: Vanish
-
-If you are in dense forests, hills, caves, or other terrain with abundant line-of-sight-blocking features, you can choose to vanish. While vanished, you cannot affect the world or be affected by it. This ability is limited by plausibility. You can reappear at any time by climbing down a tree, walking over a hill, emerging from a shrub, etc.
-
-### Who Are You?
-
-You are a member of the Third Estate or an Outlaw. You are a hunter, either of beasts or people. You use ranged weapons (traditionally a bow) with exceptional skill. When danger threatens, you retreat, study, plan, and strike. In this dangerous world your hard-earned skills are valuable.
-
-| 1d6 | 1d6 | Hunter Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |  |
-|     | 1      | Your farm was constantly under threat from beasts from thewoods. Gain a wolf pelt cloak worth 1sp. |
-|     | 2      | You kept herds of goats in the hills. You really, really hate goats.Gain 30’ of rope. |
-|     | 3      | You patrolled the estates of a great noble to protect theirinterests from poachers. Gain a grey cloak and cap. |
-|     | 4      | You fled your farm after committing an infamous crime. Replaceyour bow with a crossbow. |
-|     | 5      | A hideous monster slaughtered your family. You lost its trail, butrevenge still burns in your heart. Gain a sword |
-|     | 6      | You are the 3d6th child of a poor family. You must seek yourfortune elsewhere in the world. Gain a bag of 5 apples. |
-| 2   | Soldier |  |
-|     | 1      | You travelled here to join a mercenary band. Gain 1 campfollower. |
-|     | 2      | Your army was routed, your friends slaughterer or scattered.Gain a warm woollen cloak. |
-|     | 3      | You served in a defeated army. Replace your bow with acrossbow. Gain an Interesting Scar. |
-|     | 4      | You served in a victorious army. Replace your bow with acrossbow. Gain 1gp and 3 bottles of wine. |
-|     | 5      | You helped acquire provisions for a mercenary band. Gain 3rations and an inaccurate map. |
-|     | 6      | You scouted enemy camps. Gain 2 different sets of livery in thecolours of 2 different mercenary bands. |
-| 3   | Frontier |  |
-|     | 1      | A small band of mercenaries burned your homestead. You’vebeen tracking them for months. Revenge will be yours. |
-|     | 2      | You hunt the most dangerous game... man. Or your own race.Gain +1 critical range for attacks that target your own race |
-|     | 3      | You hunt the most dangerous game... owlbears. Gain anowlbear talon dagger worth 5sp. |
-|     | 4      | You play the most dangerous game... chess. Gain a chessboardwith wood pieces worth 5sp. |
-|     | 5      | You cut a dashing figure. Gain a cap, cloak, and boots of a colorof your choice. |
-|     | 6      | You lived above the treeline. Gain a pair of bone snow gogglesand a fur coat. |
-| 4   | Bandit |  |
-|     | 1      | You were forced to prove your skills in an archery contest. Gain1gp and 3 rations. Lose all heirs. |
-|     | 2      | During a raid, you shot a noble in the eye. Partially blinded, theyhave vowed revenge. Gain 2sp and a powerful enemy. |
-|     | 3      | You poached with the aid of well-trained dogs. Only onemanaged to escape with you. Gain a small but vicious dog. |
-|     | 4      | You ambushed scouts and lone travellers. Gain monk robes and1gp. |
-|     | 5      | Look at all these chickens you stole. Gain 1d6 chickens. If 6,gain 6x1d6x1d6 chickens instead. Do not gain any way to store,feed, or corral these chickens. |
-|     | 6      | You robbed from the rich and gave to the poor, sometimes onpurpose. You have a reputation in a nearby city or town. |
-| 5   | Scum | Gain the skill listed |
-|     | 1      | You lured someone to the woods to kill them. Unfortunately, you became rather attached. Gain a random camp follower and the “Poison” skill. |
-|     | 2      | You fled a town after spectacularly failing at a profession. Roll onthe Table of Professions and gain the skill listed. |
-|     | 3      | You tracked another PC. Make up 1d6 rumours about them.Players vote if the rumour is true or false. Gain the “Spy” skill. |
-|     | 4      | You prefer finishing off your quarry up close. Gain a heavyweapon and the “Butcher” skill. |
-|     | 5      | You hunt at close range with thrown weapons. Replace yourbow and arrows with 9 daggers. Gain the “Juggler” skill. |
-|     | 6      | You hunt rats and wild dogs, dye their fur, and sell it as ermineand mink. Gain the “Dyer” skill and a patchy fur coat worth 1sp. |
-| 6   | Unusual | Gain the skill listed |
-|     | 1      | You are completely at ease in the saddle of a horse. Gain the“Foreign Parts” skill and a battle-scarred horse. |
-|     | 2      | You have a charm made from a wizard’s skull. Gain a randomcantrip from a random wizard school and the “History” skill. |
-|     | 3      | You wanted to be a hermit but people kept bothering you. Gainthe “Religion” skill. |
-|     | 4      | You trained your body to resist snakebites. You are immune tomost venom, though it still hurts. Gain the “Snakes” skill. |
-|     | 5      | You hunt unnatural creatures of the night. Gain 10 silver-tippedarrows, the “Cults” skill, and a tragic backstory. |
-|     | 6      | You hunt ghosts. Gain 20 salt-tipped arrows, 1 flask of holywater, the “Religion” skill, and pure white hair. |
-
-* * *
-
-## Monk / Nun
-
-![image](https://user-images.githubusercontent.com/93562930/140201637-bcb6be08-a250-4f18-be26-291b05393ea5.png)
-
-Starting Equpment: robes, holy book.
-
-Starting Skill: Religion. Also, roll on the following table.
-
-**A:** Literacy, Restrictions of your Order, Unarmed Strike
-
-**B:** Flighty, Stunning Strike
-
-**C:** Evasion, Obscure Knowledge
-
-**D:** Improved Dodge, Pronouncement
-
-Bonus
-
-### A: Literacy
-
-You can read and write exceptionally well. Your letters allow for Charisma tests at a distance. You can roll to see the intentions of an author, the delicate themes of a poem, and inconsistencies in a contract. To most people this is sorcery.
-
-### A: Restrictions of Your Order
-
-You can wear armour, but it takes up 2 additional Inventory Slots. You are expected to avoid the use of violence and magic, practice celibacy, and live righteously. Make up at least 2 other behavioural restrictions. In practice, do what you want, as long as you don’t get caught.
-
-### A: Unarmed Strike
-
-You do not start with proficiency in any weapons, even daggers.(You have -4 to Attack with a weapon until you gain proficiency by landing 8 successful hits in combat.) On a successful Attack roll you deal a maximum of 1 damage. If you gain a template in a fighter-type class, this restriction no longer applies.
-
-### B: Flighty
-
-If you choose to Act Defensively instead of attacking in a combat round, you count as wearing plate armour (16 Defence).
-
-### B: Stunning Fist
-
-If you hit a target with an attack on the first round of combat and the target wasn’t expecting it, you deal normal damage(1+Strength Bonus for a punch, 1d6+Strength Bonus for a dagger, etc.). If the target had total trust in your non-violent ways, they must also Save or be Stunned for 1 round.
-
-### C: Evasion
-
-You can never be pinned in a corner by difficult topics orarguments. You can always retreat to authority, throw up textual obstacles, or deploy dogma. No one can make you admit something in conversation that you did not intend to admit; any accidental disclosures are retroactively fixed, if possible.
-
-### C: Obscure Knowledge
-
-Once per session, you can declare something is to be true because you read it in a book. The base chance of the thing actually being true is 50%. There has to be a plausible way you could know about it from reading books (new discoveries, minordetails, and personal secrets are unlikely). You don't know whether or not it is true right away; the GM will roll when it matters. You might only be partially correct, but you will never be catastrophically wrong. If you have access to a library of 50 books, the base chance increases to 80%.
-
-### D: Improved Dodge
-
-Once per session, you can declare that an attack that hit you missed you instead. This won’t save you from falls or landslides, but traps will fail and spells will turn away.
-
-### D: Pronouncement
-
-You can speak for up to 3 hours without pause on a given topic. No tests required. Peasants, nobles, and other sensible people will hear you out politely, unless they've got something better todo. Monsters will still devour you, dragons might argue with you.
-
-### Who Are You?
-
-You are a member of the First Estate. You start at Religious Rank 1: Initiate. Your assigned duties determine if you are a Monk or a Nun. You answer to an Abbot or Abbess, and they answer to a Bishop or Archbishop. You don't have to be pious or devout to bea monk or a nun. You are expected to retreat from the world to a life of spiritual labour. Prayer, devotion, instruction, and solitudeare your only goals. Expectation and reality rarely meet. For some reason you have left your holy retreat, perhaps permanently, and now wander the rest of the world.
-
-| 1d6 | 1d6 | Monk Skills | 
-| :-: | :-: | :----- | 
-| 1   | History |  |
-|     | 1 | You have read about fallen empires, lost kingdoms, and ancient cultures. Gain a book of history and a sense of wistful nostalgia. |
-|     | 2 | You keenly understand the recent political history of the local region. Gain an inaccurate map. |
-|     | 3 | You read a book from Foreign Parts. The desire to travel gnaws at you. Gain a leather bag full of dried peas. |
-|     | 4 | You identify with an ancient saint. Once per session, you can reroll one d20 roll by explaining how your patron saint met with and overcame a similar situation. The link can be tenuous. |
-|     | 5 | Your study of history has left you melancholy. You know all the local famous defeats, deaths, and tragedies. Gain a black robe. |
-|     | 6 | You paid very close attention to the accounts of treasure hauls. You can roll under Int. to evaluate mundane items (as a Thief). |
-| 2   | Literature |  |
-|     | 1 | You memorized large chunks of beautiful prose. You are sentimental. Gain a basket of flowers |
-|     | 2 | You memorized endless passages of invective, abuse, and slander. You are bitter. Gain a wheelbarrow. |
-|     | 3 | You memorized thousands of stanzas of poetry. Start with 1 camp follower. They remind you of an embarrassing love. |
-|     | 4 | You read a very controversial piece of courtly literature. You either support or mock chivalric romance. |
-|     | 5 | You have remarkable handwriting. Your script is used as a template for other initiates. Gain 1sp, a quill, and a blank book. |
-|     | 6 | You have literary aspirations. Gain 2d10 unfinished drafts and parchment scraps in a leather bag. |
-| 3   | Medicine |  |
-|     | 1 | You tended to the mad or the slow-witted. Gain an iron bell and unshakeable patience. |
-|     | 2 | You were often at the beside of the dying, ready with words of comfort. Gain a white cloth. |
-|     | 3 | You studied herbs, poltices, and infusions. Gain the “Plants” skill and a cloth bag of useless but good-smelling herbs. |
-|     | 4 | You have read all the books of ancient medicine. You will always provide a diagnosis and treatment, even if you fail a test, for any disease or condition. Your suggestions might be dangerous. |
-|     | 5 | You are used to treating battlefield wounds. If you successfully remove a Fatal Wound from a dying person, you can roll again (under ½ Int.) to immediately remove a second Fatal Wound. |
-|     | 6 | You have read books of unorthodox medicine from Foreign Parts. If you roll an unmodified 20 on a Medicine skill check, your treatment is instantly successful. If you roll an unmodified 1,your patient must Save or Die, and you may become a laughingstock or an outlaw. |
-
-* * *
-
-## Wizard
-
-Starting Equpment: varies by Wizard School. Select a school or roll for one on the adjacent table.
-
-Starting Skill: roll on the appropriate following skills table for the school's status (Chartered, Outsider, or Outlaw).
-
-**A:** Spellcasting, +1 MD, +1 Spell Slot, +2 Spells (1-6)
-
-**B:** +1 MD, +1 Spell Slot, +1 Spells (1-8), Book Casting
-
-**C:** +1 MD, +1 Spell Slot, +1 Spells (1-10), Friendly Spell
-
-**D:** +1 MD, +1 Spell Slot, +4 Spells (Choice)
-
-### A: Spellcasting
-
-Spells are living creatures. Spells, enchantments, ghosts, and souls are all more or less the same. A wizard's spells range in intelligence from pond scum to ferrets. A spellbook is a menagerie-prison. A well-trained brain is a mind-gun loaded with spell-bullets. Minor spells, called cantrips, infest a wizard's soul and bind to it. It takes 1hr to move any number of spells between a spell slot in your brain and a spellbook, scroll, or wand.
-
-To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. As a Wizard, you get +1 MD per Wizard template. Most spells depend on the number of [dice] invested and the [sum] they show. Doubles generate Mishaps; triples generate Dooms. Casting a spell from a scroll provides +1 MD as the scroll burns.
-
-Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool for the day. Your spells return at sunrise to last location they were imprisoned, when the octarine light of the sun touches the world and infuses Creation with an extra boost of raw magic. Your MD return if you get a good night's sleep. If you didn't sleep well, you can Save for each MD to have them return to your pool anyway.
-
-When you gain Template A, roll 2d6s and gain the spells listed. Template B, roll 1d8. Template C, roll 1d10. Template D, choose 4 spells from the list. If a duplicate spell is rollled, you may choose to keep it or reroll.
-
-You can try to bodge together a spell-like effect appropriate to your school by pouring any number of MD into a target and hoping for the best. Effects are adjudicated by the GM, but are usually haphazard and dangerous. Mishaps and Dooms apply.
-
-You can detect strong ambient magic if you are not distracted. To learn details about spells or magic items, roll under Intelligence.
-
-### B: Book Casting
-
-You can cast from a scroll or a spellbook in a way that does not consume the scroll. This allows you to cast directly from your spellbook without loading the spell into your brain first. You do not gain the bonus MD that consuming a scroll generates. You must declare you are casting a spell from a book before initiatives are rolled for the turn. You automatically go last in the initiative round, and you automatically fumble the spell if you take any damage during the round. The spell vanishes from the scroll or book and returns the next morning.
-
-### C: Friendly Spell
-
-Apply a random mutation to a spell you frequently cast.
-
-### Who Are You?
-
-You are a member of the Third Estate or an Outlaw. You might be a respectable wizard in recognisable robes, a member of an ancient tradition, radical sect, or curious group of explorers, or you might use forbidden magic to bend the world to your will. You are both useful and a liability.
-
-| 1d12 | Wizard Schools |      |     |
-| :--: | :------------- | :--: | :-- |
-| 1    | Animist (Outlawed) | 7    | Geometer (Chartered) |
-| 2    | Biomancer (Outlawed) | 8    | Illusionist (Chartered) |
-| 3    | Curse-Eater (Outlawed) | 9    | Necromancer (Outlaw) |
-| 4    | Drowned (Outsider) | 10   | Orthodox (Chartered) |
-| 5    | Elementalist (Chartered) | 11   | Spider (Outsider) |
-| 6    | Elf (Outsider) or Garden (Chartered) | 12   | White Hand (Chartered) |
-
-### Chartered Wizards
-
-Some schools of magic have royal charters. They are protected by law in many kingdoms. Their pedigree is established, their students (while raucous and troublesome), are predictable, and their utility in war or in peace is undeniable. However grudgingly, they are allowed a place in the order of the world. Chartered schools also charge ruinous tuition, requiring the use of Wizard Student Loans. Graduates of these schools must pay back 10,000gp + 1d1000gp, in monthly instalments of 20gp or more. Magic items, strange spells, and ancient books dragged out of dungeons and tombs are accepted in lieu of gold; that’s the whole point of the Wizard Student Loans.
-
-| 1d6  | Chartered Wizard Skills |
-| :--: | :---------------------- |
-| 1 | You were a foundling, given to a chartered college as part of a town’s ancient agreement. Gain the “History” skill and a college-based name (e.g. “Peter Purplestripe” for Purplestripe College for “Gertrude Tower” for the White Tower of Elderstone. |
-| 2 | You are the child of a prosperous merchant. Roll on the Table of Professions and gain the skill and item listed. Your parents are disappointing in you no matter what you do. |
-| 3 | Your village scraped together enough money to send you, the cleverest child in generations, to school. Gain the “Farmer” skill. |
-| 4 | Your studies were progressing well, but you suffered a terrible setback. Gain the “Literature” skill, an Interesting Scar and a fear of some innocuous event, item, or circumstance. |
-| 5 | You have just agreed to become a War Wizard (also known as a Wizard Ordinary) to a local baron, mercenary captain, or civil leader. Gain the “Poetry” skill and an inaccurate map. |
-| 6 | A local noble or warlord sponsored your studies. Your Wizard StudentLoans will be paid as long as you work for your sponsor in whatevercapacity they had planned. Gain the “History” skill. |
-
-### Outsider Wizards
-
-Some wizards are neither within the law nor opposed by it. They are strange, ancient schools, forgotten by most, or simply ignored by society at large.
-
-| 1d6  | Outsiders Wizard Skills |
-| :--: | :---------------------- |
-| 1 | You were tutored in a small group by a wise wizard. You known 1d4 other students from the school and can write them letters. Roll on the Table of Professions and gain the skill and item listed. |
-| 2 | You were inducted into an ancient, secretive tradition. Gain the “Poison” and “Painter” skills and a secret handshake or signal. |
-| 3 | You were exiled from your home for openly practicing magic. Gain the “Farmer” skill and 3 rations. |
-| 4 | You owe secret allegiance to a lord and have served them in the past in matters best kept secret from Chartered wizards. Gain the “Courtesy” skill, a set of formal robes, and 2sp. |
-| 5 | You once offended a powerful Bishop. They will take revenge if they can find you. Gain the “History” skill. |
-| 6 | You somehow acquired a Camp Follower. You might have saved their life, or you might have caused some minor disaster. Roll on the Table of Professions and gain the skill listed. |
-
-### Outsider Wizards
-
-Some wizard schools are illegal. Church doctrine and public opinion pursue them with torches, daggers, and the law.
-
-| 1d6  | Outlaw Wizard Skills |
-| :--: | :--------------- |
-| 1 | You took up the forbidden arts to avenge a monstrous wrong or injustice. Gain the “Frontier” skill and 5sp. |
-| 2 | No matters your abilities, you consider yourself a terrible wizard, a lousy fighter, and a bad friend. Gain the “Poetry” skill. |
-| 3 | You abandoned your master when the mob closed in. Roll on the Table of Professions and gain the skill listed. Gain 1gp and nightmares. |
-| 4 | You experienced a terrible magical catastrophe. Gain the “Bandit” skill. Choose an elemental damage type (acid, air, fire, ice, lightning, stone, or water). Reduce all damage from the chosen source by 2. |
-| 5 | You have great ambitions. Gain the “History” skill and a Camp Follower. They are your loyal minion; the first of many. |
-| 6 | To avoid detection, you masquerade as a soldier of fortune. Gain the “Soldier” skill, leather armour, and a sword. You are not proficient with the sword. (You have -4 to Attack with it until you gain proficiency by landing 8 successful hits in combat.) |
-
-* * *
-
-## Animast Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Biomancer Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Curse-Eater Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Drowned Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Elementalist Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Elf Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Garden Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Geometer Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Illusionist Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Necromancer Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Orthodox Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## Spider Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
-* * *
-
-## White Hand Wizard
-
-Starting Equpment:
-Starting Skill:
-
-**A:**
-
-**B:**
-
-**C:**
-
-**D:**
-
-Bonus
-
-### A:
-
-### B:
-
-### C:
-
-### D:
-
-### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
 
 * * *
 
@@ -1380,10 +649,65 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
+* * *
+
+## Monk / Nun
+
+![image](https://user-images.githubusercontent.com/93562930/140201637-bcb6be08-a250-4f18-be26-291b05393ea5.png)
+
+Starting Equpment: robes, holy book.
+
+Starting Skill: Religion. Also, roll on the following table.
+
+**A:** Literacy, Restrictions of your Order, Unarmed Strike
+
+**B:** Flighty, Stunning Strike
+
+**C:** Evasion, Obscure Knowledge
+
+**D:** Improved Dodge, Pronouncement
+
+Bonus
+
+### A: Literacy
+
+You can read and write exceptionally well. Your letters allow for Charisma tests at a distance. You can roll to see the intentions of an author, the delicate themes of a poem, and inconsistencies in a contract. To most people this is sorcery.
+
+### A: Restrictions of Your Order
+
+You can wear armour, but it takes up 2 additional Inventory Slots. You are expected to avoid the use of violence and magic, practice celibacy, and live righteously. Make up at least 2 other behavioural restrictions. In practice, do what you want, as long as you don’t get caught.
+
+### A: Unarmed Strike
+
+You do not start with proficiency in any weapons, even daggers.(You have -4 to Attack with a weapon until you gain proficiency by landing 8 successful hits in combat.) On a successful Attack roll you deal a maximum of 1 damage. If you gain a template in a fighter-type class, this restriction no longer applies.
+
+### B: Flighty
+
+If you choose to Act Defensively instead of attacking in a combat round, you count as wearing plate armour (16 Defence).
+
+### B: Stunning Fist
+
+If you hit a target with an attack on the first round of combat and the target wasn’t expecting it, you deal normal damage(1+Strength Bonus for a punch, 1d6+Strength Bonus for a dagger, etc.). If the target had total trust in your non-violent ways, they must also Save or be Stunned for 1 round.
+
+### C: Evasion
+
+You can never be pinned in a corner by difficult topics orarguments. You can always retreat to authority, throw up textual obstacles, or deploy dogma. No one can make you admit something in conversation that you did not intend to admit; any accidental disclosures are retroactively fixed, if possible.
+
+### C: Obscure Knowledge
+
+Once per session, you can declare something is to be true because you read it in a book. The base chance of the thing actually being true is 50%. There has to be a plausible way you could know about it from reading books (new discoveries, minordetails, and personal secrets are unlikely). You don't know whether or not it is true right away; the GM will roll when it matters. You might only be partially correct, but you will never be catastrophically wrong. If you have access to a library of 50 books, the base chance increases to 80%.
+
+### D: Improved Dodge
+
+Once per session, you can declare that an attack that hit you missed you instead. This won’t save you from falls or landslides, but traps will fail and spells will turn away.
+
+### D: Pronouncement
+
+You can speak for up to 3 hours without pause on a given topic. No tests required. Peasants, nobles, and other sensible people will hear you out politely, unless they've got something better todo. Monsters will still devour you, dragons might argue with you.
+
+### Who Are You?
+
+You are a member of the First Estate. You start at Religious Rank 1: Initiate. Your assigned duties determine if you are a Monk or a Nun. You answer to an Abbot or Abbess, and they answer to a Bishop or Archbishop. You don't have to be pious or devout to bea monk or a nun. You are expected to retreat from the world to a life of spiritual labour. Prayer, devotion, instruction, and solitudeare your only goals. Expectation and reality rarely meet. For some reason you have left your holy retreat, perhaps permanently, and now wander the rest of the world.
 
 * * *
 
@@ -1412,11 +736,6 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
 * * *
 
 ## Exorcist
@@ -1444,11 +763,6 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
 * * *
 
 ## Inventor Necromancer
@@ -1475,11 +789,6 @@ Bonus
 ### D:
 
 ### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
 
 * * *
 
@@ -1591,11 +900,6 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
-
 * * *
 
 ## Slime Rancher Class
@@ -1624,11 +928,6 @@ Bonus
 ### D:
 
 ### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |     |
-|     | 1      | You were forcibly conscripted, in violation of your few rights, by an unscrupulous lord. Your farm was siezed in your absence. |
 
 * * *
 
@@ -1669,30 +968,6 @@ Spend 30 minutes performing a funeral rite on a corpse you saw die. Invest any n
 Once per day you can reroll a number of SD equal to the number of deathtouched templates you have. You must take the new roll.
 
 ### Who Are You?
-
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-| 2   | Medicine |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-| 3   | Religion |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
-|     | 1      |  |
 
 ### Spells
 
@@ -1755,110 +1030,6 @@ Bonus
 
 ### Who Are You?
 
-| 1d6 | 1d6 | Skills | 
-| :-: | :-: | :----- | 
-| 1   | Farmer |  |
-|     | 1      |  |
-
 * * *
-
-Choices of Sacraments:
-Anoint the sword of the Conqueror
-
-    You can spend Spell Dices as you attack and add the sum to your attack and damage rolls.
-    When you hit an enemy with a weapon or you take damage from a weapon, you gain 1 Spell Dice for your next combat turn.
-    Roll 1D4, you gain the following spell: 1. Bloodlust, 2. Blood Scabbard, 3. Cure, 4. Nine Lives
-
-Bathe in the Sacred Element
-
-    Choose what is the Sacred Element. You can shape it like clay.
-    If your body is covered in the Sacred Element, you have a free spell dice.
-    Roll 1D4, you gain the following spell: 1. Cloak of Element, 2. Conjure (the element), 3. Elementamorphosis, 4. One with the Elements
-
-1D20 Elements
-
-    Wind / Oxygen / Sound
-    Stone / Sand / Earth
-    Flames / Sparks / Explosion
-    Water / Rain / Bubbles
-    Magma / Coal / Glass
-    Ice / Snow / Cold
-    Ooze / Plant / Mud
-    Smoke / Gas / Heat
-    Positive Energy / Blood / Mind
-    Negative Energy / Darkness / Rot
-    Light / Star / Radium
-    Metal / Gem / Alloy
-    Lightning / Magnetism / Static
-    Steam / Cloud / Vapor
-    Salt / Oil / Mercury
-    Dust / Bone / Debris
-    Ash / Sulfur / Soot
-    Vacuum / Antigravity / Ether
-    Roll twice, choose one.
-    Roll twice: it’s both at the same time.
-
-
-Burn books in an auto-da-fé
-
-    Idiots believe you.
-    When you destroy a source of knowledge, you gain 1 Spell Dice (until you spend it).
-    Roll 1D4, you gain the following spell: 1. Pinky Knot, 2. Poppy’s Milk, 3. Servitude, 4. Singularity of Purpose
-
-Commune with the Sacred Beast
-
-    Choose what kind of animal is the Sacred Beast. You can speak with this animal.
-    As long as you are behaving like the chosen animal you have at least 1 Spell Dice.
-    Roll 1D4, you gain the following spell relating to the chosen animal: 1. Animorph, 2. Bestow Animal Aspect, 3. The Animal Allure, 4. Call of the Animal.
-
-Contact the Voices-from-Beyond
-
-    Roll on the D500 mutation table.
-    When the referee wrongfully guesses why you are casting a spell (ask them!), add 1 Spell Dice to it.
-    Roll 1D4, you gain the following spell: 1. Conjure, 2. Genoplasm, 3. Petition, 4. Transcendence
-
-Declaim the 100 Great Wisdoms
-
-    If you would roll for a new spell, roll twice and choose. You can do that retroactively for your other Sacraments.
-    Every session, you gain 1 Spell Dice (until you spend it).
-    Roll 1D4, you gain the following spell: 1. Astral Projection, 2. Doom Foretold, 3. Empathic Vessel, 4. Amulet of the Open Hand
-
-Drink the blood of your enemies
-
-    Your spells cannot be resisted by creatures that have killed or wounded one of your companions.
-    When you do to others what they have done to you, you gain 1 Spell Dice (until you rest).
-    Roll 1D4, you gain the following spell: 1. Karmic Retribution, 2. Petition, 3. Relentless Vigor, 4. Undying Oath
-
-Kiss the feet of the Infant and Elder
-
-    You gain a new follower each time you end a session in a city.
-    Each person joining you in the casting of a spell adds 0.5 Spell Dice to it.
-    Roll 1D4, you gain the following spell: 1. Circle of Protection, 2. Last Oath, 3. Rite of the Seventh Day, 4. Salvation
-
-Meditate in isolation
-
-    Each session, you can ask a Yes/No question to the referee. You will get the answer at the beginning of your next game.
-    At the end of a session, note 2 specific actions you want to do. The next time you play you have 1 additional Spell Dice when doing those actions.
-    Roll 1D4, you gain the following spell: 1. Aura of Renewal, 2. Delay, 3. Indolence, 4. Seal of Retribution
-
-Parade the icons of the Faith
-
-    When you go into town, you draw audiences of pious followers. After your sermons, you can hire on a number of believers equal to the Treasures you carry.
-    You can give a class level to your next follower.
-    You can command your followers as a group and they will follow your orders blindly.
-
-Prostrate yourself before the Authority
-
-    You are considered judge, jury and executioner by the faithful.
-    When you punish someone for breaking the Law, you gain 1 Spell Dice (until you spend it).
-    Roll 1D4, you gain the following spell: 1. Call for Judgement, 2. Command, 3. Smell Sin, 4. Smite the Wicked
-
-Return the dead to Nature
-
-    You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
-    You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
-    Roll 1D4, you gain the following spell: 1. Cordiceps Apotheosis, 2. Fey Ring, 3. Hallucinogenesis, 4. Potpourri
-
-
 
 [Previous](Chapter02.md#chapter-2-characters) [Top](Chapter00.md#table-of-contents) [Next](Chapter04.md#chapter-4-equipment)
