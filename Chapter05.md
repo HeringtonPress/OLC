@@ -1,3 +1,7 @@
+[Previous](Chapter04.md#chapter-4) [Top](Chapter00.md#table-of-contents) [Next](Chapter06.md#chapter-6)
+
+* * *
+
 # Advanced Rules
 
 - Heroism & Scars (post game session character growth)
