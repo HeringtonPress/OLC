@@ -64,7 +64,7 @@
 - [Cannoneer](Chapter03.md#cannoneer)
 - [Goblin](Chapter03.md#goblin)
 - [Many Goblins](Chapter03.md#many-goblins)
-- [Surely Gnome](Chapter03.md#surely-gnome)
+- [Surly Gnome](Chapter03.md#surly-gnome)
 - [Death Touched](Chapter03.md#death-touched)
 
 ### [Chapter 4 Items and Equipment]
