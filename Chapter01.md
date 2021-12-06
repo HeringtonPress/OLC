@@ -28,19 +28,17 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 ## Leveling up
 
-A newly created PC without any class templates is expected to be reasonably competent in most areas but not specialized in any one direction. One Last Coin is not about classes.
+In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up. It gains +2 HP and you can select a new class template (up to 4 total).
 
-PCs gain experience points (XP) by looting stuff. Wages don’t count. The loot must be taken to a place of safety and divided or assigned to the PCs to become XP. Items or equipment used by the characters and not sold don’t count for XP purposes. *If a PC would recieve enough XP to level up more then once they instead cap just before the second level they would take.* Players should track a PC’s XP (the total amount of treasure they have accumulated) along with their current cash. Purely frivolous spending converts 10% of the money spent into XP.
+Whenever a PC levels Increase their HP, as per the table bellow, to a maximum of 20, select a class template if applicable, then increase one of the Core Six Stats by 1.
 
-Whenever a PC levels, increase their HP to a maximum of 20, select a class template if applicable, and select any one stat to increase the score of by 1.
-
-| Level| XP        | HP      | Class Templates | 
-| :--- | :-------: | :-----: | :-------------: |
-| 1    | -         | Con -4  | 1               |
-| 2    | 200       | Con -2  | 2               |
-| 3    | 400       | Con     | 3               |
-| 4    | 700       | Con +2  | 4               |
-| +1   | +500      | +1      |                 |
+| Level|    HP   | Class Templates | 
+| :--- | :-----: | :-------------: |
+| 1    | Con -4  | 1               |
+| 2    | Con -2  | 2               |
+| 3    | Con     | 3               |
+| 4    | Con +2  | 4               |
+| +1   | +1      |                 |
 
 At Level 4 a pc becomes a prominent figure of power within their region. Each class will have different options on what they can work towards after reaching level 4. These function purely as suggestions and you may do whatever you and your GM find the most engaging.
 
@@ -72,7 +70,7 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 | 3,4,5 |     |  -2   |     | 12,13,14 |     |   1   |     | 21,22,23 |     |   4   |
 | 6,7,8 |     |  -1   |     | 15,16,17 |     |   2   |     |   24+    |     |   5   |
 
-### Additional Skills
+### Additional Stats
 
 **HP** (or Hit Points) is the amount of damage you can take before getting Wounded.
 
