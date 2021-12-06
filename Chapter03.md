@@ -13,22 +13,21 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 
 # Class List
 
-1. Fighter
-2. Thief
-3. Wizard
-4. Priest
-5. Hunter
-6. Barbarian
-7. Knight
-8. Sorcerer
-9. Summoner
-10. Monk
-11. Cannoneer
-12. Goblin
-13. Many Goblins
-14. Surely Gnome
-15. Death Touched
-16. 
+1. [Fighter](Chapter03.md#fighter)
+2. [Thief](Chapter03.md#thief)
+3. [Wizard](Chapter03.md#wizard)
+4. [Priest](Chapter03.md#priest)
+5. [Hunter](Chapter03.md#hunter)
+6. [Barbarian](Chapter03.md#barbarian)
+7. [Knight](Chapter03.md#knight)
+8. [Sorcerer](Chapter03.md#sorcerer)
+9. [Summoner](Chapter03.md#summoner)
+10. [Monk](Chapter03.md#monk--nun)
+11. [Cannoneer](Chapter03.md#cannoneer)
+12. [Goblin](Chapter03.md#goblin)
+13. [Many Goblins](Chapter03.md#many-goblins)
+14. [Surly Gnome](Chapter03.md#surly-gnome)
+15. [Death Touched](Chapter03.md#death-touched)
 
 ## Fighter
 
@@ -40,7 +39,7 @@ Starting Skill: Roll on the following table.
 
 **B:** Campaigner, Parry
 
-**C:** Quick Learner, +2 Attack Bonus
+**C:** Quick Learner, +1 attack per round
 
 **D:** Impress, Cleave
 
@@ -64,6 +63,7 @@ Armor occupies 2 fewer item slots in your inventory. Example: chain occupies 0 s
 ### B: Parry
 
 Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d
+
 ### C: Quick Learner
 
 You can become proficient with a new weapon after 4 successful hits (instead of 8). On a critical hit, you immediately become proficient.
