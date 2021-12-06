@@ -13,15 +13,15 @@
 
 [Chapter 4 Equipment](Chapter04.md#chapter-4-equipment)
 
-[Chapter 5 ](Chapter05.md#chapter-5-)
+[Chapter 5 Advanced Rules](Chapter05.md#chapter-5-advanced-rules)
 
-[Chapter 6 Setting](Chapter06.md#chapter-6-setting)
+[Chapter 6 ](Chapter06.md#chapter-6-)
 
-[Chapter 7 Campaigns](Chapter07.md#chapter-7-campaigns)
+[Chapter 7 ](Chapter07.md#chapter-7-)
 
-[Chapter 8 Adventures](Chapter08.md#chapter-8-monsters)
+[Chapter 8 ](Chapter08.md#chapter-8-)
 
-[Chapter 9 Treasure](Chapter09.md#chapter-9-treasure)
+[Chapter 9 ](Chapter09.md#chapter-9-)
 
 [Chapter 10 Monsters](Chapter10.md#chapter-10-monsters)
 
