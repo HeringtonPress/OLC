@@ -50,7 +50,7 @@ Additionally once a player has reached 4th level they have unlocked the will to 
 
 Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mastery point when you  bring a skill or a stat to +5. Once per day, you can spend Mastery points to change the result of a roll affecting any nearby ally or yourself at a rate of 1 point for +/-1 to the result.
 
-## Stats and Skills
+## Stats & Skills
 
 ### Core Six
 
