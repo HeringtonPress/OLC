@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-[Chapter 1 Core Rules](Chapter01.md#chapter-1)
+[Chapter 1 Base Rules](Chapter01.md#chapter-1-base-rules)
 
 [Chapter 2 Kin](Chapter02.md#chapter-2-kin)
 
@@ -30,10 +30,57 @@
 
 ## Detailed Table of Contents
 
-### [Chapter 1 Introduction](Chapter01.md#chapter-1-introduction)
+### [Chapter 1 Base Rules](Chapter01.md#chapter-1-base-rules)
 
-- [Rolling and Throwing the Dice](Chapter01.md#rolling-and-throwing-the-dice)
-  - [Rolling the Dice](Chapter01.md#rolling-the-dice)
+- [How to Play](Chapter01.md#rolling-and-throwing-the-dice)
+- [Creating a Character](Chapter01.md#rolling-the-dice)
+- [Leveling Up]
+- [Stats & Skills]
+- [Rolling]
+- [Combat]
+- [Dying & Healing]
+- [Inventroy]
+- [Equipment]
+
+### [Chapter 2 Kin](Chapter02.md#chapter-2-kin)
+
+- [Table of Kin]
+- [Kin Extended]
+
+### [Chapter 3 Classes]
+
+- [Templates & Multiclassing]
+- [Class List]
+- [Fighter]
+- [Thief]
+- [Wizard]
+- [Priest]
+- [Knight]
+- [Barbarian]
+- [Hunter]
+- [Sorcerer]
+- [Summoner]
+- [Monk]
+- [Cannoneer]
+- [Goblin]
+- [Many Goblins]
+- [Surely Gnome]
+- [Death Touched]
+
+### [Chapter 4 Items and Equipment]
+
+### [Chapter 5 Advanced Rules]
+
+- [Heroism & Scars]
+- [Damage Types]
+- [Stat Damage]
+- [Conditions]
+- [Rare Crafting Materials]
+- [Treasures]
+- [Traveling]
+- [Between Adventures]
+
+
 
 * * *
 
