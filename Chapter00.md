@@ -55,9 +55,9 @@
 - [Thief](Chapter03.md#thief)
 - [Wizard]
 - [Priest]
-- [Knight]
-- [Barbarian]
 - [Hunter]
+- [Barbarian]
+- [Knight]
 - [Sorcerer]
 - [Summoner]
 - [Monk]
