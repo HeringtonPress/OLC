@@ -533,7 +533,7 @@ command.
 
 To change the world, select an ability (Alter, Create, or Harm) and a number of Sorcerer Dice (SD) you wish to invest, roll them, and add the numbers together. As a Sorcerer, you get +1 SD per Sorcerer template. Some effects depend on the number of [dice] invested and the [sum] they show. Doubles, triples and quadruples result in Calamities.
 
-SD can be used any number of times per day. Unlike a wizard’s MD, they always return to your pool. Each time you use your sorcerous powers past the �rst time per day, add +1 ID (Instability Die) to your pool. These dice do not count towards the [dice] and [sum] of sorcerous effects, but they do count towards doubles. Use 2 different colours of dice. Increasing the power of your sorcerous effects may also add ID.
+SD can be used any number of times per day. Unlike a wizard’s MD, they always return to your pool. Each time you use your sorcerous powers past the first time per day, add +1 ID (Instability Die) to your pool. These dice do not count towards the [dice] and [sum] of sorcerous effects, but they do count towards doubles. Use 2 different colours of dice. Increasing the power of your sorcerous effects may also add ID.
 
 Sorcerers don't run out of steam. They have the opposite problem.
 
