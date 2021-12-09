@@ -22,15 +22,15 @@ Simply, the referee describes a situation, and you tell what your character woul
 ## Creating a Character
 
 - Choose or roll for your Kin. Your Kin will grant you a bonus, a drawback, and one stat you can reroll.
-- Roll your Stats. 4d4 in order. You may reroll the Stat given by your Race and pick the higher result.
+- Roll your Stats. 2d4 in order. You may reroll the Stat given by your Race and pick the higher result.
 - Choose or roll for your Class. Gain the first template (A) and any other items and bonuses.
-- Gain 1d10cp. All PCs also start with a blanket (1 slot), 4 rations (1 slot), and 4 torches (1 slot).
+- All PCs also start with a blanket (1 slot), 4 rations (1 slot), and 4 torches (1 slot).
 
 ## Leveling up
 
 In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up. It gains +2 HP and you can select a new class template (up to 4 total).
 
-Whenever a PC levels Increase their HP, as per the table bellow, to a maximum of 20, select a class template if applicable, then increase one of the Core Six Stats by 1.
+Whenever a PC levels: Increase their HP by 2 to a maximum of 20, select a class template if applicable, then increase one of the Core Six Stats by 1.
 
 | Level|    HP   | Class Templates | 
 | :--- | :-----: | :-------------: |
@@ -50,25 +50,15 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 
 ## Stats & Skills
 
-### Core Six
+### Core Stats
 
-**Strength** represents your physical prowess. It affects the number of things you can carry and your melee attacks.
+**Wands** represents your willingness to push yourself and the burden you can carry. It affects your Carrying Capacity.
 
-**Dexterity** represents your balance, precision and reflexes. It affects your ranged attacks.
+**Coins** represents your health and hardiness. It affects your HP and the number of scars you can bear.
 
-**Constitution** represents your health. It affects your durability and the number of scars you can bear.
+**Swords** represents your knowledge and capacity to learn. It affects the number of skills you can have.
 
-**Intelligence** represents your knowledge and capacity to learn. It affects the number of skills you can have.
-
-**Wisdom** represents your instinct and willpower. It is used to resist many spells and affects the number of spells you can know.
-
-**Charisma** represents your personality. It is used to for social intereactions and affects the number of followers you can have.
-
-| Stat  |     | Bonus |     |   Stat   |     | Bonus |     |   Stat   |     | Bonus |
-|:-----:|:---:|:-----:|:---:|:--------:|:---:|:-----:|:---:|:--------:|:---:|:-----:|
-|  1,2  |     |  -3   |     | 9,10,11  |     |   0   |     | 18,19,20 |     |   3   |
-| 3,4,5 |     |  -2   |     | 12,13,14 |     |   1   |     | 21,22,23 |     |   4   |
-| 6,7,8 |     |  -1   |     | 15,16,17 |     |   2   |     |   24+    |     |   5   |
+**Cups** represents your personality and willpower. It is used to for social intereactions and affects the number of followers you can have.
 
 ### Additional Stats
 
@@ -80,7 +70,7 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 
 ## Rolling
 
-When the referee tells you to roll one stat (Strength, when climbing a cliff for example), roll a D20, add your stat bonus, and, if the total is higher than 13, you succeed.
+When the referee tells you to roll one stat (Wands, when climbing a cliff for example), roll a D20, add your stat bonus, and, if the total is higher than 13, you succeed.
 
 For easy situations, the referee might have you roll higher than 10. For hard situations, 18.
 
@@ -90,19 +80,17 @@ Rolling with advantage means you roll twice and choose the best result. Disadvan
 
 ## Combat
 
-Turn Order: You act before the monsters, unless they have surprised you.
+Turn Order: Monsters act before you, unless you have surprised them.
 
 Your Turn: On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one combat action, which can be moving further.
 
-Attacking: To attack, roll your weapons damage die plus the relavent stat bonus (Strength for melee or Dexterity for ranged) and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it.
-
-Dodging: To avoid an attack, roll Dexterity. Rolling 20 means you get a free attack.
+Attacking: To attack, roll your weapons damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it.
 
 ## Dying & Healing
 
 Every point of damage you take below 0 HP counts as a Wound. When you gain a wound, you fall unconscious and start dying. If you reach 10 wounds, you die.
 
-When you are dying, you must roll Constitution on each of your turns.
+When you are dying, you must roll Coins on each of your turns.
 
 - On a roll of 1, your character dies.
 - On a failure, you gain 1 Wound.
@@ -113,7 +101,7 @@ Up to two allies can roll Wisdom to stabilize you. Expending bandages gives adva
 
 Stabilizing does not remove wounds.
 
-**Healing**: An 8 hour rest heals all HP and stat losses, consuming 1 ration.
+**Resting**: An 8 hour rest with a bedroll or equivalent heals all HP and stat losses, consuming 1 ration.
 
 Medical care heals all Wounds. Medical care requires to play another character for 1 session and for the wounded character to spend this time in a safe space with healers.
 
