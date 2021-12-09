@@ -22,23 +22,16 @@ Simply, the referee describes a situation, and you tell what your character woul
 ## Creating a Character
 
 - Choose or roll for your Kin. Your Kin will grant you a bonus, a drawback, and one stat you can reroll.
-- Roll your Stats. 2d4 in order. You may reroll the Stat given by your Race and pick the higher result.
+- Roll your Stats. 2d4 in order. You may reroll the Stat given by your Kin and pick the higher result.
+- Your HP is equal to your Coins Stat.
 - Choose or roll for your Class. Gain the first template (A) and any other items and bonuses.
 - All PCs also start with a blanket (1 slot), 4 rations (1 slot), and 4 torches (1 slot).
 
 ## Leveling up
 
-In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up. It gains +2 HP and you can select a new class template (up to 4 total).
+In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up.
 
-Whenever a PC levels: Increase their HP by 2 to a maximum of 20, select a class template if applicable, then increase one of the Core Six Stats by 1.
-
-| Level|    HP   | Class Templates | 
-| :--- | :-----: | :-------------: |
-| 1    | Con -4  | 1               |
-| 2    | Con -2  | 2               |
-| 3    | Con     | 3               |
-| 4    | Con +2  | 4               |
-| +1   | +1      |                 |
+Whenever a PC levels: Increase their HP by 2 to a maximum of 20, select a class template up to a total of 4, then increase one of the Core Stats by 1.
 
 At Level 4 a pc becomes a prominent figure of power within their region. Each class will have different options on what they can work towards after reaching level 4. These function purely as suggestions and you may do whatever you and your GM find the most engaging.
 
@@ -46,7 +39,7 @@ Additionally once a player has reached 4th level they have unlocked the will to 
 
 ### Mastery
 
-Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mastery point when you  bring a skill or a stat to +5. Once per day, you can spend Mastery points to change the result of a roll affecting any nearby ally or yourself at a rate of 1 point for +/-1 to the result.
+Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mastery point when you  bring a skill or a stat to +10. Once per day, you can spend Mastery points to change the result of a roll affecting any nearby ally or yourself at a rate of 1 point for +/-1 to the result.
 
 ## Stats & Skills
 
@@ -64,9 +57,9 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 
 **HP** (or Hit Points) is the amount of damage you can take before getting Wounded.
 
-**Armor** is the amount of damage you ignore on each attack.
+**Armor** is the amount you reduce damage taken to a minimum of 1.
 
-**Skills** can be anything (flower arrangement, rolling dices, etc). When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you use if it would thematically make sense. You can have as many Skills as your Intelligence Bonus to a minimum of 1.
+**Skills** can be anything (flower arrangement, rolling dices, etc). When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you use if it would thematically make sense. You can have as many Skills as your Swords Stat to a minimum of 1.
 
 ## Rolling
 
@@ -76,7 +69,7 @@ For easy situations, the referee might have you roll higher than 10. For hard si
 
 A referee should only call for a roll when both success and failure have interesting consequences. Sometimes, failure only means that it takes 10 minutes to achieve the action isntead of a few seconds. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
-Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacle (shooting from very far, attacking under water, etc).
+Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite. It happens when you have contextual advantages or obstacle.
 
 ## Combat
 
@@ -97,17 +90,17 @@ When you are dying, you must roll Coins on each of your turns.
 - On a success, nothing changes.
 - On a roll of 20 or on result of 24 or higher, you stabilize and stop dying.
 
-Up to two allies can roll Wisdom to stabilize you. Expending bandages gives advantage on that roll.
+Up to two allies can roll Swords to stabilize you. Expending bandages gives advantage on that roll.
 
 Stabilizing does not remove wounds.
 
-**Resting**: An 8 hour rest with a bedroll or equivalent heals all HP and stat losses, consuming 1 ration.
+**Resting**: An 8 hour rest with a bedroll or equivalent heals 1d6 to either HP or stat losses, consuming 1 ration.
 
 Medical care heals all Wounds. Medical care requires to play another character for 1 session and for the wounded character to spend this time in a safe space with healers.
 
 ## Inventory
 
-You have a number of Inventory Slots equal to your Strength. Only items carried count towards this limit. Horses, hirelings, and carts do not count. Clothing, minor non-magical jewellery, and other cosmetic items do not take up inventory slots unless they are particularly bulky such as armour.
+You have a number of Inventory Slots equal to double your Wands Stat. Only items carried count towards this limit. Horses, hirelings, and carts do not count. Clothing, minor non-magical jewellery, and other cosmetic items do not take up inventory slots unless they are particularly bulky such as armour.
 
 An inventory slot can hold an object about the size and weight of a human head. large objects can take up multiple slots where as small objects can be stacked in groups of 4 with ammunition being stackable up to 10 per slot.
 
@@ -139,7 +132,7 @@ Under certain circumstances you may be required to make a durability roll. Roll 
 
 ### Armour
 
-Armour pieces have a resistance rating that reduce damage to a minnimum of 1, but also lowers your dexterity by its Weight, to a minnimum of 1. You have 4 armour slots; Head, Torso, Arms, and Legs. You can only have one piece of armour equiped to a slot at a time.
+Armour pieces have a resistance rating that reduce damage to a minnimum of 1. You have 4 armour slots; Head, Torso, Arms, and Legs. You can only have one piece of armour equiped to a slot at a time.
 
 When an attack against you rolls max damage on a die you must make a durability roll. Player puts up the armour as wager on what will be destroyed.
 
