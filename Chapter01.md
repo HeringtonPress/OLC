@@ -57,7 +57,7 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 
 **HP** (or Hit Points) is the amount of damage you can take before getting Wounded.
 
-**Armor** is the amount you reduce damage taken to a minimum of 1.
+**Resistance** is the amount you reduce damage taken to a minimum of 1.
 
 **Skills** can be anything (flower arrangement, rolling dices, etc). When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you use if it would thematically make sense. You can have as many Skills as your Swords Stat to a minimum of 1.
 
