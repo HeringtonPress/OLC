@@ -31,6 +31,9 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 
 ## Fighter
 
+<details><summary>Open</summary>
+<p>
+
 Starting Equpment: leather armour, sword, bow, 20 arrows.
 
 Starting Skill: Roll on the following table.
@@ -80,10 +83,16 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 
 You are probably a member of the Third Estate. In Civilised Parts, you theoretically owe service to a lord. Carrying a sword is probably illegal, everything you do is taxed, and changing your station in life is almost impossible. If there’s a war on, all the usual rules stop applying. You might be a soldier from a levied army seeking an independent fortune, a mercenary with grand plans, or an unscrupulous highway robber. You’re likely to be practical, worldy-wise, and skeptical.
 
+</p>
+</details>
+
 * * *
 
 ## Thief
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment: leather armour, lockpicks, dagger.
 
 Starting Skill: Locksmith and Pickpocket. +2
@@ -139,10 +148,16 @@ You can climb as well without climbing gear as most people can with climbing gea
 
 You are a member of the Third Estate or an Outlaw. You blend in with society or slide around it, seeking opportunities for wealth and status. You don’t dress like a thief. There are no guilds of thieves. If you are caught you will be maimed, hanged, or worse. Nobody cares who you are; everyone cares about your crimes, or your potential usefulness in their schemes.
 
+</p>
+</details>
+
 * * *
 
 ## Wizard
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment: varies by Wizard School. Select a school or roll for one on the adjacent table.
 
 Starting Skill: roll on the appropriate following skills table for the school's status (Chartered, Outsider, or Outlaw).
@@ -195,10 +210,16 @@ Some wizards are neither within the law nor opposed by it. They are strange, anc
 
 Some wizard schools are illegal. Church doctrine and public opinion pursue them with torches, daggers, and the law.
 
+</p>
+</details>
+
 * * *
 
 ## Priest
 
+<details><summary>Open</summary>
+<p>
+  
 **Starting Equpment**: Holy Vestments, a Censer, a Holy Book.
 
 **Starting Skill (+1)**: "The Holy Scriptures” and your choice of “Dead Languages”, “Preaching” or “Inquisition"
@@ -308,10 +329,16 @@ When you choose a Sacrament, you become imparted by the divine grace of the auth
 
 ### Who Are You?
 
+</p>
+</details>
+
 * * *
 
 ## Hunter
 
+<details><summary>Open</summary>
+<p>
+  
 **Starting Equpment**: bow, 40 arrows, dagger, leather armour.
 
 **Starting Skill (+1)**: "Tracking" and your choice of "Foraging", "Maps" or "Beasts". 
@@ -366,10 +393,16 @@ If you are in dense forests, hills, caves, or other terrain with abundant line-o
 
 You are a member of the Third Estate or an Outlaw. You are a hunter, either of beasts or people. You use ranged weapons (traditionally a bow) with exceptional skill. When danger threatens, you retreat, study, plan, and strike. In this dangerous world your hard-earned skills are valuable.
 
+</p>
+</details>
+
 * * *
 
 ## Barbarian
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment: heavy weapon, leather armour.
 
 Starting Skill: Foreign Parts. Also, roll on the following table.
@@ -424,10 +457,16 @@ Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effect
 
 You are from Foreign Parts. The language of people Around Here is strange to you; their customs are sometimes amusing and sometimes disgusting. You might worship the Authority as they do, but you might be from a heretical sect or cult. You are a probably a member of the Third Estate or an Outlaw. You carry your own law and customs.
 
+</p>
+</details>
+
 * * *
 
 ## Knight
 
+<details><summary>Open</summary>
+<p>
+  
 **Starting Equpment**: chainmail, shield, sword, horse, 5sp.
 
 **Starting Skill (+1)**: "Courtesy" and your choice of "Poetry", "Military" and "Inquisition".
@@ -508,10 +547,16 @@ The highest rank you can possibly inherit is 1d6+2. This might be your father’
 
 Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll once for Division, designating sections as different Field colours. Roll 1d4 times for Charges, with 1d4 copies of each charge. Muck around with the idea a bit. This generator will infuriate students of heraldry. Deal with it.
 
+</p>
+</details>
+
 * * *
 
 ## Sorcerer
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment: Outlandish Costume worth 1sp
 
 Starting Skill: Foreign Parts
@@ -622,10 +667,16 @@ Creatures created cannot deal damage. You can create objects with magical effect
 | 9    |  |  |
 | 10   |  |  |
 
+</p>
+</details>
+
 * * *
 
 ## Summoner
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment:
 Starting Skill:
 
@@ -649,10 +700,16 @@ Bonus
 
 ### Who Are You?
 
+</p>
+</details>
+
 * * *
 
 ## Monk / Nun
 
+<details><summary>Open</summary>
+<p>
+  
 ![image](https://user-images.githubusercontent.com/93562930/140201637-bcb6be08-a250-4f18-be26-291b05393ea5.png)
 
 Starting Equpment: robes, holy book.
@@ -709,10 +766,16 @@ You can speak for up to 3 hours without pause on a given topic. No tests require
 
 You are a member of the First Estate. You start at Religious Rank 1: Initiate. Your assigned duties determine if you are a Monk or a Nun. You answer to an Abbot or Abbess, and they answer to a Bishop or Archbishop. You don't have to be pious or devout to bea monk or a nun. You are expected to retreat from the world to a life of spiritual labour. Prayer, devotion, instruction, and solitudeare your only goals. Expectation and reality rarely meet. For some reason you have left your holy retreat, perhaps permanently, and now wander the rest of the world.
 
+</p>
+</details>
+
 * * *
 
 ## Cannoneer
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment:
 Starting Skill:
 
@@ -735,11 +798,17 @@ Bonus
 ### D:
 
 ### Who Are You?
+
+</p>
+</details>
 
 * * *
 
 ## Exorcist
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment:
 Starting Skill:
 
@@ -762,11 +831,17 @@ Bonus
 ### D:
 
 ### Who Are You?
+
+</p>
+</details>
 
 * * *
 
 ## Inventor Necromancer
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment:
 Starting Skill:
 
@@ -790,10 +865,16 @@ Bonus
 
 ### Who Are You?
 
+</p>
+</details>
+
 * * *
 
 ## Goblin
 
+<details><summary>Open</summary>
+<p>
+  
 Starting stuff: daggar, bad pants, one shoo.
 
 Starting Know: goblan.
@@ -825,10 +906,16 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get four thing 
 | 19   | Ooze Friend | Little squishy friend. No acid or guts or ooze hurt you. |
 | 20   | Greasy | Can not be tied up or grabbled. |
 
+</p>
+</details>
+
 * * *
 
 ## Many Goblins
 
+<details><summary>Open</summary>
+<p>
+  
 Many Goblins act as one character. There are a lot of them (though the exact amount seems to vary from scene to scene) and they contribute about as much as one actual character (at best). They are a bunch of goblins milling about in the back of the scene, doing goblin things, kind of half-paying attention, and mostly serving as colourful detail.
 
 Starting Equpment: many daggers, filthy rags, fleas, ect. Roll for one random item from the Table of Proffesions.
@@ -871,10 +958,16 @@ Many Goblins can now be given magic items or special tools. They can use them on
 
 Many Goblins gain a special 6th inventory slot that contains a random item rolled on the Table of Professions. Roll the item randomly each encounter. If the Many Goblins run into another room or out of sight (one round at least) and then run back (a second round) they can reroll the item.
 
+</p>
+</details>
+
 * * *
 
 ## Surly Gnome
 
+<details><summary>Open</summary>
+<p>
+  
 ![image](https://user-images.githubusercontent.com/93562930/140182019-b78c2de7-303c-41ce-9524-40565fb822bc.png)
 
 Starting Equpment:
@@ -900,10 +993,16 @@ Bonus
 
 ### Who Are You?
 
+</p>
+</details>
+
 * * *
 
 ## Slime Rancher Class
 
+<details><summary>Open</summary>
+<p>
+  
 alchemist beast master, Slime familiar is the potion. 
 
 Starting Equpment:
@@ -929,10 +1028,16 @@ Bonus
 
 ### Who Are You?
 
+</p>
+</details>
+
 * * *
 
 ## Deathtouched
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment: Dagger, Tattered cloak, 3 candles, a momento worth 1gp you are unwilling to sell
 
 Starting Skill: Occult, Roll once on the following table
@@ -1003,10 +1108,16 @@ Targets take [sum] necrotic damage, and show physical signs of aging (-[dice] ST
 R:self T: D:1 hour
 For the duration, you enter a trance and commune with a powerful spirit. You may ask it [dice] questions. It will answer them to the best of its ability (though cryptically), then require a favor. That favor will be proportionate to the implications of answering your question. You cannot cast this spell again until you have fulfilled your end of the bargain.
 
+</p>
+</details>
+
 * * *
 
 ## Template
 
+<details><summary>Open</summary>
+<p>
+  
 Starting Equpment:
 Starting Skill:
 
@@ -1029,6 +1140,9 @@ Bonus
 ### D:
 
 ### Who Are You?
+
+</p>
+</details>
 
 * * *
 
