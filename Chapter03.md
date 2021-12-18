@@ -196,7 +196,7 @@ Apply a random mutation to a spell you frequently cast.
 
 You are a member of the Third Estate or an Outlaw. You might be a respectable wizard in recognisable robes, a member of an ancient tradition, radical sect, or curious group of explorers, or you might use forbidden magic to bend the world to your will. You are both useful and a liability.
 
-[Wizard Schools](Chapter07.md#)
+[Wizard Schools](Chapter06.md#)
 
 ### Chartered Wizards
 
