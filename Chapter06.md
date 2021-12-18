@@ -66,6 +66,9 @@ dragons, elder trees, creation elementals,
 abandoned gods).
 
 ### Spell List
+ 
+<details><summary>Open</summary>
+<p>
 
 **1.Powerful Presence**
  
@@ -138,6 +141,9 @@ Target feels cold. If you invest 3 [dice] or more, and you loudly pronounce doom
 R: 50' T: mortal creature D: permanent
 
 You inflict a Minor or Major curse on the target. Save negates. For a minor curse, you must invest 2 [dice]. For a major curse, you must invest 4 [dice]. Dice used to cast this spell are automatically exhausted. You cannot dispel your own curses but you must set a thematically appropriate cure or method of breaking it.
+
+</p>
+</details>
 
 ### Who Are You?
 
