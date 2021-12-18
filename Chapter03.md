@@ -206,7 +206,7 @@ Some schools of magic have royal charters. They are protected by law in many kin
 
 Some wizards are neither within the law nor opposed by it. They are strange, ancient schools, forgotten by most, or simply ignored by society at large.
 
-### Outsider Wizards
+### Outlawed Wizards
 
 Some wizard schools are illegal. Church doctrine and public opinion pursue them with torches, daggers, and the law.
 
