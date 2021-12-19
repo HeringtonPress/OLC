@@ -232,7 +232,10 @@ For every Priest template you have, you gain one new Sacrament.
 When you choose a Sacrament, you become imparted by the divine grace of the authority. Each sacrament is different and represents one facet of your faith. Spells gifted by a sacrament can only be cast once between each rest. You start with no Faith Dice (FD) and must earn them through your actions.
 
 ### Choices of Sacraments:
-
+  
+<details><summary>Open</summary>
+<p>
+  
 **Anoint the sword of the Conqueror**
 
 - You can spend Spell Dices as you attack and add the sum to your attack and damage rolls.
@@ -327,7 +330,10 @@ When you choose a Sacrament, you become imparted by the divine grace of the auth
 - You can rot organic matter with your touch. A few seconds spoil food, and 1 hour consumes a dead human.
 - You can consume one organic object in your inventory to gain 1 spell dice (until you rest).
 - Roll 1D4, you gain the following spell: 1. Cordiceps Apotheosis, 2. Fey Ring, 3. Hallucinogenesis, 4. Potpourri
-
+  
+</p>
+</details>
+  
 ### Who Are You?
 
 </p>
