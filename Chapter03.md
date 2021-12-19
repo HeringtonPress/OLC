@@ -28,6 +28,7 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 13. [Many Goblins](Chapter03.md#many-goblins)
 14. [Surly Gnome](Chapter03.md#surly-gnome)
 15. [Death Touched](Chapter03.md#death-touched)
+16. [The Senex](Chapter03.md#the-senex)
 
 ## Fighter
 
@@ -1107,6 +1108,116 @@ Targets take [sum] necrotic damage, and show physical signs of aging (-[dice] ST
 **Contact Great Spirit**
 R:self T: D:1 hour
 For the duration, you enter a trance and commune with a powerful spirit. You may ask it [dice] questions. It will answer them to the best of its ability (though cryptically), then require a favor. That favor will be proportionate to the implications of answering your question. You cannot cast this spell again until you have fulfilled your end of the bargain.
+
+</p>
+</details>
+
+* * *
+
+## The Senex
+
+<details><summary>Open</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/93562930/146688260-5ac3f52b-1dd7-44d9-b62b-5db03d49f33f.png)
+  
+Starting Equpment: a walking stick and a piece of practical-but-showy headgear. Plus whatever you need for your Wizardly Tricks.
+Starting Skill: See Well-Learned
+
+**A:** Well-Learned, Wizardly Tricks, Unanswered Questions 
+
+**B:** Ancient Tongues, Well-Known & Well-Travelled
+
+**C:** Deep Insight, Magical Presence
+
+**D:** Hidden Speech, 
+
+### A: Well-Learned
+
+You gain one of these skills at +5 for every Senex template you possess: Folklore, History, Poetry, Philology, Mysticism, Monstrumology, Alchemy, Mythology, Runes & Glyphs, Geopolitics, or something else of your own suggestion along these similar lines.
+  
+These skills do not count towards your skill limit as determind by the Swords stat.
+
+### A: Wizardly Tricks
+  
+Every time you gain a template, roll 1d12 and gain that Wizardly Trick. If you roll a repeat, take your choice of the one above or below it.
+
+### A: Unanswered Questions
+  
+You have a stat called Unanswered, which starts at 0. Everytime you encounter something very strange and mysterious and unknown in your adventuring, add 1 to your Unanswered stat. Note that this has to be stuff that is really weird and unexplained, not minor stuff. 
+
+Good examples of unanswered questions include:
+
+  1. What is through the Red Iron Door under Mount Breakspear?
+  2. Who is the hooded figure we keep seeing at dusk and dawn?
+  3. Why would our friend, the Duke of Ravenwood, suddenly turn on us?
+  4. What happened that caused the ruined castle to the east to split in half?
+  5. Where can we find the lair of the demonghast called Fatemonger?
+  6. What does this mysterious serrated amulet do, and how do you use it?
+
+Big, bad questions, ones with reaching implications and strange answers. Again, whenever you have a new question, write it down, and then add 1 to your Unanswered stat.
+
+When you are in the presence of a great deal of knowledge—which might be a big library, another sage or scholar, some ancient wise being, or something else entirely—roll 1d6. If the result is less than or equal to your Unanswered stat, you learn the answer to one of your big questions, and then reduce your Unanswered stat by the amount rolled. This can be related to the source of knowledge you’re dealing with, or it could just be a flash of inspiration; how you piece the info together matters less than that you now know it.
+
+It’s important to note that if you discover an answer to one of your big questions organically, just through playing the game, that doesn’t reduce your Unanswered stat. You only reduce your Unanswered stat when you specifically use your Senex ability to divine answers in this way.
+  
+### B: Ancient Tongues
+
+When you encounter some bit of language that you don’t know—like a page in a book, inscription on a ring, or occult chanted phrase—there’s a 2-in-6 chance you know it. Not that you know the whole language, just that you happen to know what this particular bit of language means. 
+
+As you gain templates in this class, the chances that you know any particular bit of language increases by 1-in-6 per template.
+
+### B: Well-Known & Well-Travelled
+  
+When you get to a new place, like a great forest or big city, there’s a 4-in-6 chance you’ve been there before. If you have, the GM will tell you three things:
+
+  1. Something nasty that you should watch out for, like corrupt guards or spider pits 
+  2. Some smaller location of interest, like an inn or ruined temple
+  3. Somebody you know who lived here the last time you came by. The first time you use this ability, they think well of you; the second time, they think badly of you; then it’s back to good, then bad, etc.
+
+All this info is, importantly, reflective of whatever you knew the last time you were around; things might very well have changed since then.
+
+Additionally, whenever you meet a stranger, there’s a 2-in-6 chance they recognize you; if that’s a 1, they’ve actually met you before, although you may not remember meeting them. That first roll (but not the 1) increases by 1-in-6 per template, too.
+  
+### C: Deep Insight
+
+If you spend a minute or so watching someone, you can make 3 Swords checks. For each success you learn one of the following three things; what their next immediate course of action is, why they’re taking that particular course of action, and how you could best change their mind. Once you’ve done this, you can’t do it again until tomorrow, and you can’t do it to the same person two days in a row.
+
+An example of this could be “the King is going to banish us from the realm,” and “he’s doing it because he’s already unpopular with his subjects, and news of war from the South would spark further unrest,” and “he fears for his own throne, but if we can protect his throne he’ll be happy to keep us around.”
+  
+### C: Supernatural Presence
+
+You hold an air of knowledge and power about you that can only be achieved through great study and travel. When people see you, they know you to be a powerful entity, even if they can’t explain fully why. 
+
+If you mention specific magic in the course of offering advice, counsel, explanations, or otherwise steering someone to a certain action or behavior, you have advantage on any check to do so. “Specific magic” in this case includes spells, charms, hexes, curses, blessings, spirits, demons, faeries, the undead, the supernatural in general, and really anything outside the purview of ordinary people. 
+
+It doesn’t matter how you work in magic, really. It might be “you better step aside or else I’ll turn you into a toad,” but it might also be “to heal your sickness, you must walk to the river and back once every day and leave an offering to the river spirits there,” or even just “this unexplained phenomena is occurring because of a ghost.” When you mention the odd and unusual, people tend to believe you.
+
+This probably doesn’t work on real spellcasters, as well as stuff like dragons, religious zealots, genuine supernatural beings, and certain pompous academics.
+
+### D: Hidden Speech
+  
+When you succeed on the now 4-in-6 roll to use Ancient Tongues, you now have enough of that language to carry on a medium-length conversation fluently. 
+
+Furthermore, you can now use Ancient Tongues (and thus Hidden Speech) on things that might not ordinarily qualify as languages: the call of wild animals, the whispering of trees, the crash of a thunderstorm, the clink of gold coins, the creak of an old castle, or the cry of the oppressed. 
+
+### Wizardly Tricks
+For each Senex template you take, you roll 1d12 and gain one of these; if you roll a repeat, take your choice of the option above or below it.
+
+  1. **Flask**. You always have a small flask of alcohol on you, no matter what, and when you or a party member really need a slug, it’s always got just enough.
+  2. **Voice**. You are very good at doing imitations and mimicry, to an uncanny degree.
+  3. **Animal**. You’ve got a small animal with you, like a raven or a cat, that is cleverer than normal, can read whatever you can, and will sometimes do what you tell it to do.
+  4. **Quill**. You’ve got a quill (or a knife, if you’d rather be etching than writing) that can write on anything—wood, stone, metal, whatever. 
+  5. **Light**. You can touch a small object to make it glow like a candle; you get 1 hour of this per template per day.
+  6. **Notebook**. You have a notebook on your person that never leaves your side. Literally. If someone takes it away from you, it’ll end up back on your person, somehow.
+  7. **Cowl**. When you wear your practical headgear, you can choose to have it hide your face from all but dedicated scrutiny; you’ll just look like an old person, and people will quickly write you off.
+  8. **Tea**. You’re just really bonkers good at making tea, and know tons about it; if you claim it’s magical, anyone and everyone will believe you.
+  9. **Fire**. You can start a small fire with almost anything under almost any conditions. 
+  10. **Staff**. Your walking stick will never break, and you have advantage on checks against being deprived of it (which includes stuff like Háma at the door to the Golden Hall).
+  11. **Charm**. People just seem to take a shine to you when they first meet you, especially animals, children, and elders.
+  12. **Mouth**. You can whistle clearly and loudly, blow ornate smoke-shapes, and tie knots with your tongue.
+  
+### Who Are You?
 
 </p>
 </details>
