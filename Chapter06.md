@@ -162,6 +162,8 @@ Animist Wizards are also known as witches. These are the bad wizards, the ones w
 <details><summary>Open</summary>
 <p>
 
+![image](https://user-images.githubusercontent.com/93562930/146692272-e3f431fe-5f87-43e9-81c5-83002f8be275.png)
+ 
 **Starting Equpment:** spellbook, ink and quill, 2 black thumb rings, and 3 random potions of the same type.
 
 **Perk** When you drink a potion, you have a 50% chance to recycle it via whatever orifice you prefer. You have 10 minutes to excrete the potion ending the effect early.
