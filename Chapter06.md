@@ -26,6 +26,9 @@
 <details><summary>Open</summary>
 <p>
 
+![image](https://user-images.githubusercontent.com/93562930/146692156-8ee7d367-206d-429c-817d-77157f9b66d1.png)
+
+ 
 **Starting Equpment**: dagger, spellbook, ink and quill. You dress for concealment.
 
 **Perk**: If someone makes a bargain with you and breaks it, Save. If you
@@ -300,6 +303,8 @@ Biomancy is forbidden. The Authority’s law is clear; mortals were meant to liv
 <details><summary>Open</summary>
 <p>
 
+![image](https://user-images.githubusercontent.com/93562930/146691044-d351656b-73bd-4ff3-bdae-8ffa19403759.png)
+ 
 **Starting Equpment:**
 
 **Perk**
