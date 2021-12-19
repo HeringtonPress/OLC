@@ -35,7 +35,7 @@ Each class has 4 Templates. Templates are gained sequentially (A, then B, then C
 <details><summary>Open</summary>
 <p>
 
-Starting Equpment: leather armour, sword, bow, 20 arrows.
+Starting Equipment: leather armour, sword, bow, 20 arrows.
 
 Starting Skill: Roll on the following table.
 
@@ -94,7 +94,7 @@ You are probably a member of the Third Estate. In Civilised Parts, you theoretic
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment: leather armour, lockpicks, dagger.
+Starting Equipment: leather armour, lockpicks, dagger.
 
 Starting Skill: Locksmith and Pickpocket. +2
 
@@ -159,7 +159,7 @@ You are a member of the Third Estate or an Outlaw. You blend in with society or 
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment: varies by Wizard School. Select a school or roll for one on the adjacent table.
+Starting Equipment: varies by Wizard School. Select a school or roll for one on the adjacent table.
 
 Starting Skill: roll on the appropriate following skills table for the school's status (Chartered, Outsider, or Outlaw).
 
@@ -221,7 +221,7 @@ Some wizard schools are illegal. Church doctrine and public opinion pursue them 
 <details><summary>Open</summary>
 <p>
   
-**Starting Equpment**: Holy Vestments, a Censer, a Holy Book.
+**Starting Equipment**: Holy Vestments, a Censer, a Holy Book.
 
 **Starting Skill (+1)**: "The Holy Scriptures” and your choice of “Dead Languages”, “Preaching” or “Inquisition"
 
@@ -340,7 +340,7 @@ When you choose a Sacrament, you become imparted by the divine grace of the auth
 <details><summary>Open</summary>
 <p>
   
-**Starting Equpment**: bow, 40 arrows, dagger, leather armour.
+**Starting Equipment**: bow, 40 arrows, dagger, leather armour.
 
 **Starting Skill (+1)**: "Tracking" and your choice of "Foraging", "Maps" or "Beasts". 
 
@@ -404,7 +404,7 @@ You are a member of the Third Estate or an Outlaw. You are a hunter, either of b
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment: heavy weapon, leather armour.
+Starting Equipment: heavy weapon, leather armour.
 
 Starting Skill: Foreign Parts. Also, roll on the following table.
 
@@ -468,7 +468,7 @@ You are from Foreign Parts. The language of people Around Here is strange to you
 <details><summary>Open</summary>
 <p>
   
-**Starting Equpment**: chainmail, shield, sword, horse, 5sp.
+**Starting Equipment**: chainmail, shield, sword, horse, 5sp.
 
 **Starting Skill (+1)**: "Courtesy" and your choice of "Poetry", "Military" and "Inquisition".
 
@@ -558,7 +558,7 @@ Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment: Outlandish Costume worth 1sp
+Starting Equipment: Outlandish Costume worth 1sp
 
 Starting Skill: Foreign Parts
 
@@ -678,7 +678,7 @@ Creatures created cannot deal damage. You can create objects with magical effect
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
@@ -713,7 +713,7 @@ Bonus
   
 ![image](https://user-images.githubusercontent.com/93562930/140201637-bcb6be08-a250-4f18-be26-291b05393ea5.png)
 
-Starting Equpment: robes, holy book.
+Starting Equipment: robes, holy book.
 
 Starting Skill: Religion. Also, roll on the following table.
 
@@ -777,7 +777,7 @@ You are a member of the First Estate. You start at Religious Rank 1: Initiate. Y
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
@@ -810,7 +810,7 @@ Bonus
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
@@ -843,7 +843,7 @@ Bonus
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
@@ -919,7 +919,7 @@ Each time Get Good, roll one time on list. Same thing, roll new. Get four thing 
   
 Many Goblins act as one character. There are a lot of them (though the exact amount seems to vary from scene to scene) and they contribute about as much as one actual character (at best). They are a bunch of goblins milling about in the back of the scene, doing goblin things, kind of half-paying attention, and mostly serving as colourful detail.
 
-Starting Equpment: many daggers, filthy rags, fleas, ect. Roll for one random item from the Table of Proffesions.
+Starting Equipment: many daggers, filthy rags, fleas, ect. Roll for one random item from the Table of Proffesions.
 
 Starting Skill: goblan.
 
@@ -971,7 +971,7 @@ Many Goblins gain a special 6th inventory slot that contains a random item rolle
   
 ![image](https://user-images.githubusercontent.com/93562930/140182019-b78c2de7-303c-41ce-9524-40565fb822bc.png)
 
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
@@ -1006,7 +1006,7 @@ Bonus
   
 alchemist beast master, Slime familiar is the potion. 
 
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
@@ -1039,7 +1039,7 @@ Bonus
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment: Dagger, Tattered cloak, 3 candles, a momento worth 1gp you are unwilling to sell
+Starting Equipment: Dagger, Tattered cloak, 3 candles, a momento worth 1gp you are unwilling to sell
 
 Starting Skill: Occult, Roll once on the following table
 
@@ -1121,7 +1121,7 @@ For the duration, you enter a trance and commune with a powerful spirit. You may
 
 ![image](https://user-images.githubusercontent.com/93562930/146688260-5ac3f52b-1dd7-44d9-b62b-5db03d49f33f.png)
   
-Starting Equpment: a walking stick and a piece of practical-but-showy headgear. Plus whatever you need for your Wizardly Tricks.
+Starting Equipment: a walking stick and a piece of practical-but-showy headgear. Plus whatever you need for your Wizardly Tricks.
 Starting Skill: See Well-Learned
 
 **A:** Well-Learned, Wizardly Tricks, Unanswered Questions 
@@ -1229,7 +1229,7 @@ For each Senex template you take, you roll 1d12 and gain one of these; if you ro
 <details><summary>Open</summary>
 <p>
   
-Starting Equpment:
+Starting Equipment:
 Starting Skill:
 
 **A:**
