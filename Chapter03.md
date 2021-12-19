@@ -1038,10 +1038,13 @@ Bonus
 
 <details><summary>Open</summary>
 <p>
-  
-Starting Equipment: Dagger, Tattered cloak, 3 candles, a momento worth 1gp you are unwilling to sell
 
-Starting Skill: Occult, Roll once on the following table
+![image](https://user-images.githubusercontent.com/93562930/146689923-f0feb4d6-de64-42ec-98f5-ed2c2e8fed42.png)
+
+
+Starting Equipment: Dagger, Tattered cloak, 3 candles, a momento you are unwilling to part with.
+
+Starting Skill: (1, d3) Occult,
 
 **A:** Spirit Casting, +1 SD, +2 Spells (1d4), Tether
 
@@ -1067,7 +1070,7 @@ If your Tether dies it triggers a Calamity.
 
 ### B: Funeral Rite
 
-Spend 30 minutes performing a funeral rite on a corpse you saw die. Invest any number of expent SD returning them to your pool on a 1-3. Mishaps and exploding dice still apply.
+Spend 10 minutes performing a funeral rite on a corpse you saw die. Invest any number of expent SD returning them to your pool on a 1-3. Mishaps and exploding dice still apply.
 
 ### D: Deadly Preminition
 
