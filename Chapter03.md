@@ -882,6 +882,8 @@ Bonus
 <details><summary>Open</summary>
 <p>
   
+![image](https://user-images.githubusercontent.com/93562930/147428464-eae59cb4-9a88-4398-bace-c75c306638bc.png)
+
 Starting stuff: daggar, bad pants, one shoo.
 
 Starting Know: goblan.
@@ -975,8 +977,8 @@ Many Goblins gain a special 6th inventory slot that contains a random item rolle
 <details><summary>Open</summary>
 <p>
   
-![image](https://user-images.githubusercontent.com/93562930/140182019-b78c2de7-303c-41ce-9524-40565fb822bc.png)
-
+![image](https://user-images.githubusercontent.com/93562930/147426279-f3278135-f282-4148-8c3e-d77257315e18.png)
+  
 Starting Equipment:
 Starting Skill:
 
