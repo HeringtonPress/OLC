@@ -128,6 +128,28 @@ An inventory slot can hold an object about the size and weight of a human head. 
 
 It takes an action to retrieve an item, unless it is in your first 3 slots.
 
+### Adventuring Gear
+
+| Item            |   Worth    | Weight |     | Item        |  Worth   | Weight |
+|:--------------- |:----------:|:------:| --- |:----------- |:--------:|:------:|
+| Air Bladder     | 2 Mundane  |   1    |     | Barrel      | 2 Trash  |   3    |
+| Bear Trap       |  Valuable  |   2    |     | Bedroll     | Mundane  |   1    |
+| Bucket          |  2 Trash   |   1    |     | 20 Caltrops | Valuable |   1    |
+| Chalk           |   Trash    |  0.25  |     | Crowbar     | Mundane  |   1    |
+| Donkey          |  Valuable  |   ~    |     | Drill       | Mundane  |   1    |
+| Glass Vial      |  2 Trash   |  0.25  |     | Glue        | Valuable |   1    |
+| Holy Water      | 2 Mundane  |   1    |     | Hook        | Mundane  |   1    |
+| Horse           | 2 Valuable |   ~    |     | Hound       | Valuable |   ~    |
+| Ink             |  Valuable  |  0.5   |     | Manacles    | Valuable |   1    |
+| Mirror Silver   |  Valuable  |   1    |     | Net         | Mundane  |   1    |
+| Parchment       |   Trash    |  0.1   |     | Pick        | Mundane  |   1    |
+| Pitons          |   Trash    |  0.25  |     | 10' Pole    | Mundane  |   1    |
+| 10' Pole Hooked | 2 Mundane  |   1    |     | Rations     |  Trash   |  0.25  |
+| 30' Rope        |  Mundane   |   1    |     | Salt        |  Trash   |   1    |
+| Saw             |  Mundane   |   1    |     | Shovel      | Mundane  |   1    |
+| Torch           |   Trash    |  0.25  |     | Waterskin   | Mundane  |   1    |
+| Whistle         |  Mundane   |   1    |     |             |          |        |
+
 ## Equipment
 
 ### Durability
@@ -164,25 +186,3 @@ When an attack against you rolls max damage on a die you must make a durability 
 | Plate     | 4          | Treasure  |   3   |
 
 **Shields** Shields grant a +1 Resistance bonus requiring a free hand to use. Additionally a shield can be Sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1 to a minnimum of 0. Takes up 1 slot and is of Mundane worth.
-
-### Adventuring Gear
-
-| Item            |   Worth    | Weight |     | Item        |  Worth   | Weight |
-|:--------------- |:----------:|:------:| --- |:----------- |:--------:|:------:|
-| Air Bladder     | 2 Mundane  |   1    |     | Barrel      | 2 Trash  |   3    |
-| Bear Trap       |  Valuable  |   2    |     | Bedroll     | Mundane  |   1    |
-| Bucket          |  2 Trash   |   1    |     | 20 Caltrops | Valuable |   1    |
-| Chalk           |   Trash    |  0.25  |     | Crowbar     | Mundane  |   1    |
-| Donkey          |  Valuable  |   ~    |     | Drill       | Mundane  |   1    |
-| Glass Vial      |  2 Trash   |  0.25  |     | Glue        | Valuable |   1    |
-| Holy Water      | 2 Mundane  |   1    |     | Hook        | Mundane  |   1    |
-| Horse           | 2 Valuable |   ~    |     | Hound       | Valuable |   ~    |
-| Ink             |  Valuable  |  0.5   |     | Manacles    | Valuable |   1    |
-| Mirror Silver   |  Valuable  |   1    |     | Net         | Mundane  |   1    |
-| Parchment       |   Trash    |  0.1   |     | Pick        | Mundane  |   1    |
-| Pitons          |   Trash    |  0.25  |     | 10' Pole    | Mundane  |   1    |
-| 10' Pole Hooked | 2 Mundane  |   1    |     | Rations     |  Trash   |  0.25  |
-| 30' Rope        |  Mundane   |   1    |     | Salt        |  Trash   |   1    |
-| Saw             |  Mundane   |   1    |     | Shovel      | Mundane  |   1    |
-| Torch           |   Trash    |  0.25  |     | Waterskin   | Mundane  |   1    |
-| Whistle         |  Mundane   |   1    |     |             |          |        |
