@@ -136,20 +136,20 @@ Under certain circumstances you may be required to make a durability roll. Roll 
 
 ### Melee Weapons
 
-| Item       | Effect                                                            | Durability |    Worth    | Slots |
-| :--------- | ----------------------------------------------------------------- |:----------:|:-----------:|:-----:|
-| Improvised | 1D4 damage, can be throw                                          |     1      |    Trash    |   ~   |
-| Light      | 1D6 damage, can be thrown                                         |     2      | 1/2 Mundane |  0.5  |
-| Medium     | 1D8 damage,                                                       |     3      |   Mundane   |   1   |
-| Heavy      | 1D10 damage, needs two hands                                      |     4      |   Valuable  |   2   |
+| Item       | Effect                                                            |    Worth    | Slots |
+| :--------- | ----------------------------------------------------------------- |:-----------:|:-----:|
+| Improvised | 1D4 damage, can be throw                                          |    Trash    |   ~   |
+| Light      | 1D6 damage, can be thrown                                         | 1/2 Mundane |  0.5  |
+| Medium     | 1D8 damage,                                                       |   Mundane   |   1   |
+| Heavy      | 1D10 damage, needs two hands                                      |   Valuable  |   2   |
 
 ### Ranged Weapons
 
-| Item       | Effect                                                         | Durability |    Worth    | Slots |
-| :--------- | -------------------------------------------------------------- |:----------:|:-----------:|:-----:|
-| Light      | 1D4 damage                                                     |     2      |   Mundane   |   1   |
-| Medium     | 1D6 damage, needs two hands                                    |     3      |   Mundane   |   2   |
-| Mechanical | 1D12 damage, needs two hands, must take one action to recharge |     4      |   Valuable  |   2   |
+| Item       | Effect                                                         |    Worth    | Slots |
+| :--------- | -------------------------------------------------------------- |:-----------:|:-----:|
+| Light      | 1D4 damage                                                     |   Mundane   |   1   |
+| Medium     | 1D6 damage, needs two hands                                    |   Mundane   |   2   |
+| Mechanical | 1D12 damage, needs two hands, must take one action to recharge |   Valuable  |   2   |
 
 ### Armour
 
@@ -161,6 +161,28 @@ When an attack against you rolls max damage on a die you must make a durability 
 | --------- | :--------: |:--------:|:-----:|
 | Gambeson  | 1          | Mundane  |   1   |
 | Chain     | 2          | Valuable |   2   |
-| Plate     | 4          | Mundane  |   1   |
+| Plate     | 4          | Treasure  |   3   |
 
 **Shields** Shields grant a +1 Resistance bonus requiring a free hand to use. Additionally a shield can be Sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1 to a minnimum of 0. Takes up 1 slot and is of Mundane worth.
+
+### Adventuring Gear
+
+| Item            |   Worth    | Weight |     | Item        |  Worth   | Weight |
+|:--------------- |:----------:|:------:| --- |:----------- |:--------:|:------:|
+| Air Bladder     | 2 Mundane  |   1    |     | Barrel      | 2 Trash  |   3    |
+| Bear Trap       |  Valuable  |   2    |     | Bedroll     | Mundane  |   1    |
+| Bucket          |  2 Trash   |   1    |     | 20 Caltrops | Valuable |   1    |
+| Chalk           |   Trash    |  0.25  |     | Crowbar     | Mundane  |   1    |
+| Donkey          |  Valuable  |   ~    |     | Drill       | Mundane  |   1    |
+| Glass Vial      |  2 Trash   |  0.25  |     | Glue        | Valuable |   1    |
+| Holy Water      | 2 Mundane  |   1    |     | Hook        | Mundane  |   1    |
+| Horse           | 2 Valuable |   ~    |     | Hound       | Valuable |   ~    |
+| Ink             |  Valuable  |  0.5   |     | Manacles    | Valuable |   1    |
+| Mirror Silver   |  Valuable  |   1    |     | Net         | Mundane  |   1    |
+| Parchment       |   Trash    |  0.1   |     | Pick        | Mundane  |   1    |
+| Pitons          |   Trash    |  0.25  |     | 10' Pole    | Mundane  |   1    |
+| 10' Pole Hooked | 2 Mundane  |   1    |     | Rations     |  Trash   |  0.25  |
+| 30' Rope        |  Mundane   |   1    |     | Salt        |  Trash   |   1    |
+| Saw             |  Mundane   |   1    |     | Shovel      | Mundane  |   1    |
+| Torch           |   Trash    |  0.25  |     | Waterskin   | Mundane  |   1    |
+| Whistle         |  Mundane   |   1    |     |             |          |        |
