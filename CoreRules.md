@@ -8,14 +8,14 @@ These are the core rules, everything needed to play the game. There will be addi
 
 Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a D20 and add a number from your character sheet to the result. If the total is 16 or above, your character succeeds what they intended to do. Either way, the referee describes the new situation, and so on.
 
-- [Creating a Character](Chapter01.md#creating-a-character)
-- [Leveling Up](Chapter01.md#leveling-up)
-- [Stats & Skills](Chapter01.md#stats--skills)
-- [Rolling](Chapter01.md#rolling)
-- [Combat](Chapter01.md#combat)
-- [Dying & Healing](Chapter01.md#dying--healing)
-- [Inventory](Chapter01.md#inventory)
-- [Equipment](Chapter01.md#equipment)
+- [Creating a Character](CoreRules.md#creating-a-character)
+- [Leveling Up](CoreRules.md#leveling-up)
+- [Stats & Skills](CoreRules.md#stats--skills)
+- [Rolling](CoreRules.md#rolling)
+- [Combat](CoreRules.md#combat)
+- [Dying & Healing](CoreRules.md#dying--healing)
+- [Inventory](CoreRules.md#inventory)
+- [Equipment](CoreRules.md#equipment)
 
 ## Creating a Character
 
