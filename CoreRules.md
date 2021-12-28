@@ -345,7 +345,7 @@ Target suffers a different effect depending on which color strikes the target. R
   
 12. **Fireball**
   
-R: 200' T: 20' diameter D: 0
+R: 200' T: [dice]x10' diameter D: 0
   
 Does [sum] fire damage to all objects.
 
