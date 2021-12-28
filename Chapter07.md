@@ -1,8 +1,8 @@
-# Base Rules
+# Core Rules
 
 OSR DnD rules compiled and adapted from Arnold K’s Goblin Laws of Gaming (GLoG).
 
-These are the core rules needed to play the game.
+These are the core rules, everything needed to play the game. There will be additional modules and installments that will add depth to various aspects of the game. All those modules are optional!
 
 ## How to Play
 
