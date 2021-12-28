@@ -27,7 +27,7 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 ## Table of Kin
 
-| D6  |    Category    | Kin        | Reroll | Bonus                                                           | Weakness                                                              | Lore                                                                                                 |
+| D66 |    Category    | Kin        | Reroll | Bonus                                                           | Weakness                                                              | Lore                                                                                                 |
 |:---:|:--------------:|:---------- |:------:|:--------------------------------------------------------------- |:--------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------- |
 | 1-3 |   Human (d6)   |            |        |                                                                 |                                                                       |                                                                                                      |
 |     |     1 - 3      | Foulkn     | Choice | Can detect undead as a chill down your neck.                    | -4 to Save against mutated or transformed.                            | *Not racist anymore.*                                                                                |
