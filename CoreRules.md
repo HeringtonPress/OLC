@@ -27,6 +27,9 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 ## Table of Kin
 
+<details><summary>Open</summary>
+<p>
+
 | D66 |    Category    | Kin        | Reroll | Bonus                                                           | Weakness                                                              | Lore                                                                                                 |
 |:---:|:--------------:|:---------- |:------:|:--------------------------------------------------------------- |:--------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------- |
 | 1-3 |   Human (d6)   |            |        |                                                                 |                                                                       |                                                                                                      |
@@ -49,6 +52,9 @@ Simply, the referee describes a situation, and you tell what your character woul
 |     |       5        | Dragonborn | Coins  | 2d6 dragonbreath 1/day, 15'.                                    | Breath causes 1d6 damage to self.                                     | *Hatch from unfertilized dragon eggs. Eat Gold.*                                                     |
 |     |       6        | Gnome      | Swords | Invisible while holding your breath and closing your eyes.      | Must make a Charisma saving throw or punch someone who side eyes you. | *The outcome of an orphan adopted by the fae. Allergic to cold iron.*                                |
 
+</p>
+</details>
+
 ## Stats & Skills
 
 ### Core Stats
@@ -68,6 +74,286 @@ Simply, the referee describes a situation, and you tell what your character woul
 **Resistance** is the amount you reduce damage taken to a minimum of 1.
 
 **Skills** can be anything (flower arrangement, rolling dices, etc). When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you use if it would thematically make sense. You can have as many Skills as your Swords Stat to a minimum of 1.
+
+## Classes
+
+## Fighter
+
+<details><summary>Open</summary>
+<p>
+
+Starting Equipment: leather armour, sword, bow, 20 arrows.
+
+Starting Skill: Roll on the following table.
+
+**A:** Notches, +1 attack per round
+
+**B:** Campaigner, Parry
+
+**C:** Quick Learner, +1 attack per round
+
+**D:** Impress, Cleave
+
+You gain +1 HP for each Fighter template you possess.
+
+### A: Notches
+
+Each time you attain a total of 10, 20, 30, and 50 kills with a weapon type (such as 10 kills with a dagger), you unlock a new ability for that weapon, chosen from the list below. Keep track of your kills and special abilities on the back of your character sheet.
+
+- +1 Damage
+- Expanded critical range (+1)
+- Special ability (negotiat with GM, one per weapon).
+Examples: ability to draw the weapon from any slot, knock a target prone on a critical, wield a two-handed weapon in one hand, gain a bonus to use the weapon as a tool, etc.
+
+For example, a Fighter with 50 flail kills (4 notches) could have +1 damage, a critical range of (1-3), and the ability to stun an opponent for one round on a critical hit. The GM decides what counts as a kill.
+
+### B: Campaigner
+
+Armor occupies 2 fewer item slots in your inventory. Example: chain occupies 0 slots instead of 2.
+
+### B: Parry
+
+Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d
+
+### C: Quick Learner
+
+You can become proficient with a new weapon after 4 successful hits (instead of 8). On a critical hit, you immediately become proficient.
+
+### D: Impress
+
+Whenever you win a fight against challenging foes, people who don't like you make a new reaction roll with a +4 bonus. This even works on people you just defeated in combat, unless you caused them undeserved or disproportionate harm. Hirelings get a +2 to Morale or a new Save vs Fear.
+
+### D: Cleave
+
+Whenever you reduce a creature to 0 HP with an attack, you can make another attack with the same weapon against a target within 5’. You can only cleave an number of targets equal to your Level in a single round.
+
+### Who Are You?
+
+You are probably a member of the Third Estate. In Civilised Parts, you theoretically owe service to a lord. Carrying a sword is probably illegal, everything you do is taxed, and changing your station in life is almost impossible. If there’s a war on, all the usual rules stop applying. You might be a soldier from a levied army seeking an independent fortune, a mercenary with grand plans, or an unscrupulous highway robber. You’re likely to be practical, worldy-wise, and skeptical.
+
+</p>
+</details>
+
+## Thief
+
+<details><summary>Open</summary>
+<p>
+  
+Starting Equipment: leather armour, lockpicks, dagger.
+
+Starting Skill: Locksmith and Pickpocket. +2
+
+**A:** Always Prepared, Evaluate, Wall Crawler
+
+**B:** Pick 1 Thief Trick, Roll 1 Thief Trick
+
+**C:** Roll 2 Thief Tricks
+
+**D:** Pick 1 Thief Trick, Roll 1 Thief Trick
+
+You gain +1 to Stealth for each Thief template you possess.
+
+### A: Always Prepared
+
+In town, you may spend any amount of money to buy an Unlabelled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can put multiple items inside a large Unlabelled Package, including smaller Unlabelled Packages. You can have up to two Unlabelled Packages at a time.
+
+### A: Evaluate
+
+You automatically know the worth of mundane items. Unique items may require an Intelligence roll.
+
+### A: Wall Crawler
+
+You can climb as well without climbing gear as most people can with climbing gear. Simple climbs do not require a test. You can attempt impossible climbs.
+
+### Tricks of the Trade
+
+| 1d20 |     | Trick | 
+| :--: | :-: | :---- | 
+| 1    | Acrobat | You can move an extra 15’ per round (45’ total). You can jump 20’ instead of 10’. Treat your falls as 20’ shorter. You can easily maintain your balance on a taut rope. |
+| 2    | Always Armed | Even when you have been disarmed, you still have a dagger hidden on you. |
+| 3    | Backstab | Whenever you have a situational bonus to an Attack roll (surprise, elevation, etc.) attacks that hit deal an additional +1d6 damage. |
+| 4    | Cat's Eyes | With a small amount of light (moonlight, candle) you can see 30’ in darkness. |
+| 5    | Coward | Cover grants you an extra +1 AC. |
+| 6    | Dog Whisperer | You start with a dog. Dogs you train can DEX save for stealth with advantage, communicate to you if an area is obviously dangerous, and track a week-old trail by scent without fail (barring magical concealment). |
+| 7    | Delicate Tasks | Gain +4 on DEX saves to disable traps and pick locks. |
+| 8    | Great Escape | Once per day, you can automatically escape from something that is restraining you and that you could plausibly escape from. This includes grapples, lynchings, pit traps, and awkward social situations, but not sealed coffins. |
+| 9    | Lucky | 1/day reroll a D20. |
+| 10   | Pack Rat | Gain an additional 3 item slots. |
+| 11   | Quick Draw | Gain an additional 3 quick draw slots. |
+| 12   | Quick Fingers | You have advantage on DEX saves to pickpocket people. You can steal things directly out of someone’s hands with a regular (no advantage) DEX save. |
+| 13   | Recorder Crow | You start with a crow. It can make and play auditory recordings. It responds to Record, Stop Recording, Play, Pause, Rewind, and Fast Forward. Max storage: 1 hour. It’s very smart. |
+| 14   | Second Chance | When you trigger a trap you hear a “click”. Save vs INT. Success means you did not trigger the trap and you know exactly what would have happened if you did. |
+| 15   | Getaway Horse | You start with a horse. Horses you train can DEX Save for stealth with advantage, understand abstract directions, and follow a schedule to the minute.  |
+| 16   | Redirect | Once per round, when an enemy attacks you, you can make a DEX Save to redirect their attack to another creature they can hit.  |
+| 17   | Urchin | A street rat demands to learn. They’re a very sneaky hireling that doesn’t ask for pay. If you lose your urchin, you can recruit another wherever urchins are plentiful, but it will be difficult if you have a reputation for getting them killed. |
+| 18   | Very Lucky | Requires Lucky. You may use your Lucky ability twice per day. An adjacent ally can use one of your rerolls, provided you could have plausibly assisted them. |
+| 19   | Watchful | Gain +4 on rolls to Find Hidden Things. You can’t be snuck past. |
+| 20   | Wizardly Initiate | By tasting an object you can determine if it is magical or not. |
+
+### What Did You Do?
+
+You are a member of the Third Estate or an Outlaw. You blend in with society or slide around it, seeking opportunities for wealth and status. You don’t dress like a thief. There are no guilds of thieves. If you are caught you will be maimed, hanged, or worse. Nobody cares who you are; everyone cares about your crimes, or your potential usefulness in their schemes.
+
+</p>
+</details>
+
+## Wizard
+
+<details><summary>Open</summary>
+<p>
+  
+Starting Equipment: spellbook, ink and quill, dagger, red robes.
+
+Starting Skill: 
+
+### Cantrips
+
+1. Change the colour or texture of an object smaller than a horse for 10 minutes.
+2. Create a tiny light as bright as a match on a figertip.
+3. Move a light object with a wave of your finger. You could cause a coin to roll along the ground or turn the pages of a book.
+  
+**A:** Spellcasting, +1 MD, +1 Spell Slot, +2 Spells (d6)
+
+**B:** +1 MD, +1 Spell Slot, +1 Spells (d8), Book Casting
+
+**C:** +1 MD, +1 Spell Slot, +1 Spells (d10), Friendly Spell
+
+**D:** +1 MD, +1 Spell Slot, +4 Spells (Choice)
+
+### A: Spellcasting
+
+Spells are living creatures. Spells, enchantments, ghosts, and souls are all more or less the same. A wizard's spells range in intelligence from pond scum to ferrets. A spellbook is a menagerie-prison. A well-trained brain is a mind-gun loaded with spell-bullets. Minor spells, called cantrips, infest a wizard's soul and bind to it. It takes 1hr to move any number of spells between a spell slot in your brain and a spellbook, scroll, or wand.
+
+To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. As a Wizard, you get +1 MD per Wizard template. Most spells depend on the number of [dice] invested and the [sum] they show. Doubles generate Mishaps; triples generate Dooms. Casting a spell from a scroll provides +1 MD as the scroll burns.
+
+Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool for the day. Your spells return at sunrise to last location they were imprisoned, when the octarine light of the sun touches the world and infuses Creation with an extra boost of raw magic. Your MD return if you get a good night's sleep. If you didn't sleep well, you can Save for each MD to have them return to your pool anyway.
+
+When you gain Template A, roll 2d6s and gain the spells listed. Template B, roll 1d8. Template C, roll 1d10. Template D, choose 4 spells from the list. If a duplicate spell is rollled, you may choose to keep it or reroll.
+
+You can try to bodge together a spell-like effect appropriate to your school by pouring any number of MD into a target and hoping for the best. Effects are adjudicated by the GM, but are usually haphazard and dangerous. Mishaps and Dooms apply.
+
+You can detect strong ambient magic if you are not distracted. To learn details about spells or magic items, roll under Intelligence.
+
+### B: Book Casting
+
+You can cast from a scroll or a spellbook in a way that does not consume the scroll. This allows you to cast directly from your spellbook without loading the spell into your brain first. You do not gain the bonus MD that consuming a scroll generates. You must declare you are casting a spell from a book before initiatives are rolled for the turn. You automatically go last in the initiative round, and you automatically fumble the spell if you take any damage during the round. The spell vanishes from the scroll or book and returns the next morning.
+
+### C: Friendly Spell
+
+Apply a mutation to your signature spell.
+
+### Mishaps & Dooms
+
+| 1d6 | Mishaps                                                           |
+|:---:|:----------------------------------------------------------------- |
+|  1  | MD only return to your pool on a 1-2 for 24 hours.                |
+|  2  | Take 1d6 damage.                                                  |
+|  3  | Random mutation for 1d6 rounds, then Save. Permanent if you fail. |
+|  4  | Lose 1 MD for 24 hours.                                           |
+|  5  | Agony for 1d6 rounds.                                             |
+|  6  | Cannot cast spells for 1d6 hours.                                                                  |
+
+
+|     | Dooms                                        |
+| --- | -------------------------------------------- |
+| 1   | Lose the ability to cast spells for 1 day.   |
+| 2   | Lose the ability to cast spells for 3 days.  |
+| 3   | Lose the ability to cast spells permanently. |
+  
+### Who Are You?
+
+You are a member of the Third Estate. Orthodox wizards are chartered, historic, and sensible wizards. Their colleges only accept male students, but in small struggling colleges, anyone with a false beard and a sack of gold will do. It’s an open and widely mocked secret. Orthodox wizards study all fields of magic, test theories, explore tombs,andfight in wars. Their red robes are famous; to many peasants, a wizard without red robes isn’t a wizard at all.
+
+### Chartered Wizards
+
+Some schools of magic have royal charters. They are protected by law in many kingdoms. Their pedigree is established, their students (while raucous and troublesome), are predictable, and their utility in war or in peace is undeniable. However grudgingly, they are allowed a place in the order of the world. Chartered schools also charge ruinous tuition, requiring the use of Wizard Student Loans. Graduates of these schools must pay back the school monthly in Magic items, strange spells, and ancient knowledge dragged out of dungeons and tombs.
+
+### Spell List
+
+<details><summary>Open</summary>
+<p>
+  
+1. **Lock**
+  
+R: 50' T: [dice] creatures or objects D: 10 minutes
+
+Non-living object closes and becomes locked. If the object is a door, chest, or similar object, it will slam shut, dealing [sum] damage to any creature passing through it and then trapping them. This spell works on things that aren't technically portals (lock a sword in its scabbard, etc.). Requires Str 10+[dice]x4 to open. Alternatively, this spell can be cast on a creature's ori􀀤ce. The creature gets a Save to resist, and another Save at the end of each of its turns.
+  
+2. **Knock**
+  
+R: 50' T: [dice] objects D: 0
+  
+Object is opened. Doors are 􀁃ung wide, locks are broken, shackles are bent open, belts come undone. Treat this as a Strength check made with Str 10 + [dice]x4. If target is an armoured creature, Save or armour falls off. If target is an unarmoured creature, Save or vomit for 1d4 rounds.
+  
+3. **Grease**
+  
+R: 50' T: object, surface D: [dice]x2 rounds
+  
+Can be cast directly on a creature or a 10' x 10' x [dice] surface. All creatures affected must Save vs Dex or drop held objects, or, if moving, drop prone.
+  
+4. **Force Field**
+  
+R: 10' T: plane or sphere D: concentration
+  
+Creates a shimmering force 􀀤eld, 10‘x10’, centered up to 10' away. Alternatively, create a sphere centered on the caster 5' in diameter (large enough for the caster and +1 person). The force 􀀤eld has [sum] HP. All attacks against it hit.
+  
+5. **Levitate**
+  
+R: 50' T: creature object D: concentration
+  
+You will an object to raise, lower, or hover. You cannot move the object horizontally, and you cannot move it more than 10' per turn. Maximum weight is [dice]x500 lbs. Lasts as long as you concentrate, but you take 1d6 psychic damage per round after [dice]x3 rounds.
+  
+6. **Magic Missile**
+
+R: 200' T: creature D: 0
+  
+Target takes [sum] + [dice] damage, no Save. As an Orthodox Wizard, your spell is unique to you and can be any shape, colour, and pattern your describe.
+
+7. **Feather Fall**
+  
+R: 10’ T: [dice] creatures or objects D: 0
+
+If you would take fall damage, you can cast this spell as a reaction to negate it. You 􀁃oat gently to the ground (possibly alarmingly late).
+  
+8. **Sleep**
+  
+R: 50' T: [sum] HD of creatures D: 10 min / permanent
+  
+Target falls into a magical slumber, and can't be awoken by anything less vigorous than a slap. Save negates. Non-alert, unaware targets do not get a Save. If [sum] is at least 4 times the creature's HD, the duration becomes permanent (until slapped) and the creature no longer needs to eat or drink while sleeping. If you also invested 3 [dice] or more into this spell, the duration becomes permanent, and you can set the only condition that will cause the creature to awake (the sunrise before the apocalypse, true love’s kiss, etc.)
+  
+9. **Light**
+  
+R: touch T: object or creature D: [dice]x2 hours
+  
+Object illuminates as a torch, with a radius of 20’+[dice]x10’. Alternatively, you can make an Attack roll against a sighted creature. If you succeed, the creature is blinded for [sum] rounds. If [sum] is greater than 12, the creature is permanently blinded. You can chose the colour of the light. If you invest 4 [dice] or more this light has all the qualities of natural sunlight. Alternatively, if you invest 4 [dice] or more the light can be purest octarine, although it will only last for 1 round. Octarine light is extremely dangerous.
+  
+10. **Wizard Vision**
+  
+R: touch T: sighted creature D: 10 min / permanent
+  
+If you invest one [die]: Target can see invisible things. Target can see through illusions. Non-magical disguises are not penetrated.
+
+If you invest two or more [dice]: This can only be cast on yourself. As above, except you can also see through magical darkness, and see the true forms of shapeshifters. There are also some permanent effects: (a) You can forever see invisible things as a slight warping or lensing of light. You know “there's something over there” and what size it roughly is, but nothing else. (b) You can tell if someone else is a spellcaster by looking them in the eyes.
+
+The price for this gift is your mind. You suffer a permanent loss of 1d6 Wisdom (as you reject the true nature of Creation and go slightly mad) or 1d6 Charisma (as you accept the true nature of Creation and alienate yourself from your peers).
+
+11. **Prismatic Ray**
+  
+R: 200' T: [dice] creatures or objects D: 0
+  
+Target suffers a different effect depending on which color strikes the target. Roll 1d10: 1. Red. Target takes [sum] fire damage, Save for half. 2. Orange. Target takes [sum] bludgeoning damage and is knocked prone. Save negates. 3. Yellow. Target takes [sum] lightning damage, Save for half. 4. Green. Target takes [sum] acid damage, Save for half. 5. Blue. Target takes [sum] ice damage, Save for half. 6. Purple. Target takes [sum] necrotic damage and is blinded for [sum] rounds. Save negates. 7, 8, 9. Struck twice. Roll a d6 twice. Add effects; make one save. 10. Struck thrice. Roll a d6 three times.
+  
+12. **Fireball**
+  
+R: 200' T: 20' diameter D: 0
+  
+Does [sum] fire damage to all objects.
+
+</p>
+</details>
+  
+</p>
+</details>
 
 ## Leveling up
 
