@@ -175,9 +175,7 @@ Under certain circumstances you may be required to make a durability roll. Roll 
 
 ### Armour
 
-Armour pieces have a resistance rating that reduce damage to a minnimum of 1. You have 4 armour slots; Head, Torso, Arms, and Legs. You can only have one piece of armour equiped to a slot at a time.
-
-When an attack against you rolls max damage on a die you must make a durability roll. Player puts up the armour as wager on what will be destroyed.
+Armour grants Resistance which reduces incoming damage to a minnimum of one.
 
 | Item      | Resistance | Worth    | Slots |
 | --------- | :--------: |:--------:|:-----:|
