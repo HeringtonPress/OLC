@@ -77,6 +77,9 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 ## Classes
 
+<details><summary>Open</summary>
+<p>
+
 ## Fighter
 
 <details><summary>Open</summary>
@@ -355,6 +358,9 @@ Does [sum] fire damage to all objects.
 </p>
 </details>
 
+</p>
+</details>
+  
 ## Leveling up
 
 In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up.
