@@ -17,7 +17,7 @@ Simply, the referee describes a situation, and you tell what your character woul
 - [Rolling](CoreRules.md#rolling)
 - [Combat](CoreRules.md#combat)
 - [Dying & Healing](CoreRules.md#dying--healing)
-- [Treasure](CoreRules.md#treasure)
+- [Treasure](CoreRules.md#treasures)
 - [Inventory](CoreRules.md#inventory)
 - [Equipment](CoreRules.md#equipment)
 
