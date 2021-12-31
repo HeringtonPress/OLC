@@ -9,11 +9,15 @@ These are the core rules, everything needed to play the game. There will be addi
 Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a D20 and add a number from your character sheet to the result. If the total is 16 or above, your character succeeds what they intended to do. Either way, the referee describes the new situation, and so on.
 
 - [Creating a Character](CoreRules.md#creating-a-character)
+- [Kin](CoreRules.md#table-of-kin)
+- [Classes](CoreRules.md#classes)
+- [Post Game Character Growth](CoreRules.md#post-game-character-growth)
 - [Leveling Up](CoreRules.md#leveling-up)
 - [Stats & Skills](CoreRules.md#stats--skills)
 - [Rolling](CoreRules.md#rolling)
 - [Combat](CoreRules.md#combat)
 - [Dying & Healing](CoreRules.md#dying--healing)
+- [Treasure](CoreRules.md#treasure)
 - [Inventory](CoreRules.md#inventory)
 - [Equipment](CoreRules.md#equipment)
 
