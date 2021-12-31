@@ -383,9 +383,9 @@ Beyond level 4, when you level up you gain 1 Mastery point. You also gain a Mast
 
 ## Rolling
 
-When the referee tells you to roll one stat (Wands, when climbing a cliff for example), roll a D20, add your stat bonus, and, if the total is higher than 13, you succeed.
+When the referee tells you to roll one stat (Wands, when climbing a cliff for example), roll a D20, add your stat bonus, and, if the total is higher than 16, you succeed.
 
-For easy situations, the referee might have you roll higher than 10. For hard situations, 18.
+For easy situations, the referee might have you roll higher than 13. For hard situations, 20.
 
 A referee should only call for a roll when both success and failure have interesting consequences. Sometimes, failure only means that it takes 10 minutes to achieve the action isntead of a few seconds. Bashing a door, for example, might take moments on a success, and 10 minutes on a failure, attracting monsters to the noise.
 
@@ -393,7 +393,7 @@ Rolling with advantage means you roll twice and choose the best result. Disadvan
 
 ## Combat
 
-Turn Order: Monsters act before you, unless you have surprised them.
+Turn Order: Monsters act before you, unless you have surprised them or have a situational advantage.
 
 Your Turn: On your turn, your character can move nearby, talk, shout, drop an object or themselves, and do any other one combat action, which can be moving further.
 
@@ -462,7 +462,7 @@ It takes an action to retrieve an item, unless it is in your first 3 slots.
 | 30' Rope        |  Mundane   |   1    |     | Salt        |  Trash   |   1    |
 | Saw             |  Mundane   |   1    |     | Shovel      | Mundane  |   1    |
 | Torch           |   Trash    |  0.25  |     | Waterskin   | Mundane  |   1    |
-| Whistle         |  Mundane   |   1    |     |             |          |        |
+| Whistle         |  Mundane   |   1    |     | Bandages    | Mundane  |  0.25  |
 
 ## Equipment
 
