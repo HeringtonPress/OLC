@@ -361,6 +361,12 @@ Does [sum] fire damage to all objects.
 </p>
 </details>
   
+## Post Game Character Growth
+
+**Heroism**. After a session, note one heroic thing you did. You can add 1 to a Skill that directly relates to this gesture. You can only know as many skills as your Intelligence. You can replace old skills as you get new ones.
+
+**Scars**. Also, after a session, if you got wounded, you now have a scar. This scar makes you resistant to the specific danger that gave you the Wound (as defined by the referee). You can only have as many scars as your Constitution. You can replace old scars as you get new ones. If you somewhat mutate during you adventure, each mutation takes the place of a scar but cannot be removed.
+  
 ## Leveling up
 
 In your adventures you will find objects, the most precious of which are Treasures. By spending a Treasure carousing, a character can level up.
@@ -411,6 +417,22 @@ Stabilizing does not remove wounds.
 **Resting**: An 8 hour rest with a bedroll or equivalent heals 1d6 to either HP or stat losses, consuming 1 ration.
 
 Medical care heals all Wounds. Medical care requires to play another character for 1 session and for the wounded character to spend this time in a safe space with healers.
+
+## Treasures
+
+Each object you find has a certain value:
+
+**trash** (worthless)
+
+**mundane** (bag of silver coins)
+
+**valuable** (bag of gold coins)
+
+**treasure** (chest of gold coins)
+
+**artifact** (hoard of gold)
+
+When in town, you can trade items from one category for another in the same category (at the referee’s discression, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, 4 valuables are worth 1 treasure, and 4 treasure are worth 1 artifact.
 
 ## Inventory
 
@@ -476,3 +498,59 @@ Armour grants Resistance which reduces incoming damage to a minnimum of one.
 | Plate     | 4          | Treasure  |   3   |
 
 **Shields** Shields grant a +1 Resistance bonus requiring a free hand to use. Additionally a shield can be Sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1 to a minnimum of 0. Takes up 1 slot and is of Mundane worth.
+
+## Between Adventures
+
+Leveling up is just one way of gaining new powers. This is where you can convert treasures in character levels. If one of the following options allow you to roll on a table, you can roll once per treasure spent and choose the outcome you prefer.
+
+**Spend a Treasure to carouse!**
+
+You will attract new (non-combatant) followers, but there is a risk you end up partying a bit too hard if you fail a constitution roll. You level up!
+
+**Spend a Treasure to build a base!**
+
+1 Treasure can build a basic 30’30’ room, and one Valuable can be traded for 1 piece of standard furniture.
+
+**Spend a Treasure to learn new skills!**
+
+As long as you can find somebody who is an expert in them. Spend 1 Treasure to learn a new skill (+4) or improve a skill you already know (+2). You can do that once per skill between each adventure. Alternatively, you can spend a Treasure to learn a new attack from a creature you can train with. Ask the referee.
+
+**Spend a Treasure to hire new hirelings!**
+
+By default you have the choice between a specialist who can sneak and climb, or a fighter who comes equiped with armor and weapons. They have 0 hit points, 5 in all stats and are not suicidal. Each location can have more class options depending on the culture, at the referee’s disctretion. Hireling spellcasters know 1 spell. Hiring somebody costs 1 treasure, and they expect to be paid 1 treasure per adventure.
+
+**Are you a magic user?**
+
+Spend a Treasure to research new spells!
+A Treasure spent in research allows to copy one spell from a scroll or spell book into your own spell book. Buying a spell scroll also costs 1 treasure.
+A Treasure spent in research allow to create news spells by combining spells using spell word.
+
+**Do you have access to the dead body of a beast, or other raw materials?**
+
+Spend Treasures to craft!
+Ask the referee what makes sense to do with the materials, but dont be afraid to give ideas. If a Treasure is spent crafting an object, it will be magical.
+
+**Do you have access to a living beast?**
+
+Spend Treasures to tame it! 1 Treasure makes the creature friendly to 1 person. 1 Treasure teaches it a one-word order.
+
+**Do you have access to forbidden eldritch knowledge?**
+
+Spend a Treasure to research eldritch knowledge and roll on their mutation tables. Some are even beneficial! Each Treasure gives you advantage on that roll.
+
+**Can you talk with a devil or celestial?**
+
+Spend a Treasure to negotiate a pact: you’ll get a gift and a quest. Each Treasure allows you to choose between more options for your gift and quest.
+
+**Do you have a manual about constructs? or access to a real speciment?**
+
+Spend Treasures to build one. 1 treasure equals 1 HD of construct.
+
+**Have you captured an elemental spirit?**
+
+Spend a Treasure to bind it to you: you’ll get the power to cast more spells, at a price. Each treasure gives you advantage when rolling the price.
+
+**Have you access to necromantic tomes?**
+
+You could spend treasures to become undead.
+
