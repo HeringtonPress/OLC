@@ -3,7 +3,7 @@
 * * *
 
 
-# Chapter 3: Classes
+# Class Compendium
 
 * * *
 
