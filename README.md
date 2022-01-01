@@ -6,4 +6,4 @@
 
 This project is the system reference document for the One Last Coin game system in markdown format.
 
-You can browse the document starting [here](Chapter00.md).
+You can browse the document starting [here](CoreRules.md).
