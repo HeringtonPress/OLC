@@ -27,6 +27,7 @@ Simply, the referee describes a situation, and you tell what your character woul
 - Roll your Stats. 2d4 in order. You may reroll the Stat given by your Kin and pick the higher result.
 - Your HP is equal to your Coins Stat.
 - Choose or roll for your Class. Gain the first template (A) and any other items and bonuses.
+- Starting characters gain +5 in any one skill of their choice, unless the class states otherwise, treat a classes skill list as suggestions. 
 - All PCs also start with a blanket (1 slot), 4 rations (1 slot), and 4 torches (1 slot).
 
 ## Table of Kin
