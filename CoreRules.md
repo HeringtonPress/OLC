@@ -10,10 +10,10 @@ Simply, the referee describes a situation, and you tell what your character woul
 
 - [Creating a Character](CoreRules.md#creating-a-character)
 - [Kin](CoreRules.md#table-of-kin)
+- [Stats & Skills](CoreRules.md#stats--skills)
 - [Classes](CoreRules.md#classes)
 - [Post Game Character Growth](CoreRules.md#post-game-character-growth)
 - [Leveling Up](CoreRules.md#leveling-up)
-- [Stats & Skills](CoreRules.md#stats--skills)
 - [Rolling](CoreRules.md#rolling)
 - [Combat](CoreRules.md#combat)
 - [Dying & Healing](CoreRules.md#dying--healing)
