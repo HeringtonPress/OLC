@@ -4,10 +4,6 @@ OSR DnD rules compiled and adapted from Arnold K’s Goblin Laws of Gaming (GLoG
 
 These are the core rules, everything needed to play the game. There will be additional modules and installments that will add depth to various aspects of the game. All those modules are optional!
 
-## How to Play
-
-Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a D20 and add a number from your character sheet to the result. If the total is 16 or above, your character succeeds what they intended to do. Either way, the referee describes the new situation, and so on.
-
 - [Creating a Character](CoreRules.md#creating-a-character)
 - [Kin](CoreRules.md#table-of-kin)
 - [Stats & Skills](CoreRules.md#stats--skills)
@@ -20,6 +16,12 @@ Simply, the referee describes a situation, and you tell what your character woul
 - [Treasure](CoreRules.md#treasures)
 - [Inventory](CoreRules.md#inventory)
 - [Equipment](CoreRules.md#equipment)
+
+## How to Play
+
+Simply, the referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a 20 sided die and add a number from your character sheet to the roll to see if you succeed in your action. If the situation is easy, the result must be above 10 to succeed, if it’s normal, you have to beat 15, and if it’s hard, 20. Either way, the referee describes the new situation, and so on.
+
+Sometimes, the referee might tell you that the situation gives you advantage or disadvantage. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
 
 ## Creating a Character
 
