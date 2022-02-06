@@ -47,7 +47,7 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 </p>
 </details>
 
-Fighter-Type Classes
+[Fighter-Type Classes](https://github.com/HeringtonPress/OLC/blob/main/21FightersofUud.md)
 
 ## Wizard
 
@@ -217,4 +217,4 @@ You can achieve things beyond the scope of your skills:
 </p>
 </details>
 
-Specialist-Type Classes
+[Specialist-Type Classes](https://github.com/HeringtonPress/OLC/blob/main/23SpecialistsofUud.md)
