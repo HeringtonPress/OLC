@@ -125,32 +125,92 @@ A bag of coins takes an Inventory slot. When in town, you can trade items from o
 
 When you are back to town after an adventure, it is time to spend your loot. Here are a few options:
 	
-	<details><summary>Celebrate</summary>
-	<p>
+<details><summary>Celebrate</summary>
+<p>
 
+Get drunk and get known! For each Valuable spent in such way, you gain a hangover and a new random friend in town. This friend will do favours for you but stay in this town. If you end up spending the equivalent of a Treasure, one of your friends becomes a Follower and goes with you in your adventures, acting as a class-less character (until it levels up!). Followers take Psyche slots.
 
+</p>
+</details>
 
-	</p>
-	</details>
+<details><summary>Build a Home</summary>
+<p>
 
-	<details><summary>Build a Home</summary>
-	<p>
+Spending a Valuable this way will give you 1 piece of mundane furniture. If you end up spending the equivalent of a Treasure, you also become the owner of a 30’ x 30’ structure of the shape you want.
 
+</p>
+</details>
 
+<details><summary>Train a Skill</summary>
+<p>
 
-	</p>
-	</details>
+Spending a Valuable this way will let you increase one of your skills by 1. If you end up spending the equivalent of a Treasure, you can learn a new skill of your choice instead and put 5 points in it.
 
-	<details><summary>Train a Skill</summary>
-	<p>
-
-
-
-	</p>
-	</details>
+</p>
+</details>
 
 Some options open up when you have access to specific things:
 	
+<details><summary>Study a Spellbook</summary>
+<p>
+
+You need a Spellbook and a Treasure worth of materials to study magic. When you study, you choose which book you are studying, gain the knowledge contained in it and roll for one of its spells. If you already know the spell, roll again.
+
+</p>
+</details>
+
+<details><summary>Craft with Materials</summary>
+<p>
+
+You need raw materials (like the skin of a monster you’ve slain) to craft and spend as much loot as you want on tools. The object you craft can be anything made mainly with the provided materials. If you used mundane tools, the result will be mundane; if you spend valuable tools, the object will be special; and if you spend the equivalent of a treasure for the tools, it will be magical. Discuss what you want with the referee.
+
+</p>
+</details>
+
+<details><summary>Tame a Captured Creature</summary>
+<p>
+
+You need to have captured a feral Beast. You must spend 1 valuable for each of its Hit Dice to make it one of your followers. Each extra valuable spent training the beast teaches it a one-word order. Otherwise, it only acts to eat or in self-defence.
+
+</p>
+</details>
+	
+
+<details><summary>Contact a Horror from Beyond</summary>
+<p>
+
+You need to have an eldritch book or a way to contact an Horror. For each Valuable spent in this ritual, roll on the mutation table, choose one of the results and add it to your Inventory. The specific horrors listed on this website have their own mutation tables with extra potential benefits.
+
+</p>
+</details>
+	
+
+<details><summary>Make a Pact with a Celestial Being</summary>
+<p>
+
+You need to have a holy book or a way to contact a Divine Creature. For each Valuable spent in this ritual, roll on the Celestial Pact table in the divine creature’s description, then choose among the quests and rewards your rolled. You become bound to both and lose your soul if you fail the quest.
+
+</p>
+</details>
+	
+
+<details><summary>Build a Construct</summary>
+<p>
+
+You must have an instruction manual. Each Construct has specific instructions in their description, but it always requires magic and a lot of Treasures. On a success, you gain a very powerful follower. It is expected the party pools their resources together to craft a construct.
+
+</p>
+</details>
+	
+
+<details><summary>Bind an Elemental</summary>
+<p>
+
+You need to have the core of an Elemental Spirit and spend a Treasure in arcane materials. Roll on the binding table in the elemental’s description. You also gain a Spell Dice.
+
+</p>
+</details>
+
 </p>
 </details>
 
