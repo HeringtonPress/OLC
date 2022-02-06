@@ -3,8 +3,9 @@
 <details><summary>Open</summary>
 <p>
   
-Starting Equipment: a walking stick and a piece of practical-but-unique headwear.
-Starting Skill: Folklore and your choice of History, Poetry, Philology, Mysticism, Monstrumology, Alchemy, Mythology, Runes & Glyphs, or Geopolitics.
+**Starting Equipment**: a walking stick and a piece of practical-but-unique headwear.
+
+**Starting Skill**: Folklore and your choice of History, Poetry, Philology, Mysticism, Monstrumology, Alchemy, Mythology, Runes & Glyphs, or Geopolitics.
 
 **A:** Well-Learned, Ancient Tongues
 
