@@ -502,7 +502,7 @@ Armour grants Resistance which reduces incoming damage to a minnimum of one.
 | --------- | :--------: |:--------:|:-----:|
 | Gambeson  | 1          | Mundane  |   1   |
 | Chain     | 2          | Valuable |   2   |
-| Plate     | 4          | Treasure  |   3   |
+| Plate     | 4          | Treasure |   3   |
 
 **Shields** Shields grant a +1 Resistance bonus requiring a free hand to use. Additionally a shield can be Sundered: Breaking the shield but reducing the incoming damage by a d12 instead of 1 to a minnimum of 0. Takes up 1 slot and is of Mundane worth.
 
