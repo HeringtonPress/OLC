@@ -1,0 +1,106 @@
+<details><summary>How To Play</summary>
+<p>
+  
+The referee describes a situation, and you tell what your character would do in that context. The referee might ask you to roll a 20-faced die and add a number from your character sheet to the roll to see if you succeed in your action. If the situation is easy, the result must be above 10 to succeed, if it’s normal, you have to beat 15, and if it’s hard, 20. Either way, the referee describes the new situation, and so on.
+
+Sometimes, the referee might tell you that the situation gives you advantage or disadvantage. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
+
+That’s it!
+
+</p>
+</details>
+
+* * *
+
+<details><summary>Character Creation</summary>
+<p>
+
+You have two core stats: **Fortitude** and **Willpower**. Roll 1D6+2 for each to determine their value.
+
+You also have as many **Hit Points** as your Fortitude score.
+
+You can have as many things in your **Inventory** as twice your Fortitude score.
+You can have as many things in your **Psyche** as twice your Willpower score.
+
+Choose a Character Class. Add the class’s starting equipment to your Inventory, its skills and spells to your Psyche and the class’ Template A abilities to your character sheet.
+
+</p>
+</details>
+
+* * *
+
+<details><summary>Stats and Skills</summary>
+<p>
+
+Your stats and skills cannot be higher than 10. If a stat becomes 0, you become paralyzed.
+
+**Fortitude** represents your physical prowess. You roll it for strength and endurance-related feats.
+
+**Dexterity** represents your grace and reflexes. You roll it for mobility feats like climbing, jumping and running away, and also to dodge attacks and hit things.
+
+**Willpower** represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
+
+A **Skill** can be anything (flower arrangement, swordplay, etc.) and starts with a value of 5. When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you to use if it would thematically make sense. Your skills are stored in your Psyche.
+	
+**Hit Points** (or HP) is the amount of damage you can take before getting Wounded.
+
+**Armor** is the amount of damage you ignore when an attack hits you, to a minnimum of 1. You have 0 armor by default.
+	
+</p>
+</details>
+
+* * *
+
+<details><summary>Inventory, Psyche & Beliefs</summary>
+<p>
+
+**Inventory**. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but also get filled with the Scars and mutations you gain along the way. You gain Scars when you get Wounded and they can only be removed by magic.
+
+Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
+
+**Psyche**. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get Wounded.
+
+You cannot go above your psyche slot limit, but you can always forget a Skill, a Spell, or a Belief, or send a follower back home. You can’t, however, get rid of a scar like that.
+
+You can have as many **Beliefs** as you want, and they can be anything. You can change them and add more each time you level up. At the end of a game session, if you have taken a risk for one of your beliefs, you can increase one of your skills by 1. If a Skill reaches a score of 10 this way, you can remove one emotional scar.
+	
+</p>
+</details>
+
+* * *
+
+<details><summary>Combat</summary>
+<p>
+
+</p>
+</details>
+
+* * *
+
+<details><summary>Dying, Wounds, and Healing</summary>
+<p>
+
+**Dying**: When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound.
+
+While dying, you can spend your whole turn to attempt to stabilize. Make a hard Fortitude roll. On a success, you stop dying and have 1 HP. An ally that can reach you with an appropriate Skill or tool can spend their turn making a hard Willpower roll for the same effect. You also stop dying if you recover HP any other way.
+
+Stabilizing does not heal your accumulated Wounds. Instead, you gain a **Scar**. You choose whether the scar will take an Inventory slot or a Psyche slot. As long as you have it, all your rolls against the danger that puts you in that situation are easy rolls.
+
+**Healing**: A 8 hours rest heals all HP losses and consumes 1 ration for the team.
+
+Medical care heals all Wounds. Medical care happens when you end an adventure in a safe location with healers.
+	
+</p>
+</details>
+
+<details><summary>EEEE</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>EEEE</summary>
+<p>
+
+</p>
+</details>
