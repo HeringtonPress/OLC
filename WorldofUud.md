@@ -65,8 +65,74 @@ You can have as many **Beliefs** as you want, and they can be anything. You can 
 
 * * *
 
+<details><summary>Melee Weapons</summary>
+<p>
+	
+Improvised (wine bottle, chair) 1D4 damage, can be thrown
+
+Light (dagger, javelin) 1D6 damage, can be thrown
+
+Medium (sword, axe) 1D8 damage, 1D10 with two hands
+
+Heavy (greatsword, greataxe) 1D12 damage, needs two hands
+
+Pole (spear, halberd) 1D8 damage, needs two hands,
+You have advantage when dodging melee attacks from creatures you’ve hit this turn
+	
+</p>
+</details>
+
+<details><summary>Ranged Weapons</summary>
+<p>
+
+Light (darts) 1 damage, can attack twice
+
+Medium (sling) 1D4 damage
+
+Heavy (bow) 1D6 damage, needs two hands
+
+Mechanical (crossbow, musket) 1D12 damage, needs two hands,
+must take one action to recharge
+	
+</p>
+</details>
+
+<details><summary>Armour</summary>
+<p>
+
+Armour grants Resistance which reduces incoming damage to a minnimum of one.
+
+| Item     | Resistance |  Worth   | Slots | Details                          |
+| -------- |:----------:|:--------:|:-----:| -------------------------------- |
+| Gambeson |     1      | Mundane  |   1   |                                  |
+| Chain    |     2      | Valuable |   2   | All Stealth becomes Hard checks. |
+| Plate    |     4      | Treasure |   3   | Same as chain. Sink like a rock. |
+	
+</p>
+</details>
+
+<details><summary>Torches, Amunitions, and Consumables</summary>
+<p>
+
+Some items like torches have a finite use, represented by a D6. After 10 minutes of usage, roll the die. On a result of 1, the item is getting closer to depletion and the D6 becomes a D4. When you roll a 1 on the D4, you only have one use of the item left before it is depleted.
+
+This system can be used for ammunitions too, in that case, instead of 10 minutes of usage, you roll after each battle where ammunition was used.
+
+</p>
+</details>
+
+* * *
+
 <details><summary>Combat</summary>
 <p>
+
+Turn Order: You act before the monsters unless they have surprised you.
+
+Your Turn: You can move nearby, speak and do one other action, like casting a spell or attacking.
+
+Attacking: Roll your weapon’s damage die and the referee subtracts it from the target’s HP. Reducing a monster’s HP to 0 kills it.
+
+Resistance: The referee will tell you if the monster’s attack you. They will roll the monsters damage die and tell you the resluts. Reduce incoming damage by your Resistance score to a minnimum of 1.
 
 </p>
 </details>
