@@ -52,7 +52,7 @@ A **Skill** can be anything (flower arrangement, swordplay, etc.) and starts wit
 
 **Inventory**. You have as many slots as twice your Fortitude. Inventory slots can be filled with objects, but also get filled with the Scars and mutations you gain along the way. You gain Scars when you get Wounded and they can only be removed by magic.
 
-Small items like potions and daggers can be stacked in your inventory in packs of 3 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
+Small items like potions and daggers can be stacked in your inventory in packs of 4 of the same type. It takes your turn to retrieve an item during combat unless it is in your first 3 slots.
 
 **Psyche**. You have as many slots as twice your Willpower. Psyche slots can be filled with Skills, Spells, Followers and Beliefs, but also with emotional scars you gain along the way. You gain scars when you get Wounded.
 
