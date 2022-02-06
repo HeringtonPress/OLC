@@ -89,7 +89,7 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 </p>
 </details>
 
-Wizard-Type Classes
+[Wizard-Type Classes](https://github.com/HeringtonPress/OLC/blob/main/22CastersofUud)
 
 ## The Specialist
 
