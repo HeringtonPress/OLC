@@ -5,8 +5,6 @@ The referee describes a situation, and you tell what your character would do in 
 
 Sometimes, the referee might tell you that the situation gives you advantage or disadvantage. Rolling with advantage means you roll twice and choose the best result. Disadvantage is the opposite.
 
-That’s it!
-
 </p>
 </details>
 
@@ -35,8 +33,6 @@ Choose a Character Class. Add the class’s starting equipment to your Inventory
 Your stats and skills cannot be higher than 10. If a stat becomes 0, you become paralyzed.
 
 **Fortitude** represents your physical prowess. You roll it for strength and endurance-related feats.
-
-**Dexterity** represents your grace and reflexes. You roll it for mobility feats like climbing, jumping and running away, and also to dodge attacks and hit things.
 
 **Willpower** represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
 
@@ -77,7 +73,7 @@ You can have as many **Beliefs** as you want, and they can be anything. You can 
 
 * * *
 
-<details><summary>Dying, Wounds, and Healing</summary>
+<details><summary>Dying, Wounds, Scars and Healing</summary>
 <p>
 
 **Dying**: When you reach 0 Hit Points, you start dying. While you are dying, you gain a **Wound** at the end of each of your turns. If you reach 10 Wounds, you die. Each point of damage you take while dying also gives you an extra Wound.
@@ -93,14 +89,104 @@ Medical care heals all Wounds. Medical care happens when you end an adventure in
 </p>
 </details>
 
-<details><summary>EEEE</summary>
+* * *
+
+<details><summary>Exploring</summary>
 <p>
+
+Time is tracked differently when you travel outdoors or in a dungeon. Dungeons are divided in rooms. Inside a dungeon, any worthwhile action like investigating a room or battling takes 10 minutes. You roll to see if your torches deplete every 10 minutes and the referee rolls for random encounters every 30 minutes. You can cross 10 safe rooms you have explored per 10 minutes, or 3 if you want to be discreet.
+
+The world outside of a dungeon is divided in hexagons. Any worthwhile action like crossing or exploring a hex lasts 4h of the day (Dawn, Midday, Afternoon, Dusk, Evening, or Night). The referee rolls for encounters each time you enter a new location, explore a location or rest.
 
 </p>
 </details>
 
-<details><summary>EEEE</summary>
+* * *
+
+<details><summary>Treasure</summary>
 <p>
+
+Each object you find has a certain value assigned by the referee:
+
+    trash (worthless)
+    mundane (bag of silver coins)
+    valuable (bag of gold coins)
+    treasure (bag of platinum coins)
+
+A bag of coins takes an Inventory slot. When in town, you can trade items from one category for another in the same category (at the referee’s discretion, just say what you are looking for). Alternatively, 4 mundane objects are worth 1 valuable, and 4 valuables are worth 1 treasure.
+
+</p>
+</details>
+
+* * *
+
+<details><summary>Carousing</summary>
+<p>
+
+When you are back to town after an adventure, it is time to spend your loot. Here are a few options:
+	
+	<details><summary>Celebrate</summary>
+	<p>
+
+
+
+	</p>
+	</details>
+
+	<details><summary>Build a Home</summary>
+	<p>
+
+
+
+	</p>
+	</details>
+
+	<details><summary>Train a Skill</summary>
+	<p>
+
+
+
+	</p>
+	</details>
+
+Some options open up when you have access to specific things:
+	
+</p>
+</details>
+
+* * *
+
+<details><summary>Leveling Up</summary>
+<p>
+
+You level up when you spend the equivalent of a Treasure in any of the carousing activities mentioned above. When you level up:
+
+- Increase your HP by 2 (up to 20 total).
+- Increase one of your stats by 1 (up to 10).
+- Gain the next template of your class or take the first template of another class (up to 4 templates total).
+
+</p>
+</details>
+
+* * *
+
+<details><summary>Spell Casting</summary>
+<p>
+
+Some classes can cast spells. They have Spell Dice (SD).
+
+**Casting a Spell**
+Whenever you cast a spell, you choose how many SD to invest into it. The result of the spell depends on the number of [dice] and their [sum].
+
+If a SD rolls a 1, 2 or 3, you don’t lose it. Otherwise, you lose it until you get a night of sleep. You can’t cast without SD.
+
+Every time you roll doubles you get closer to Catastrophe.
+
+**Catastrophe**
+Every time you roll doubles you gain 1 Doom Point. Roll a D20. If you roll equal to or below your doom score, you trigger a catastrophe. They will end your wizardly career if you don’t quest to avoid your doom.
+
+**Sigil**
+Some spells mention a Sigil. It’s your unique symbol. A spell cast with a Sigil takes 10 minutes to cast, but lasts forever. You can have as many Sigils up as you have templates of a spellcasting class.
 
 </p>
 </details>
