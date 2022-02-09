@@ -51,27 +51,32 @@ If you are in dense forests, hills, caves, or other terrain with abundant line-o
 <details><summary>Open</summary>
 <p>
   
-Starting Equipment: heavy weapon, leather armour.
+**Starting Equipment**: a heavy weapon of your choice, leather armour, .
 
-Starting Skill: Foreign Parts. Also, roll on the following table.
+**Starting Skill (+5)**: Your choice of Foreign Parts, Beasts, Sailor, or Knitting.
 
-**A:** Rage
+**A:** Danger Sense, Tough
 
-**B:** Danger Sense, A Taste of Home, +1 Stealth
+**B:** Rage
 
-**C:** Feat of Strength, Die Hard
+**C:** Die Hard
 
-**D:** Tough
+**D:** 
 
-You gain +2 HP for each Barbarian template you possess.
+You gain +2 HP for each Barbarian template you possess. HP gained this way does not count towards the 20 HP cap.
 
-### A: Rage
+### A: Danger Sense
+
+If you are surprised, you have a 50% chance to act in the surprise round anyway. If you encounter a creature no one in the group has seen before, you can a WIL or appropriate skill check to remember a detail or weakness, provided the creature is not unique.
+ 
+
+### B: Rage
 
 You can choose to enter a rage at the start of your turn, or in response to taking damage. You might froth, or stare in battlefocus, or merely let a facade drop and give in to your ancient urges, brutal warrior training, or religious fanaticism.
 
 While in a rage:
 
-- You gain +4 to Wisdom for Initiative purposes. You act before all other PCs in a round.
+- You always act first in combat.
 - You gain +1 attack per round.
 - All your melee attacks inflict +1 damage.
 - You can only cast damaging spells. All your spells deal +2 damage (if single target) or +1 damage (if multiple targets).
@@ -79,31 +84,17 @@ While in a rage:
 - You cannot do anything defensive, curative, or tactical with your allies. All you can do is attempt to kill things.
 - You cannot stop fighting until you kill, subdue, or drive off all enemies. If an ally has injured you this fight, they count as an enemy.
 
-To stop raging, Make a Wisdom Save at the start of your turn.
-
-### B: Danger Sense
-
-If you are surprised, you have a 50% chance to act in the surprise round anyway. If you encounter a creature no one in the group has seen before, you can roll under Intelligence to remember a detail or weakness, provided the creature is not unique.
-
-### B: A Taste of Home
-
-You can consume a special ration to regain 1d6+1 HP. This takes 1 round. Roll on the Table of Barbarian Delicacies. One “dose” costs 1gp and can be purchased in any trading city. 3 doses fit in a single inventory slot. You cannot eat while raging, but you can immediately enter a rage after eating the ration. If you have any Lethal Damage, you instead heal to 0 HP. If an ally waves the ration under you nose, you can roll under Constitution to wake up.
-
-### C: Feat of Strength
-
-Once per day, you have 22 Strength for 1 round. Your Strength bonus is +4.
+To stop raging, Make a WIL Check at the start of your turn.
 
 ### C: Die Hard
 
-You have 4 rounds instead of 3 to remove all your Fatal Wounds.
+While raging instead of becoming incapacitated when you fall below zero HP you may now still act as normal, only accuring wounds after a number of rounds equal to your Barbarian templates. To stabalize you must first drop your rage which will render you incapacitated as normal.
 
 ### D: Tough
 
-Reduce all incoming damage by 1 point. Gain +2 to Saves vs. Mind Altering Effects, including your save to end a Rage. 
+Gain +1 Resistance regardless of Armour. Gain +4 to Saves vs. Mind Altering Effects, including your save to end a Rage.
 
-### Who Are You?
 
-You are from Foreign Parts. The language of people Around Here is strange to you; their customs are sometimes amusing and sometimes disgusting. You might worship the Authority as they do, but you might be from a heretical sect or cult. You are a probably a member of the Third Estate or an Outlaw. You carry your own law and customs.
 
 </p>
 </details>
@@ -115,9 +106,9 @@ You are from Foreign Parts. The language of people Around Here is strange to you
 <details><summary>Open</summary>
 <p>
   
-**Starting Equipment**: chainmail, shield, sword, horse, 5sp.
+**Starting Equipment**: chainmail, shield, sword, and a common mount.
 
-**Starting Skill (+1)**: "Courtesy" and your choice of "Poetry", "Military" and "Inquisition".
+**Starting Skill (+5)**: Your choice of Courtesy, Poetry, Military or Politics.
 
 **A:** Challenge, Champion
 
@@ -159,29 +150,11 @@ Allies who can see and hear you can use your Save vs Fear instead of their own. 
 
 Once per day, allies who can see and hear you heal 1d4 HP. If they were at full HP, they instead gain +2 to their next Attack roll.
 
-### Who Are You?
 
-You are a member of the Second Estate, an armour-clad warrior on horseback. Knights from Around Here are universally male or must appear as male. Anything goes in Foreign Parts. You lend legitimacy to any group. You may be granted titles, gifts of land, or castles. Everyone else has to work furiously to get into your social class. People respect you.
+### Heraldry Generator
 
-If you are from Around Here your weapon of choice is the sword and you ride a horse. In Foreign Parts, knights might use bows and ride lizards, but Foreign Parts are disreputable.
-
-Honour and chivalry are ideals often disregarded in practice.
-
-### The Second Estate
-
-Your starting Noble Rank is 1. Your expenses are 12gp/month. Roll on the table below to see how you are supported.
-
-The highest rank you can possibly inherit is 1d6+2. This might be your father’s uncle’s title or something equally remote. This might require divine intervention, a plague, or a most dreadful amount of killing. If you are a bastard, you cannot inherit unless you are legitimized by a higher noble (usually a King).
-
-| 1d3 | Knightly Support |     | 
-| :-: | :--------------- | :-- | 
-| 1   | Large Farm | You hold a prosperous farm and a minor title. You have 1d6 tenants (total, not families), a small house, and no prestige. The farm pays 12gp per month. |
-| 2   | Dubious Stipend | Your family is prosperous, but you are a minor son of a minor branch. Your stipend pays 12gp per month, but each month roll 1d10. On a 10 it stops forever. |
-| 3   | No Support | You are a knight without land or support. There is a 50% chance you are a bastard. If you fail to pay your expenses you will drop out of the Second Estate. |
-
-|      | Heraldry Generator  |                    |                     |
-| :--: | :------------------ | :----------------- | :------------------ |
 | **1d10** | **Field (Base Colour)** | **Division (Overlay)** | **Charge (Decoration)** |
+| :--: | :------------------ | :----------------- | :------------------ |
 | 1    | Argent (Silver) | Fess (Top/Bottom) | Escutcheon (Shield) |
 | 2    | Or (Gold) | Pale (Left/Right) | Lozenge (Diamond) |
 | 3    | Azure (Blue) | Bend (Diagonal S) | Roundel (Circle) |
@@ -193,7 +166,7 @@ The highest rank you can possibly inherit is 1d6+2. This might be your father’
 | 9    | Sanguine (Blood) | Wavy (Half ~) | Lion |
 | 10   | Tenne (Tawny) | Dancetty (Half ^^^^^) | Sword |
 
-Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll once for Division, designating sections as different Field colours. Roll 1d4 times for Charges, with 1d4 copies of each charge. Muck around with the idea a bit. This generator will infuriate students of heraldry. Deal with it.
+Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll once for Division, designating sections as different Field colours. Roll 1d4 times for Charges, with 1d4 copies of each charge. Muck around with the idea a bit.
 
 </p>
 </details>
