@@ -172,3 +172,50 @@ Roll at least once for Field. If 1 or 2 is rolled, next result must be 3-8. Roll
 </details>
 
 * * *
+
+## Brawler
+
+<details><summary>Open</summary>
+<p>
+    
+**Starting Equipment**:
+**Starting Skill (+5)**:
+
+**A:** Pugilism, Feck Off!
+
+**B:** Pull Wool
+
+**C:** Close and Personal, Truculence
+
+**D:** Calloused Knuckles
+
+Bonus
+
+### A: Pugilism
+ 
+Your unarmed attacks deal 1d4 damage. For the purposes of grappling and shoving combat maneuvers, your FOR is increased by 2.
+
+### A: Feck Off!
+  
+If you pass a Save vs Fear, you may immediately make an attack against whatever caused you to Save. You can use a weapon, a spell, a thrown object, your fists, etc. You cannot draw a weapon or prepare an item before attacking; it must be immediate.
+
+### B: Pull Wool
+  
+Once per day, you can use clever trickery or pure speed to negate an incoming ranged attack. The target must be you, an adjacent ally, or the area you are standing in. The arrow, spell, flying rock, etc. gets "taken care of".
+  
+### C: Close and Personal
+  
+You gain +1 attack per round if you are attacking with a dagger or your bare fists. Other suitably close-and-personal weapons may be acceptable.
+
+### C: Truculence
+
+You are immune to any spells or effects that would alter your natural disposition, goals, or views, from charm spells to total perspective vortices.
+
+### D: Calloused Knuckles
+  
+Your unarmed attacks deal 1d6 damage. Whenever you roll max damage on an unarmed strike you may grapple or shove as a free action.
+
+</p>
+</details>
+
+* * *
