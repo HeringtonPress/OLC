@@ -58,7 +58,7 @@ Whenever you reduce a creature to 0 HP with an attack, you can make another atta
 
 **Starting Skills**: University Graduat, Alchemist, Charlatan, or Heretical Recluse.
 
-For every Wizard template you gain, you gain one extra **Spell Die** (SD) and you can study without spending a treasure **Study**.
+For every Wizard template you gain, you gain one extra **Spell Die** (SD) and you can **Study** without spending a treasure.
 
 ### Spells
 
