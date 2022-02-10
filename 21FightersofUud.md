@@ -53,7 +53,7 @@ If you are in dense forests, hills, caves, or other terrain with abundant line-o
   
 **Starting Equipment**: a heavy weapon of your choice, leather armour, .
 
-**Starting Skill (+5)**: Your choice of Foreign Parts, Beasts, Sailor, or Knitting.
+**Starting Skill (+5)**: Your choice of Distant Lands, Beasts, Sailor, or Knitting.
 
 **A:** Danger Sense, Tough
 
