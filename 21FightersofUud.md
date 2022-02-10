@@ -61,7 +61,7 @@ If you are in dense forests, hills, caves, or other terrain with abundant line-o
 
 **C:** Die Hard
 
-**D:** 
+**D:** Tough
 
 You gain +2 HP for each Barbarian template you possess. HP gained this way does not count towards the 20 HP cap.
 
@@ -138,9 +138,9 @@ Once per round, if an adjacent ally would take damage from a physical attack, yo
 
 Once per day, you may add +X damage to one of your physical attacks, where X is the HD of the most powerful monster killed by you or your party. Keep track of this.
 
-### D: Inspire
+### D: Imposing Presence
 
-Once per day, allies who can see and hear you heal 1d4 HP. If they were at full HP, they instead gain +2 to their next Attack roll.
+You make your pressence known. In place of Challenge on your turn you may target a hoard of weak enemies forcing them to make a WIL check. Decide wether they react by avoiding you or targeting you specifically.
 
 ### Heraldry Generator
 
