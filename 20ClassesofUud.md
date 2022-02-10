@@ -103,8 +103,11 @@ You need a Spellbook to study. You cannot take a Wizard template if you do not p
 For every Specialist template you have, you learn a new **Trick**.
 
 **A:** Scrounge
+
 **B:** Expertise
+
 **C:** Bonus Trick
+	
 **D:** Mastery
 
 ### Trick
