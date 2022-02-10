@@ -118,9 +118,9 @@ Gain +1 Resistance regardless of Armour. Gain +4 to Saves vs. Mind Altering Effe
 
 **D:** Aura of Courage, Inspire
 
-You gain +2 to Save vs Fear for each Knight template you possess. 
+You gain  for each Knight template you possess. 
 
-### A: Challenge
+### B: Challenge
 
 This ability only works on creatures that can understand you and are capable of being offended. If you challenge a creature outside combat, they must Save or accept your challenge. In civilized areas, this could mean a duel, a joust, or a brawl. The challenged party can set conditions for the duel. Leaders may send out champions.
 
@@ -128,28 +128,19 @@ In combat, you can challenge one creature each turn as a free action. The creatu
 
 ### A: Champion
 
-After all enemies have completed their turns in a combat round, select one enemy that only targeted you with attacks, and that you targeted with your attack. Make a second attack against that enemy. Effectively, this gives you two attacks per round if you are fighting an enemy one-on-one.
+After all enemies have completed their turns in a combat round, select one enemy that only targeted you with attacks, and that you targeted with your attack. Make a second attack against that enemy.
 
-### B: Bodyguard
+### A: Bodyguard
 
-Once per round, if an adjacent ally would take damage from a physical attack, you may make an Attack roll. If you succeed, you take the damage instead.
+Once per round, if an adjacent ally would take damage from a physical attack, you take the damage instead.
 
 ### C: Dragon Slayer
 
-Once per day, you may add +X damage to one of your physical attacks, where X is the HD of the most powerful monster killed by you or your party. Keep track of this. If you miss, this ability is not expended.
-
-### C: Parry
-
-Once per day you can reduce incoming damage by 1d12 points. If you also choose to sunder your shield, you can reduce the damage by 12 points instead of 1d12.
-
-### D: Aura of Courage
-
-Allies who can see and hear you can use your Save vs Fear instead of their own. This ability has no effect if you are currently afraid.
+Once per day, you may add +X damage to one of your physical attacks, where X is the HD of the most powerful monster killed by you or your party. Keep track of this.
 
 ### D: Inspire
 
 Once per day, allies who can see and hear you heal 1d4 HP. If they were at full HP, they instead gain +2 to their next Attack roll.
-
 
 ### Heraldry Generator
 
