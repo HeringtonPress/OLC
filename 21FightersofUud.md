@@ -118,7 +118,7 @@ Gain +1 Resistance regardless of Armour. Gain +4 to Saves vs. Mind Altering Effe
 
 **D:** Aura of Courage, Inspire
 
-You gain  for each Knight template you possess. 
+You gain +1 hp and +1 to saves vs fear for each Knight template you possess. 
 
 ### B: Challenge
 
