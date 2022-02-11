@@ -5,7 +5,7 @@
   
 **Starting Equipment**: Holy Vestments, a Censer, a Holy Book.
 
-**Starting Skill (+5)**: "The Holy Scriptures” and your choice of “Dead Languages”, “Preaching” or “Inquisition"
+**Starting Skill (+5)**: Your choice of Holy Scriptures, Dead Languages, Preaching, or.
 
 For every Priest template you have, you gain one new Sacrament.
 
@@ -128,7 +128,7 @@ When you choose a Sacrament, you become imparted by the divine grace of the auth
   
 **Starting Equipment**: Outlandish Costume, 
 
-**Starting Skill (+5)**: Your choice of Party Tricks, Arson, Theater or 
+**Starting Skill (+5)**: Your choice of Party Tricks, Arson, Theater, or 
 
 **A:** Soul Casting, 1 Ambient Sorcery
 
