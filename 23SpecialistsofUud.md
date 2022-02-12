@@ -80,3 +80,5 @@ For each Senex template you take, you roll 1d12 and gain one of these; if you ro
   
 </p>
 </details>
+
+* * *
