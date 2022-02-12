@@ -83,3 +83,56 @@ For each Senex template you take, you roll 1d12 and gain one of these; if you ro
 
 * * *
 
+## The Dwarf
+
+<details><summary>Open</summary>
+<p>
+
+**Starting Equipment**: A Chainmail, a rough iron Shield, and your choice of an Axe, a Hammer, or a Pike.
+
+**Starting Skills**: Your craft (roll on the 1D200 Failed Medieval Careers) and your choice of Hill Life, Undermountain Guard or Banker.
+	
+**A:** Smell Treasure, Rowdy Heart
+
+**B:** Greed, Obsession
+
+**C:** Heart of the Delver
+
+**D:** Stubborn
+
+For every Dwarf template you have, you gain an extra Inventory slot.
+	
+### Smell Treasure
+
+You can smell gold, jewels, gems, silver–minerals and crystals of value. If you stand at a crossroads and sniff, the referee will tell you which direction has the most treasure. If you sniff in an empty room, the referee will tell you if you smell the faint odor of potentially buried treasure.
+
+### Rowdy Heart
+
+If you drink a full bottle of alcohol, you can roll FORT. On a success, cure one poison, diseases or potion affecting you.
+
+### Greed
+
+Gain a +1 HP for each inventory slot filled with Valuables or Treasures.
+
+### Obsession
+
+You don’t even need sleep when you work: your obsession is refreshing. Each rest, as long as you have basic tools you can either …
+
+- Make significant repairs to a single object overnight.
+- Refill one stack of mundane amunition.
+- Craft a small object no bigger than your hand.
+
+When you do the Craft carousing activity, the item you create is a step more valuable than the investment you put in it.
+
+### Heart of the Delver
+
+Always knows when all the secret doors and passages on a floor have been discovered. You can sense the general direction of exits and stairs to other levels.
+
+### Stubborn
+
+You get so stubborn even spells stop affecting you. Magic of any kind, both good and bad, cannot work on you. Shaving your beard cancels this ability.
+
+</p>
+</details>
+
+* * *
