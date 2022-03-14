@@ -686,3 +686,39 @@ For the duration, you enter a trance and commune with a powerful spirit. You may
 </details>
 
 * * *
+
+## Druid
+
+<details><summary>Open</summary>
+<p>
+  
+Starting Equipment: A stout staff, a small bag of deadly nightshade, and a bone dagger.
+  
+Starting Skill:Woodlore and your choice of Medicine, Astronomy, Stone Carving
+
+
+
+**A:** Land's Warden, Wild's Caller
+  
+**B:** Beast's Form
+
+**C:** Bird's Flight
+
+**D:** Archdruid's Challenge
+
+For every Druid template you posses you gain +1 SD
+
+### A:
+
+### B:
+
+### C:
+
+### D:
+
+### Who Are You?
+
+</p>
+</details>
+
+* * *
