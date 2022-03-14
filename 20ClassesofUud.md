@@ -19,7 +19,7 @@ A fighter-type class is designed to be good in combat situations. A specialist-t
 
 ### A: Grit
 
-You can have as many Scars as your WIL without them taking inventory slots.
+You can have as many Scars as you have Fighter templates without them taking inventory slots.
 
 ### A: Parry
 
