@@ -224,6 +224,65 @@ Instead of healing like a PC, a Homunculus heals 1 HP every 30 minutes. If you a
 
 * * *
 
+## Really Good Dog
+
+<details><summary>Open</summary>
+<p>
+  
+Starting Equipment: A saddle if you are a large dog or a 
+
+Starting Skill: Dog and your choice of 
+
+**A:** Best Friend, Wag
+
+**B:** Sniff the Air, Fight as One
+
+**C:** Growl, Scent the Ineffable
+
+**D:** Takedown, Never Give Up
+
+### You're a Dog
+	
+You can't hold things in your paws. You can't climb ropes or ladders. You move faster then the average human. Your bite attack counts as either a dagger, sword, or greatsword (your choice, each bite). You do not start with any items. You can follow (most) scents, and recognize scents you've encountered before.
+	
+### A: Best Friend
+
+Pick a best friend. You both get +1 Resistance and +1 Save when fighting beside each other. This designation is permanent (until story/DM say otherwise).  If your Best Friend dies, you can pick a new one after playing 1 full session as a sad, sad dog.
+
+### A: Wag
+
+When you wag your tail, you cast a version of charm person that only works on children.
+
+### B: Sniff the Air
+
+10 in-game minutes before the DM rolls for wandering monsters, he also rolls for wandering scents.  The DM rolls on the wandering monster table and describes what one of the monsters smells like.  If you've encountered that type of monster before, you can identify it.
+
+### B: Fight as One
+
+If you and your Best Friend attack the same enemy simultaneously the enemy takes an additional 1d6 damage.
+
+### C: Growl
+	
+An enemy who can hear you must Save vs Fear or be unable to attack or approach you until your next turn. Doesn't work if you are running away, restrained, or non-threatening.  Doesn't work on things with 2 or more HD than you.
+	
+### C: Scent the Ineffable
+	
+As detect poison, detect evil, detect magic, or detect undead except you cannot decipher magic items and the range is limited to 1', except for detect undead where the range is 30'.
+
+### D: Takedown
+
+When you bite an opponent no larger than a human, you can make a trip maneuver for free. 
+
+### D: Never Give Up
+	
+If your Best Friend is ever at 0 HP, you can lick their face to restore 1d6 HP.  If your Best Friend is ever paralyzed, mind-controlled, raging, or otherwise out of control, you can lick/bite them (whichever is more appropriate) to give them a new save against the effect.  Only works on things that allow saves in the first place.
+	
+
+</p>
+</details>
+
+* * *
+
 ## Template
 
 <details><summary>Open</summary>
