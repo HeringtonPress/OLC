@@ -708,7 +708,9 @@ Starting Skill:Woodlore and your choice of Medicine, Astronomy, Stone Carving
 
 For every Druid template you posses you gain +1 SD
 
-### A:
+### A: You may spend a night meditating at a site of druidic significance to roll a d4 on the table for that location type, preparing that spell. You may have [template]+1 spells prepared at any given time. When you prepare a spell at a location, you also gain the cantrip and drawback of that location type. If you prepare at an incredibly significant location you roll a d6 instead of a d4.
+
+### A: You know the intentions, wants, and emotions of any wild animal you can see, smell, and hear, and can communicate your own to them wordlessly. When in an area where a certain species of animal might be found, you may attempt to call an individual to you over the course of 10 minutes, with a [6 - HD]-in-6 chance of success. You may ask the animal a favor, which it will always perform if its motives are not in conflict with your own and if the favor puts it at no personal risk. If the favor does require risk, the animal only has a [template]-in-6 chance of agreeing. You have +3 on reaction rolls with Beasts.
 
 ### B:
 
