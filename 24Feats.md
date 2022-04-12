@@ -1,42 +1,41 @@
 ## Background Feats
 
 ### Campaigner
-Quest: Military service
-
-Boon: Armor occupies 2 fewer item slots in your inventory. Example: chain occupies 0 slots instead of 2.
+Quest: Military service  
+Boon: Armor occupies 2 fewer item slots in your inventory. Example: chain occupies 0 slots instead of 2.  
+<sub>Background, Military, Inventory</sub>
 
 ### Hunter/Gatherer
-Quest: Spent a long time living on the frontier.
-
-Boon: You can collect enough food in a location with sufficient flora/fauna equal to 4 ration. Food collected this way cannot be presserved and must be consumed the day you collected it.
+Quest: Spent a long time living on the frontier.  
+Boon: You can collect enough food in a location with sufficient flora/fauna equal to 4 ration. Food collected this way cannot be presserved and must be consumed the day you collected it.  
+<sub>Background, Ranger, Rations</sub>
 
 ### Arcane Student
-Quest: Spend the majority of your life studying the arcane arts.
-
-Boon: Start with one spell learned.
+Quest: Spend the majority of your life studying the arcane arts.  
+Boon: Start with one spell learned.  
+<sub>Background, Wizard, Magic, Spells</sub>
 
 ### Strong Bond with pet
 
 ### Weapon Master
-Quest: Demonstrate notable skill with a weapon.
-
-Boon: Start with 10 notches in any 1 weapon type.
+Quest: Demonstrate notable skill with a weapon.  
+Boon: Start with 10 notches in any 1 weapon type.  
+<sub>Background, Fighter, Notches, Weapon</sub>
 
 ### Iradiated
-Quest: Have a close encounter with radiation, magical or alien.
-
-Boon: Start with a benificial mutation.
+Quest: Have a close encounter with radiation, magical or alien.  
+Boon: Start with a benificial mutation.  
+<sub>Background, Mutation</sub>
 
 ### Highly Favoured
-Quest: Create an intrusive tenant as part of a Dogmatic organisation.
-
-Bonus: As long as you abide by this tennant you gain a bonus LD.
+Quest: Create an intrusive tenant as part of a Dogmatic organisation.  
+Bonus: As long as you abide by this tennant you gain a bonus LD.  
+<sub>Background, Cleric, Gods, Church, Cult</sub>
 
 ### Champion
-
-Quest: You must make an oath of service to a lord from your realm and hold them as your liege. 
-
-Boon: You gain 4 additional HP that ignores the max hp cap. 
+Quest: You must make an oath of service to a lord from your realm and hold them as your liege.  
+Boon: You gain 4 additional HP that ignores the max hp cap.  
+<sub>Background, Military, Knight, HP, Fealty</sub>
 
 ### Warlock pact
 
