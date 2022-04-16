@@ -43,6 +43,10 @@ Boon: You gain 4 additional HP that ignores the max hp cap.
 
 ___
 
+## Notches
+A Notch is a kill made with a weapon type.
+
+
 ### Berserk
 
 Quest: You must slay, skin, tan, and create a coat from the hide of a dire animal. 
