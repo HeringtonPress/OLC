@@ -103,3 +103,11 @@ ___
 Quest: Best a Giant in a feat of strength.
 
 Boon: Wield two handed weapons as one handed and giant weapons as two handed.
+
+___
+
+### Exsanguinate
+
+Quest:
+
+Boon: Spending a level die, a creature you can see with levels of the bleed condition takes four times their current amount of bleed and loses all levels of the bleed condition.
