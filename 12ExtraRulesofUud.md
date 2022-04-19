@@ -6,6 +6,10 @@ Rules that are referee-facing or that add layers to the game.
 
 <details><summary>Conditions</summary>
 <p>
+
+**Bleeding**
+
+For every level of bleed on you at the start of your turn roll a d4. For every blood die that landed on a 4 reduce the bleeding condition by 1. Take whatever damage is rolled on the blood die.
 	
 **Blindness**
 
