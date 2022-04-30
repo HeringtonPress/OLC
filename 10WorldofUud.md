@@ -27,7 +27,7 @@ Choose a Character Class. Add the class’s starting equipment to your Inventory
 
 * * *
 
-<details><summary>Stats and Skills</summary>
+<details><summary>Stats</summary>
 <p>
 
 Your stats and skills cannot be higher than 10. If a stat becomes 0, you become paralyzed.
@@ -35,12 +35,45 @@ Your stats and skills cannot be higher than 10. If a stat becomes 0, you become 
 **Fortitude** represents your physical prowess. You roll it for strength and endurance-related feats.
 
 **Willpower** represents your mind and personality. You roll it for social interactions, but also to resist spells and overwhelming emotions such as fear.
-
-A **Skill** can be anything (flower arrangement, swordplay, etc.) and starts with a value of 5. When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you to use if it would thematically make sense. Your skills are stored in your Psyche.
 	
 **Hit Points** (or HP) is the amount of damage you can take before getting Wounded.
 
 **Armor** is the amount of damage you ignore when an attack hits you, to a minnimum of 1. You have 0 armor by default.
+	
+</p>
+	
+</details><details><summary>Skills</summary>
+<p>
+
+A **Skill** starts with a value of 5. When asked to roll for an action, you can use one of your skills instead of the stat the referee tells you to use if it would thematically make sense. Your skills are stored in your Psyche.
+
+Acrobatics
+Appraise
+Bluff
+Climb
+Craft
+Diplomacy
+Disable Device
+Disguise
+Escape Artist
+Fly
+Handle Animal
+Heal
+Intimidate
+Knowledge
+Linguistics
+Perception
+Perform
+Profession
+Ride
+Sense Motive
+Skill Checks
+Sleight of Hand
+Spellcraft
+Stealth
+Survival
+Swim
+Use Magic Device 
 	
 </p>
 </details>
