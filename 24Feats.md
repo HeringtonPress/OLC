@@ -63,7 +63,10 @@ Boon: When you bid lore, you may ask a follow up question for free.
 
 ___
 
+### Wilderness Sense
+Quest:
 
+Boon: After the GM gives you the Omen for an encounter, you can choose to reroll the encounter and get a different Omen. You must accept the new result. You act on surprise rounds if you are within a familiar enviornment.
 ___
 
 ### Ranger
