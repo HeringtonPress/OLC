@@ -44,7 +44,24 @@ Boon: You gain 4 additional HP that ignores the max hp cap.
 ___
 
 ## Notches
-A Notch is a kill made with a weapon type.
+A Notch is a kill made with a weapon. Notches are collected per weapon type, for example if a vampire hunter with a whip and a rapier in either hand kills a goblin he may choose to either collect one notch in whips or in thrusting swords. When notches are collected they may then be spent to unlock special moves with said weapon type. A list of moves split into weapon types is below but discuss with your DM if you would like one that may not be in your weapons catagory.
+
+| Weapon Type      | 10  | 20  | 30  | 50  |
+| ---------------- | --- | --- | --- | --- |
+| Fists            |     |     |     |     |
+| Daggers          |     |     |     |     |
+| Axes             |     |     |     |     |
+| Greataxes        |     |     |     |     |
+| Straight Swords  |     |     |     |     |
+| Thrusting Swords |     |     |     |     |
+| Greatswords      |     |     |     |     |
+| Hammers          |     |     |     |     |
+| Greathammers     |     |     |     |     |
+| Twinblades       |     |     |     |     |
+| Reapers          |     |     |     |     |
+| Warpicks         |     |     |     |     |
+| Polearms         |     |     |     |     |
+| Whips            |     |     |     |     |
 
 
 ### Berserk
@@ -52,6 +69,21 @@ A Notch is a kill made with a weapon type.
 Quest: You must slay, skin, tan, and create a coat from the hide of a dire animal. 
 
 Boon: If you wear your dire coat, but no actual armor, you may choose to fly into a berserker fit.  While in this fit, you may only perform Melee attacks, but you gain damage resistance 2. This fit only ends when every creature who has attacked you is dead or you are. 
+
+___
+
+### Beasts Form
+
+Quest:
+
+Boon: At will take the form of a small to medium beast or animal for one hour, if you stay in your form for longer then that you must spend a LD to extend the time by one hour or lose yourself in the form and enter the wild as nothing more then a beast. You can spend a level die while transforming to give your beast form combat capabilities; gaining a d6 attack of your flavour.
+Any damage taken in beast form is applied to your HP and being reduced to 0 will force you out of the form.
+
+### Wild Shape
+
+Quest:
+
+Boon: When you use Beasts Form to transform you may stay in the form for two hours before needing to extend the time with LD. Additionally you can spend a level die entering your beast form to change togrant your beast an additional form of transportation; Fast running, swimming, flying, or burrowing.
 
 ___
 
