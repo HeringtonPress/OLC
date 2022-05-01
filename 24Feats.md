@@ -63,6 +63,7 @@ A Notch is a kill made with a weapon. Notches are collected per weapon type, for
 | Polearms         |     |     |     |     |
 | Whips            |     |     |     |     |
 
+___
 
 ### Berserk
 
