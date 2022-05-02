@@ -39,6 +39,12 @@ Boon: You gain 4 additional HP that ignores the max hp cap.
 
 ### Warlock pact
 
+
+### The Cursed
+Quest: Your bloodline is tainted, whether by witch or devil matters not. You bear that mark.
+Boon: Pick a feat from the Pact catagory to start with.
+
+
 ### Urchin (Stealth boost?)
 
 ___
@@ -77,14 +83,14 @@ ___
 
 Quest:
 
-Boon: At will take the form of a small to medium beast or animal for one hour, if you stay in your form for longer then that you must spend a LD to extend the time by one hour or lose yourself in the form and enter the wild as nothing more then a beast. You can spend a level die while transforming to give your beast form combat capabilities; gaining a d6 attack of your flavour.
+Boon: At will take the form of a small to medium beast or animal for 10 Minutes, if you stay in your form for longer then that you must spend a LD to extend the time by one hour or lose yourself in the form and enter the wild as nothing more then a beast. You can spend a level die while transforming to give your beast form combat capabilities; gaining a d6 attack of your flavour.
 Any damage taken in beast form is applied to your HP and being reduced to 0 will force you out of the form.
 
 ### Wild Shape
 
 Quest:
 
-Boon: When you use Beasts Form to transform you may stay in the form for two hours before needing to extend the time with LD. Additionally you can spend a level die entering your beast form to change togrant your beast an additional form of transportation; Fast running, swimming, flying, or burrowing.
+Boon: When you use Beasts Form to transform you may stay in the form for two hours before needing to extend the time with LD. Additionally you can spend a level die while entering your beast form to grant the form an additional mode of transportation; Fast running, swimming, flying, or burrowing.
 
 ___
 
@@ -147,3 +153,25 @@ ___
 Quest:
 
 Boon: Spending a level die, a creature you can see with levels of the bleed condition takes four times their current amount of bleed and loses all levels of the bleed condition.
+
+___
+
+## Pacts
+
+Night Hag
+Annis Hag
+Sea Hag
+Green Hag
+Bheur Hag
+
+Beast Witch
+Dream Witch
+Weather Witch
+Cauldron With
+___
+
+## Piety
+
+___
+
+## Schools of Magic
