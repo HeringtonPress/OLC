@@ -32,3 +32,7 @@ Armor Master: You have mastered wearing armor like a second skin. When wearing a
 
 Barfighter: You can select Improvised Weapons as a Weapon Group. You do not get to pick a Weapon to Master. Instead, when you attack with an improvised weapon you may make an additional attack with the same weapon as a free action.
 
+## How Magic Works
+
+## Make Kin Traits
+They are generic kin abilities that can be used to build your own kin fast.
